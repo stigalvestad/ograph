@@ -1,0 +1,20 @@
+# Routes
+# This file defines all application routes (Higher priority routes first)
+# ~~~~
+
+# Home page
+GET     /                           	@controllers.Application.index
+POST    /results/test                  	@controllers.Application.testRaceResult
+
+GET   	/runners/     					@controllers.RunnerController.query(searchTerm: Option[String])
+GET   	/runners/:eventorId/status     	@controllers.RunnerController.status(eventorId: String)
+GET   	/runners/:eventorId/results    	@controllers.RunnerController.results(eventorId: String)
+GET   	/runners/:eventorId/races    	@controllers.RunnerController.races(eventorId: String)
+
+
+
+POST	/job/:jobId/races/:raceEventorIds/update		@controllers.RunnerController.fetchRaceResults(raceEventorIds: String, jobId: String)
+GET   	/job/:jobId/status    	        @controllers.RunnerController.getJobStatus(jobId: String)
+
+# Map static resources from the /public folder to the /assets URL path
+GET     /assets/*file               controllers.Assets.at(path="/public", file)

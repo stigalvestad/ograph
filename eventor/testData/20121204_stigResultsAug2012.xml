@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ResultListList>
+	<ResultList>
+		<Event eventForm="IndSingleDay">
+			<EventId>939</EventId>
+			<Name languageId="sv">Norgescup sprint</Name>
+			<EventClassificationId>2</EventClassificationId>
+			<EventStatusId>9</EventStatusId>
+			<StartDate>
+				<Date>2012-08-18</Date>
+				<Clock>14:00:00</Clock>
+			</StartDate>
+			<FinishDate>
+				<Date>2012-08-18</Date>
+				<Clock>16:00:00</Clock>
+			</FinishDate>
+			<WebURL>http://klubbinfo.no/steinkjerok/nm-helg-2012.html</WebURL>
+			<Comment/>
+			<PunchingUnitType value="Emit"/>
+			<ModifyDate>
+				<Date>2012-08-18</Date>
+				<Clock>18:36:26</Clock>
+			</ModifyDate>
+			<ModifiedBy>
+				<PersonId type="nat" idManager="SWE">1817</PersonId>
+			</ModifiedBy>
+		</Event>
+		<ClassResult>
+			<EventClass lowAge="21" sequence="520" sex="M" numberInTeam="1" teamEntry="N" numberOfLegs="1" numberOfVacancies="0" maxNumberInClass="0" divideClassMethod="divideByClub" actualForRanking="N" timePresentation="Y" totalResult="Y" normalizedClass="Y" numberOfPrizes="0" allowEntryInAdvance="Y">
+				<EventClassId>7967</EventClassId>
+				<Name languageId="sv">H 21-E</Name>
+				<ClassShortName>H 21-E</ClassShortName>
+				<EventClassStatus value="normal"/>
+				<EventId>939</EventId>
+				<ClassTypeId>1</ClassTypeId>
+				<BaseClassId>52</BaseClassId>
+				<ModifyDate>
+					<Date>2012-08-17</Date>
+					<Clock>00:17:32</Clock>
+				</ModifyDate>
+				<ClassRaceInfo noOfEntries="40" noOfStarts="40">
+					<EventRaceId>945</EventRaceId>
+				</ClassRaceInfo>
+			</EventClass>
+			<PersonResult>
+				<Person sex="M">
+					<PersonName>
+						<Family>Alvestad</Family>
+						<Given sequence="1">Stig</Given>
+					</PersonName>
+					<PersonId type="nat" idManager="SWE">3351</PersonId>
+					<BirthDate>
+						<Date>1981-08-02</Date>
+					</BirthDate>
+				</Person>
+				<Organisation>
+					<OrganisationId>88</OrganisationId>
+					<Name languageId="sv">Ganddal IL</Name>
+					<ShortName languageId="sv">Ganddal IL</ShortName>
+				</Organisation>
+				<Result>
+					<ResultId>158299</ResultId>
+					<BibNumber>23</BibNumber>
+					<CCardId>174702</CCardId>
+					<StartTime>
+						<Date>2012-08-18</Date>
+						<Clock>15:22:00</Clock>
+					</StartTime>
+					<FinishTime>
+						<Date>2012-08-18</Date>
+						<Clock>15:38:19</Clock>
+					</FinishTime>
+					<Time>16:19</Time>
+					<TimeDiff>1:54</TimeDiff>
+					<ResultPosition>16</ResultPosition>
+					<CompetitorStatus value="OK"/>
+					<ModifyDate>
+						<Date>2012-08-18</Date>
+						<Clock>18:36:24</Clock>
+					</ModifyDate>
+					<ModifiedBy>
+						<PersonId type="nat" idManager="SWE">3351</PersonId>
+					</ModifiedBy>
+				</Result>
+			</PersonResult>
+		</ClassResult>
+	</ResultList>
+	<ResultList>
+		<Event eventForm="IndSingleDay">
+			<EventId>583</EventId>
+			<Name languageId="sv">NM Ultralang</Name>
+			<EventClassificationId>1</EventClassificationId>
+			<EventStatusId>9</EventStatusId>
+			<StartDate>
+				<Date>2012-08-19</Date>
+				<Clock>00:00:00</Clock>
+			</StartDate>
+			<FinishDate>
+				<Date>2012-08-19</Date>
+				<Clock>00:00:00</Clock>
+			</FinishDate>
+			<WebURL>http://klubbinfo.no/steinkjerok/nm-helg-2012.html</WebURL>
+			<Comment/>
+			<PunchingUnitType value="Emit"/>
+			<ModifyDate>
+				<Date>2012-08-20</Date>
+				<Clock>20:56:20</Clock>
+			</ModifyDate>
+			<ModifiedBy>
+				<PersonId type="nat" idManager="SWE">1817</PersonId>
+			</ModifiedBy>
+		</Event>
+		<ClassResult>
+			<EventClass lowAge="21" sequence="520" sex="M" numberInTeam="1" teamEntry="N" numberOfLegs="1" numberOfVacancies="0" maxNumberInClass="0" divideClassMethod="divideByClub" actualForRanking="N" timePresentation="Y" totalResult="Y" normalizedClass="Y" numberOfPrizes="0" allowEntryInAdvance="Y">
+				<EventClassId>7973</EventClassId>
+				<Name languageId="sv">H 21-E</Name>
+				<ClassShortName>H 21-E</ClassShortName>
+				<EventClassStatus value="normal"/>
+				<EventId>583</EventId>
+				<ClassTypeId>1</ClassTypeId>
+				<BaseClassId>52</BaseClassId>
+				<ModifyDate>
+					<Date>2012-08-20</Date>
+					<Clock>20:56:19</Clock>
+				</ModifyDate>
+				<ClassRaceInfo>
+					<EventRaceId>583</EventRaceId>
+				</ClassRaceInfo>
+			</EventClass>
+			<PersonResult>
+				<Person sex="M">
+					<PersonName>
+						<Family>Alvestad</Family>
+						<Given sequence="1">Stig</Given>
+					</PersonName>
+					<PersonId type="nat" idManager="SWE">3351</PersonId>
+					<BirthDate>
+						<Date>1981-08-02</Date>
+					</BirthDate>
+				</Person>
+				<Organisation>
+					<OrganisationId>88</OrganisationId>
+					<Name languageId="sv">Ganddal IL</Name>
+					<ShortName languageId="sv">Ganddal IL</ShortName>
+				</Organisation>
+				<Result>
+					<ResultId>158300</ResultId>
+					<BibNumber>36</BibNumber>
+					<CCardId>174702</CCardId>
+					<StartTime>
+						<Date>2012-08-19</Date>
+						<Clock>10:30:00</Clock>
+					</StartTime>
+					<FinishTime>
+						<Date>2012-08-19</Date>
+						<Clock>13:26:06</Clock>
+					</FinishTime>
+					<Time>176:06</Time>
+					<TimeDiff>24:41</TimeDiff>
+					<ResultPosition>13</ResultPosition>
+					<CompetitorStatus value="OK"/>
+					<ModifyDate>
+						<Date>2012-08-19</Date>
+						<Clock>15:21:04</Clock>
+					</ModifyDate>
+					<ModifiedBy>
+						<PersonId type="nat" idManager="SWE">3351</PersonId>
+					</ModifiedBy>
+				</Result>
+			</PersonResult>
+		</ClassResult>
+	</ResultList>
+	<ResultList>
+		<Event eventForm="IndSingleDay">
+			<EventId>587</EventId>
+			<Name languageId="sv">NM uka, kvalifisering mellomdistanse</Name>
+			<EventClassificationId>1</EventClassificationId>
+			<EventStatusId>9</EventStatusId>
+			<StartDate>
+				<Date>2012-09-14</Date>
+				<Clock>00:00:00</Clock>
+			</StartDate>
+			<FinishDate>
+				<Date>2012-09-14</Date>
+				<Clock>00:00:00</Clock>
+			</FinishDate>
+			<WebURL>http://o-nm2012.no/</WebURL>
+			<Comment/>
+			<PunchingUnitType value="Emit"/>
+			<ModifyDate>
+				<Date>2012-09-14</Date>
+				<Clock>17:50:16</Clock>
+			</ModifyDate>
+			<ModifiedBy>
+				<PersonId type="nat" idManager="SWE">1817</PersonId>
+			</ModifiedBy>
+		</Event>
+		<ClassResult>
+			<EventClass sequence="400" sex="M" numberInTeam="1" teamEntry="N" numberOfLegs="1" numberOfVacancies="0" maxNumberInClass="0" divideClassMethod="divideByClub" actualForRanking="N" timePresentation="Y" totalResult="Y" normalizedClass="Y" numberOfPrizes="0" allowEntryInAdvance="Y">
+				<EventClassId>16199</EventClassId>
+				<Name languageId="sv">H21_Heat_2</Name>
+				<ClassShortName>H21_Heat_2</ClassShortName>
+				<EventClassStatus value="normal"/>
+				<EventId>587</EventId>
+				<ClassTypeId>1</ClassTypeId>
+				<BaseClassId/>
+				<ExternalId>40</ExternalId>
+				<ModifyDate>
+					<Date>2012-09-12</Date>
+					<Clock>20:55:20</Clock>
+				</ModifyDate>
+				<ClassRaceInfo noOfEntries="34" noOfStarts="34">
+					<EventRaceId>587</EventRaceId>
+				</ClassRaceInfo>
+			</EventClass>
+			<PersonResult>
+				<Person sex="M">
+					<PersonName>
+						<Family>Alvestad</Family>
+						<Given sequence="1">Stig</Given>
+					</PersonName>
+					<PersonId type="nat" idManager="SWE">3351</PersonId>
+					<BirthDate>
+						<Date>1981-08-02</Date>
+					</BirthDate>
+				</Person>
+				<Organisation>
+					<OrganisationId>88</OrganisationId>
+					<Name languageId="sv">Ganddal IL</Name>
+					<ShortName languageId="sv">Ganddal IL</ShortName>
+				</Organisation>
+				<Result>
+					<ResultId>194681</ResultId>
+					<BibNumber>524</BibNumber>
+					<StartTime>
+						<Date>2012-09-14</Date>
+						<Clock>16:10:00</Clock>
+					</StartTime>
+					<FinishTime>
+						<Date>2012-09-14</Date>
+						<Clock>16:33:08</Clock>
+					</FinishTime>
+					<Time>23:08</Time>
+					<TimeDiff>3:00</TimeDiff>
+					<ResultPosition>11</ResultPosition>
+					<CompetitorStatus value="OK"/>
+					<ModifyDate>
+						<Date>2012-09-14</Date>
+						<Clock>17:50:13</Clock>
+					</ModifyDate>
+				</Result>
+			</PersonResult>
+		</ClassResult>
+	</ResultList>
+	<ResultList>
+		<Event eventForm="IndSingleDay">
+			<EventId>588</EventId>
+			<Name languageId="sv">NM uka, mellomdistanse, finaler</Name>
+			<EventClassificationId>1</EventClassificationId>
+			<EventStatusId>9</EventStatusId>
+			<StartDate>
+				<Date>2012-09-15</Date>
+				<Clock>00:00:00</Clock>
+			</StartDate>
+			<FinishDate>
+				<Date>2012-09-15</Date>
+				<Clock>00:00:00</Clock>
+			</FinishDate>
+			<WebURL>http://o-nm2012.no/</WebURL>
+			<Comment/>
+			<PunchingUnitType value="Emit"/>
+			<ModifyDate>
+				<Date>2012-09-15</Date>
+				<Clock>21:56:59</Clock>
+			</ModifyDate>
+			<ModifiedBy>
+				<PersonId type="nat" idManager="SWE">1817</PersonId>
+			</ModifiedBy>
+		</Event>
+		<ClassResult>
+			<EventClass sequence="360" sex="F" numberInTeam="1" teamEntry="N" numberOfLegs="1" numberOfVacancies="0" maxNumberInClass="0" divideClassMethod="divideByClub" actualForRanking="N" timePresentation="Y" totalResult="Y" normalizedClass="Y" numberOfPrizes="0" allowEntryInAdvance="Y">
+				<EventClassId>16382</EventClassId>
+				<Name languageId="sv">H21_Finale </Name>
+				<ClassShortName>H21</ClassShortName>
+				<EventClassStatus value="normal"/>
+				<EventId>588</EventId>
+				<ClassTypeId>1</ClassTypeId>
+				<BaseClassId/>
+				<ExternalId>36</ExternalId>
+				<ModifyDate>
+					<Date>2012-09-15</Date>
+					<Clock>21:56:27</Clock>
+				</ModifyDate>
+				<ClassRaceInfo noOfEntries="48" noOfStarts="48">
+					<EventRaceId>588</EventRaceId>
+				</ClassRaceInfo>
+			</EventClass>
+			<PersonResult>
+				<Person sex="M">
+					<PersonName>
+						<Family>Alvestad</Family>
+						<Given sequence="1">Stig</Given>
+					</PersonName>
+					<PersonId type="nat" idManager="SWE">3351</PersonId>
+					<BirthDate>
+						<Date>1981-08-02</Date>
+					</BirthDate>
+				</Person>
+				<Organisation>
+					<OrganisationId>88</OrganisationId>
+					<Name languageId="sv">Ganddal Il</Name>
+					<ShortName languageId="sv">Ganddal Il</ShortName>
+				</Organisation>
+				<Result>
+					<ResultId>196592</ResultId>
+					<BibNumber>6</BibNumber>
+					<StartTime>
+						<Date>2012-09-15</Date>
+						<Clock>12:21:00</Clock>
+					</StartTime>
+					<FinishTime>
+						<Date>2012-09-15</Date>
+						<Clock>12:58:58</Clock>
+					</FinishTime>
+					<Time>37:58</Time>
+					<TimeDiff>4:21</TimeDiff>
+					<ResultPosition>26</ResultPosition>
+					<CompetitorStatus value="OK"/>
+					<ModifyDate>
+						<Date>2012-09-15</Date>
+						<Clock>21:56:57</Clock>
+					</ModifyDate>
+				</Result>
+			</PersonResult>
+		</ClassResult>
+	</ResultList>
+</ResultListList>

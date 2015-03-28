@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ResultListList>
+	<ResultList>
+		<Event eventForm="IndMultiDay">
+			<EventId>1400</EventId>
+			<Name languageId="sv">BSC sammenlagtresultater</Name>
+			<EventClassificationId>4</EventClassificationId>
+			<EventStatusId>9</EventStatusId>
+			<StartDate>
+				<Date>2012-01-27</Date>
+				<Clock>18:00:00</Clock>
+			</StartDate>
+			<FinishDate>
+				<Date>2012-01-29</Date>
+				<Clock>00:00:00</Clock>
+			</FinishDate>
+			<Comment/>
+			<PunchingUnitType value="Emit"/>
+			<ModifyDate>
+				<Date>2012-01-28</Date>
+				<Clock>12:16:47</Clock>
+			</ModifyDate>
+			<ModifiedBy>
+				<PersonId type="nat" idManager="SWE">1163</PersonId>
+			</ModifiedBy>
+		</Event>
+		<ClassResult>
+			<EventClass lowAge="0" highAge="99" sex="F" numberInTeam="1" teamEntry="N" numberOfLegs="1" numberOfVacancies="0" maxNumberInClass="0" divideClassMethod="divideByClub" actualForRanking="N" timePresentation="Y" totalResult="Y" normalizedClass="Y" numberOfPrizes="0" allowEntryInAdvance="Y">
+				<EventClassId>5786</EventClassId>
+				<Name languageId="sv">Damer</Name>
+				<ClassShortName>D</ClassShortName>
+				<EventClassStatus value="normal"/>
+				<EventId>1400</EventId>
+				<ClassTypeId>2</ClassTypeId>
+				<BaseClassId/>
+				<ExternalId>2</ExternalId>
+				<ModifyDate>
+					<Date>2012-01-26</Date>
+					<Clock>23:14:29</Clock>
+				</ModifyDate>
+				<ClassRaceInfo>
+					<EventRaceId>1452</EventRaceId>
+				</ClassRaceInfo>
+				<ClassRaceInfo>
+					<EventRaceId>1450</EventRaceId>
+				</ClassRaceInfo>
+				<ClassRaceInfo noOfEntries="70" noOfStarts="7">
+					<EventRaceId>1453</EventRaceId>
+				</ClassRaceInfo>
+				<ClassRaceInfo noOfEntries="63" noOfStarts="63">
+					<EventRaceId>1451</EventRaceId>
+				</ClassRaceInfo>
+			</EventClass>
+			<PersonResult>
+				<Person sex="F">
+					<PersonName>
+						<Family>Brekken</Family>
+						<Given sequence="1">Torill</Given>
+					</PersonName>
+					<PersonId type="nat" idManager="SWE">3466</PersonId>
+					<BirthDate>
+						<Date>1995-01-21</Date>
+					</BirthDate>
+				</Person>
+				<Organisation>
+					<OrganisationId>88</OrganisationId>
+					<Name languageId="sv">Ganddal IL</Name>
+					<ShortName languageId="sv">Ganddal IL</ShortName>
+					<Country>
+						<CountryId value="578"/>
+						<Alpha2 value="NO"/>
+						<Alpha3 value="NOR"/>
+						<Name languageId="sv">Norge</Name>
+						<Name languageId="en">Norway</Name>
+						<ModifyDate>
+							<Date>2009-10-27</Date>
+							<Clock>21:55:12</Clock>
+						</ModifyDate>
+					</Country>
+				</Organisation>
+				<RaceResult>
+					<EventRace raceLightCondition="Night" raceDistance="Sprint">
+						<EventRaceId>1453</EventRaceId>
+						<EventId>1400</EventId>
+						<Name languageId="sv">Nattsprint</Name>
+						<RaceDate>
+							<Date>2012-01-27</Date>
+							<Clock>18:00:00</Clock>
+						</RaceDate>
+						<EventCenterPosition x="5.33029" y="60.39533"/>
+						<ModifyDate>
+							<Date>2012-01-28</Date>
+							<Clock>12:16:47</Clock>
+						</ModifyDate>
+						<ModifiedBy>
+							<PersonId type="nat" idManager="SWE">1163</PersonId>
+						</ModifiedBy>
+					</EventRace>
+					<Result>
+						<ResultId>62065</ResultId>
+						<FinishTime/>
+						<Time>0:00</Time>
+						<CompetitorStatus value="Active"/>
+						<ModifyDate>
+							<Date>2012-01-27</Date>
+							<Clock>22:18:58</Clock>
+						</ModifyDate>
+					</Result>
+				</RaceResult>
+			</PersonResult>
+			<PersonResult>
+				<Person sex="F">
+					<PersonName>
+						<Family>Haare</Family>
+						<Given sequence="1">Therese</Given>
+					</PersonName>
+					<PersonId type="nat" idManager="SWE">1449</PersonId>
+					<BirthDate>
+						<Date>1991-04-23</Date>
+					</BirthDate>
+				</Person>
+				<Organisation>
+					<OrganisationId>185</OrganisationId>
+					<Name languageId="sv">Konnerud IL</Name>
+					<ShortName languageId="sv">Konnerud IL</ShortName>
+					<Country>
+						<CountryId value="578"/>
+						<Alpha2 value="NO"/>
+						<Alpha3 value="NOR"/>
+						<Name languageId="sv">Norge</Name>
+						<Name languageId="en">Norway</Name>
+						<ModifyDate>
+							<Date>2009-10-27</Date>
+							<Clock>21:55:12</Clock>
+						</ModifyDate>
+					</Country>
+				</Organisation>
+				<RaceResult>
+					<EventRace raceLightCondition="Day" raceDistance="Sprint">
+						<EventRaceId>1451</EventRaceId>
+						<EventId>1400</EventId>
+						<Name languageId="sv">Sentrumssprint</Name>
+						<RaceDate>
+							<Date>2012-01-28</Date>
+							<Clock>09:30:00</Clock>
+						</RaceDate>
+						<EventCenterPosition x="5.32446" y="60.3916"/>
+						<ModifyDate>
+							<Date>2012-01-28</Date>
+							<Clock>12:16:47</Clock>
+						</ModifyDate>
+						<ModifiedBy>
+							<PersonId type="nat" idManager="SWE">1163</PersonId>
+						</ModifiedBy>
+					</EventRace>
+					<Result>
+						<ResultId>62287</ResultId>
+						<StartTime>
+							<Date>2012-01-30</Date>
+							<Clock>10:36:25</Clock>
+						</StartTime>
+						<FinishTime>
+							<Date>2012-01-30</Date>
+							<Clock>10:48:36</Clock>
+						</FinishTime>
+						<Time>12:11</Time>
+						<ResultPosition>1</ResultPosition>
+						<CompetitorStatus value="OK"/>
+						<ModifyDate>
+							<Date>2012-01-28</Date>
+							<Clock>12:16:44</Clock>
+						</ModifyDate>
+					</Result>
+				</RaceResult>
+			</PersonResult>
+			<PersonResult>
+				<Person sex="F">
+					<PersonName>
+						<Family>Narum</Family>
+						<Given sequence="1">Marte</Given>
+					</PersonName>
+					<PersonId type="nat" idManager="SWE">2895</PersonId>
+					<BirthDate>
+						<Date>1992-12-27</Date>
+					</BirthDate>
+				</Person>
+				<Organisation>
+					<OrganisationId>265</OrganisationId>
+					<Name languageId="sv">OL Vallset/Stange</Name>
+					<ShortName languageId="sv">OL Vallset/Stange</ShortName>
+					<Country>
+						<CountryId value="578"/>
+						<Alpha2 value="NO"/>
+						<Alpha3 value="NOR"/>
+						<Name languageId="sv">Norge</Name>
+						<Name languageId="en">Norway</Name>
+						<ModifyDate>
+							<Date>2009-10-27</Date>
+							<Clock>21:55:12</Clock>
+						</ModifyDate>
+					</Country>
+				</Organisation>
+				<RaceResult>
+					<EventRace raceLightCondition="Day" raceDistance="Sprint">
+						<EventRaceId>1451</EventRaceId>
+						<EventId>1400</EventId>
+						<Name languageId="sv">Sentrumssprint</Name>
+						<RaceDate>
+							<Date>2012-01-28</Date>
+							<Clock>09:30:00</Clock>
+						</RaceDate>
+						<EventCenterPosition x="5.32446" y="60.3916"/>
+						<ModifyDate>
+							<Date>2012-01-28</Date>
+							<Clock>12:16:47</Clock>
+						</ModifyDate>
+						<ModifiedBy>
+							<PersonId type="nat" idManager="SWE">1163</PersonId>
+						</ModifiedBy>
+					</EventRace>
+					<Result>
+						<ResultId>62288</ResultId>
+						<StartTime>
+							<Date>2012-01-30</Date>
+							<Clock>10:59:30</Clock>
+						</StartTime>
+						<FinishTime>
+							<Date>2012-01-30</Date>
+							<Clock>11:12:00</Clock>
+						</FinishTime>
+						<Time>12:30</Time>
+						<TimeDiff>0:19</TimeDiff>
+						<ResultPosition>2</ResultPosition>
+						<CompetitorStatus value="OK"/>
+						<ModifyDate>
+							<Date>2012-01-28</Date>
+							<Clock>12:16:44</Clock>
+						</ModifyDate>
+					</Result>
+				</RaceResult>
+			</PersonResult>
+			<PersonResult>
+				<Person sex="F">
+					<PersonName>
+						<Family>Myhre</Family>
+						<Given sequence="1">Ingjerd</Given>
+					</PersonName>
+					<PersonId type="nat" idManager="SWE">2862</PersonId>
+					<BirthDate>
+						<Date>1992-02-24</Date>
+					</BirthDate>
+				</Person>
+				<Organisation>
+					<OrganisationId>184</OrganisationId>
+					<Name languageId="sv">Kongsberg OL</Name>
+					<ShortName languageId="sv">Kongsberg OL</ShortName>
+					<Country>
+						<CountryId value="578"/>
+						<Alpha2 value="NO"/>
+						<Alpha3 value="NOR"/>
+						<Name languageId="sv">Norge</Name>
+						<Name languageId="en">Norway</Name>
+						<ModifyDate>
+							<Date>2009-10-27</Date>
+							<Clock>21:55:12</Clock>
+						</ModifyDate>
+					</Country>
+				</Organisation>
+				<RaceResult>
+					<EventRace raceLightCondition="Day" raceDistance="Sprint">
+						<EventRaceId>1451</EventRaceId>
+						<EventId>1400</EventId>
+						<Name languageId="sv">Sentrumssprint</Name>
+						<RaceDate>
+							<Date>2012-01-28</Date>
+							<Clock>09:30:00</Clock>
+						</RaceDate>
+						<EventCenterPosition x="5.32446" y="60.3916"/>
+						<ModifyDate>
+							<Date>2012-01-28</Date>
+							<Clock>12:16:47</Clock>
+						</ModifyDate>
+						<ModifiedBy>
+							<PersonId type="nat" idManager="SWE">1163</PersonId>
+						</ModifiedBy>
+					</EventRace>
+					<Result>
+						<ResultId>62289</ResultId>
+						<StartTime>
+							<Date>2012-01-30</Date>
+							<Clock>11:01:31</Clock>
+						</StartTime>
+						<FinishTime>
+							<Date>2012-01-30</Date>
+							<Clock>11:14:03</Clock>
+						</FinishTime>
+						<Time>12:32</Time>
+						<TimeDiff>0:21</TimeDiff>
+						<ResultPosition>3</ResultPosition>
+						<CompetitorStatus value="OK"/>
+						<ModifyDate>
+							<Date>2012-01-28</Date>
+							<Clock>12:16:44</Clock>
+						</ModifyDate>
+					</Result>
+				</RaceResult>
+			</PersonResult>
+		</ClassResult>
+	</ResultList>
+</ResultListList>

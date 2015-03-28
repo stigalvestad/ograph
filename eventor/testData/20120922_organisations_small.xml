@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<OrganisationList>
+  <Organisation>
+    <OrganisationId>1</OrganisationId>
+    <Name languageId="sv">IOF</Name>
+    <ShortName languageId="sv">IOF</ShortName>
+    <OrganisationTypeId>5</OrganisationTypeId>
+    <CountryId value="578"/>
+    <ParentOrganisation>
+      <OrganisationId>0</OrganisationId>
+    </ParentOrganisation>
+    <ModifyDate>
+      <Date>2011-02-02</Date>
+      <Clock>10:10:30</Clock>
+    </ModifyDate>
+  </Organisation>
+  <Organisation>
+    <OrganisationId>2</OrganisationId>
+    <Name languageId="sv">Norges Orienteringsforbund</Name>
+    <ShortName languageId="sv">Norges Orienteringsforbund</ShortName>
+    <OrganisationTypeId>1</OrganisationTypeId>
+    <CountryId value="578"/>
+    <ParentOrganisation>
+      <OrganisationId>1</OrganisationId>
+    </ParentOrganisation>
+    <ModifyDate>
+      <Date>2011-02-02</Date>
+      <Clock>10:10:30</Clock>
+    </ModifyDate>
+  </Organisation>
+  <Organisation>
+    <OrganisationId>6</OrganisationId>
+    <Name languageId="sv">Finnmark</Name>
+    <ShortName languageId="sv">Finnmark</ShortName>
+    <OrganisationTypeId>2</OrganisationTypeId>
+    <CountryId value="578"/>
+    <ParentOrganisation>
+      <OrganisationId>2</OrganisationId>
+    </ParentOrganisation>
+    <ModifyDate>
+      <Date>2011-02-02</Date>
+      <Clock>10:10:30</Clock>
+    </ModifyDate>
+  </Organisation>
+  <Organisation>
+    <OrganisationId>21</OrganisationId>
+    <Name languageId="sv">Alta ØL</Name>
+    <ShortName languageId="sv">Alta OL</ShortName>
+    <OrganisationTypeId>3</OrganisationTypeId>
+    <CountryId value="578"/>
+    <Address careOf="Andreas Foss Westgaard" street="Myrullveien 48 B" city="Alta" zipCode="9516">
+      <AddressType value="official"/>
+      <Country>
+        <CountryId value="578"/>
+        <Alpha2 value="NO"/>
+        <Alpha3 value="NOR"/>
+        <Name languageId="sv">Norge</Name>
+        <Name languageId="en">Norway</Name>
+        <ModifyDate>
+          <Date>2009-10-27</Date>
+          <Clock>21:55:12</Clock>
+        </ModifyDate>
+      </Country>
+      <ModifyDate>
+        <Date>2011-07-13</Date>
+        <Clock>15:28:40</Clock>
+      </ModifyDate>
+    </Address>
+    <Tele phoneNumber="91328270" mailAddress="andreasfw@gmail.com">
+      <TeleType value="official"/>
+      <ModifyDate>
+        <Date>2011-07-13</Date>
+        <Clock>15:28:39</Clock>
+      </ModifyDate>
+    </Tele>
+    <ParentOrganisation>
+      <OrganisationId>6</OrganisationId>
+    </ParentOrganisation>
+    <ModifyDate>
+      <Date>2011-07-13</Date>
+      <Clock>15:28:40</Clock>
+    </ModifyDate>
+  </Organisation>
+</OrganisationList>

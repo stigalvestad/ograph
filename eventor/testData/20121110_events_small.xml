@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<EventList>
+    <Event eventForm="IndSingleDay">
+        <EventId>468</EventId>
+        <Name languageId="sv">Veteranmesterskapet</Name>
+        <EventClassificationId>2</EventClassificationId>
+        <EventStatusId>9</EventStatusId>
+        <DisciplineId>1</DisciplineId>
+        <StartDate>
+            <Date>2012-09-08</Date>
+            <Clock>13:00:00</Clock>
+        </StartDate>
+        <FinishDate>
+            <Date>2012-09-08</Date>
+            <Clock>13:00:00</Clock>
+        </FinishDate>
+        <AlternativeDates>
+            <Sequence>1</Sequence>
+            <StartDate>
+                <Date>2012-09-08</Date>
+                <Clock>00:00:00</Clock>
+            </StartDate>
+            <FinishDate>
+                <Date>2012-09-08</Date>
+                <Clock>00:00:00</Clock>
+            </FinishDate>
+            <ModifyDate>
+                <Date>2012-09-09</Date>
+                <Clock>18:31:24</Clock>
+            </ModifyDate>
+        </AlternativeDates>
+        <Organiser>
+            <OrganisationId>252</OrganisationId>
+        </Organiser>
+        <ClassTypeId>2</ClassTypeId>
+        <EventRace raceLightCondition="Day" raceDistance="Long">
+            <EventRaceId>468</EventRaceId>
+            <EventId>468</EventId>
+            <Name />
+            <RaceDate>
+                <Date>2012-09-08</Date>
+                <Clock>13:00:00</Clock>
+            </RaceDate>
+            <EventCenterPosition x="10.94087" y="59.47707" />
+            <ModifyDate>
+                <Date>2012-09-09</Date>
+                <Clock>18:31:23</Clock>
+            </ModifyDate>
+            <ModifiedBy>
+                <PersonId type="nat" idManager="SWE">79</PersonId>
+            </ModifiedBy>
+        </EventRace>
+        <WebURL>http://www.ok-moss.no/vm2012/public/</WebURL>
+        <Comment />
+        <PunchingUnitType value="Emit" />
+        <ModifyDate>
+            <Date>2012-09-09</Date>
+            <Clock>18:31:24</Clock>
+        </ModifyDate>
+        <ModifiedBy>
+            <PersonId type="nat" idManager="SWE">79</PersonId>
+        </ModifiedBy>
+        <HashTableEntry entity="Events" id="468">
+            <Key>startList_468</Key>
+            <Value>2012-09-07 12:17:20</Value>
+            <ModifyDate>
+                <Date>2012-09-07</Date>
+                <Clock>12:17:20</Clock>
+            </ModifyDate>
+        </HashTableEntry>
+        <HashTableEntry entity="Events" id="468">
+            <Key>officialResult_468</Key>
+            <Value>2012-09-09 18:31:21</Value>
+            <ModifyDate>
+                <Date>2012-09-09</Date>
+                <Clock>18:31:21</Clock>
+            </ModifyDate>
+        </HashTableEntry>
+        <HashTableEntry entity="Events" id="468">
+            <Key>Eventor_ConsultationPerformed</Key>
+            <Value>1</Value>
+            <ModifyDate>
+                <Date>2012-05-30</Date>
+                <Clock>22:39:15</Clock>
+            </ModifyDate>
+        </HashTableEntry>
+    </Event>
+    <Event eventForm="IndSingleDay">
+        <EventId>469</EventId>
+        <Name languageId="sv">Veteranmesterskapet</Name>
+        <EventClassificationId>2</EventClassificationId>
+        <EventStatusId>9</EventStatusId>
+        <DisciplineId>1</DisciplineId>
+        <StartDate>
+            <Date>2012-09-09</Date>
+            <Clock>11:00:00</Clock>
+        </StartDate>
+        <FinishDate>
+            <Date>2012-09-09</Date>
+            <Clock>11:00:00</Clock>
+        </FinishDate>
+        <AlternativeDates>
+            <Sequence>1</Sequence>
+            <StartDate>
+                <Date>2012-09-09</Date>
+                <Clock>00:00:00</Clock>
+            </StartDate>
+            <FinishDate>
+                <Date>2012-09-09</Date>
+                <Clock>00:00:00</Clock>
+            </FinishDate>
+            <ModifyDate>
+                <Date>2012-09-09</Date>
+                <Clock>16:39:16</Clock>
+            </ModifyDate>
+        </AlternativeDates>
+        <Organiser>
+            <OrganisationId>252</OrganisationId>
+        </Organiser>
+        <ClassTypeId>2</ClassTypeId>
+        <EventRace raceLightCondition="Day" raceDistance="Middle">
+            <EventRaceId>469</EventRaceId>
+            <EventId>469</EventId>
+            <Name />
+            <RaceDate>
+                <Date>2012-09-09</Date>
+                <Clock>11:00:00</Clock>
+            </RaceDate>
+            <EventCenterPosition x="10.94076" y="59.47707" />
+            <ModifyDate>
+                <Date>2012-09-09</Date>
+                <Clock>16:39:16</Clock>
+            </ModifyDate>
+            <ModifiedBy>
+                <PersonId type="nat" idManager="SWE">79</PersonId>
+            </ModifiedBy>
+        </EventRace>
+        <WebURL>http://www.ok-moss.no/vm2012/public/</WebURL>
+        <Comment />
+        <PunchingUnitType value="Emit" />
+        <ModifyDate>
+            <Date>2012-09-09</Date>
+            <Clock>16:39:16</Clock>
+        </ModifyDate>
+        <ModifiedBy>
+            <PersonId type="nat" idManager="SWE">79</PersonId>
+        </ModifiedBy>
+        <HashTableEntry entity="Events" id="469">
+            <Key>startList_469</Key>
+            <Value>2012-09-07 12:26:34</Value>
+            <ModifyDate>
+                <Date>2012-09-07</Date>
+                <Clock>12:26:34</Clock>
+            </ModifyDate>
+        </HashTableEntry>
+        <HashTableEntry entity="Events" id="469">
+            <Key>officialResult_469</Key>
+            <Value>2012-09-09 16:39:13</Value>
+            <ModifyDate>
+                <Date>2012-09-09</Date>
+                <Clock>16:39:13</Clock>
+            </ModifyDate>
+        </HashTableEntry>
+        <HashTableEntry entity="Events" id="469">
+            <Key>Eventor_ConsultationPerformed</Key>
+            <Value>1</Value>
+            <ModifyDate>
+                <Date>2012-05-30</Date>
+                <Clock>22:39:51</Clock>
+            </ModifyDate>
+        </HashTableEntry>
+    </Event>
+</EventList>    

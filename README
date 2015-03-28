@@ -1,0 +1,41 @@
+README
+=================================
+
+This file will be packaged with your application, when using `activator dist`.
+
+Dependencies configuration
+---------------------------
+
+build.sbt:                  Specifies scala version
+                            Play scala plugin
+                            libraries the application depends on
+
+conf/play.plugins:          Play plugin reactive mongo
+bower.json:                 js and css libraries
+package.json:               nodejs dependencies
+project/build.properties:   Define sbt version
+project/plugins.sbt:        SBT plugins, mainly play sbt plugin
+
+How to setup with heroku:
+---------------------------
+
+from root directory of this project
+
+    heroku create
+
+set correct buildpack since auto-detection on heroku will select Nodejs buildpack
+
+    heroku buildpack:set https://github.com/heroku/heroku-buildpack-scala
+
+push code
+
+    git push heroku master
+
+choose addon for mongodb
+
+    heroku addons:add mongolab:sandbox
+
+obtain property value
+
+    heroku config
+

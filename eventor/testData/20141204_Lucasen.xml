@@ -1,0 +1,2642 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResultListList>
+   <ResultList>
+      <Event eventForm="IndSingleDay">
+         <EventId>2115</EventId>
+         <Name languageId="sv">NM ultralang</Name>
+         <EventClassificationId>1</EventClassificationId>
+         <EventStatusId>11</EventStatusId>
+         <StartDate>
+            <Date>2014-08-02</Date>
+            <Clock>09:00:00</Clock>
+         </StartDate>
+         <FinishDate>
+            <Date>2014-08-02</Date>
+            <Clock>09:00:00</Clock>
+         </FinishDate>
+         <Organiser>
+            <OrganisationId>87</OrganisationId>
+         </Organiser>
+         <WebURL>http://nmultra2014.no</WebURL>
+         <Comment />
+         <PunchingUnitType value="Emit" />
+         <ModifyDate>
+            <Date>2014-08-05</Date>
+            <Clock>08:15:10</Clock>
+         </ModifyDate>
+         <ModifiedBy>
+            <PersonId idManager="SWE" type="nat">1823</PersonId>
+         </ModifiedBy>
+      </Event>
+      <ClassResult>
+         <EventClass allowEntryInAdvance="Y" numberOfPrizes="0" normalizedClass="Y" totalResult="Y" timePresentation="Y" actualForRanking="N" divideClassMethod="divideByClub" maxNumberInClass="0" numberOfVacancies="0" numberOfLegs="1" teamEntry="N" numberInTeam="1" sex="M" sequence="520" lowAge="21">
+            <EventClassId>30383</EventClassId>
+            <Name languageId="sv">H 21-E</Name>
+            <ClassShortName>H 21-E</ClassShortName>
+            <EventClassStatus value="normal" />
+            <EventId>2115</EventId>
+            <ClassTypeId>1</ClassTypeId>
+            <BaseClassId>52</BaseClassId>
+            <ModifyDate>
+               <Date>2014-08-01</Date>
+               <Clock>14:58:52</Clock>
+            </ModifyDate>
+            <ClassRaceInfo noOfStarts="42" noOfEntries="42">
+               <EventRaceId>2205</EventRaceId>
+               <CourseLength>23600.0</CourseLength>
+            </ClassRaceInfo>
+         </EventClass>
+         <PersonResult>
+            <Person sex="M">
+               <PersonName>
+                  <Family>Omdal</Family>
+                  <Given sequence="1">Hans Gunnar</Given>
+               </PersonName>
+               <PersonId idManager="SWE" type="nat">2610</PersonId>
+               <BirthDate>
+                  <Date>1977-09-14</Date>
+               </BirthDate>
+               <Nationality>
+                  <Country>
+                     <CountryId value="578" />
+                     <Alpha2 value="NO" />
+                     <Alpha3 value="NOR" />
+                  </Country>
+               </Nationality>
+            </Person>
+            <Organisation>
+               <OrganisationId>189</OrganisationId>
+               <Name languageId="sv">Kristiansand OK</Name>
+               <ShortName languageId="sv">Kristiansand OK</ShortName>
+            </Organisation>
+            <Result>
+               <ResultId>604153</ResultId>
+               <BibNumber>54</BibNumber>
+               <StartTime>
+                  <Date>2014-08-02</Date>
+                  <Clock>11:39:00</Clock>
+               </StartTime>
+               <FinishTime>
+                  <Date>2014-08-02</Date>
+                  <Clock>14:29:26</Clock>
+               </FinishTime>
+               <Time>170:26</Time>
+               <TimeDiff>0:00</TimeDiff>
+               <ResultPosition>1</ResultPosition>
+               <CompetitorStatus value="OK" />
+               <ModifyDate>
+                  <Date>2014-08-02</Date>
+                  <Clock>16:22:04</Clock>
+               </ModifyDate>
+               <ModifiedBy>
+                  <PersonId idManager="SWE" type="nat">2610</PersonId>
+               </ModifiedBy>
+            </Result>
+         </PersonResult>
+         <PersonResult>
+            <Person sex="M">
+               <PersonName>
+                  <Family>Millegård</Family>
+                  <Given sequence="1">Marcus</Given>
+               </PersonName>
+               <PersonId idManager="SWE" type="nat">6538</PersonId>
+               <BirthDate>
+                  <Date>1985-02-16</Date>
+               </BirthDate>
+               <Nationality>
+                  <Country>
+                     <CountryId value="752" />
+                     <Alpha2 value="SE" />
+                     <Alpha3 value="SWE" />
+                  </Country>
+               </Nationality>
+            </Person>
+            <Organisation>
+               <OrganisationId>101</OrganisationId>
+               <Name languageId="sv">Halden SK</Name>
+               <ShortName languageId="sv">Halden SK</ShortName>
+            </Organisation>
+            <Result>
+               <ResultId>592888</ResultId>
+               <BibNumber>45</BibNumber>
+               <StartTime>
+                  <Date>2014-08-02</Date>
+                  <Clock>11:12:00</Clock>
+               </StartTime>
+               <FinishTime>
+                  <Date>2014-08-02</Date>
+                  <Clock>14:05:05</Clock>
+               </FinishTime>
+               <Time>173:05</Time>
+               <TimeDiff>2:39</TimeDiff>
+               <ResultPosition>2</ResultPosition>
+               <CompetitorStatus value="OK" />
+               <ModifyDate>
+                  <Date>2014-08-02</Date>
+                  <Clock>16:22:04</Clock>
+               </ModifyDate>
+               <ModifiedBy>
+                  <PersonId idManager="SWE" type="nat">6538</PersonId>
+               </ModifiedBy>
+            </Result>
+         </PersonResult>
+         <PersonResult>
+            <Person sex="M">
+               <PersonName>
+                  <Family>Johansson</Family>
+                  <Given sequence="1">Martin</Given>
+               </PersonName>
+               <PersonId idManager="SWE" type="nat">13196</PersonId>
+               <BirthDate>
+                  <Date>1984-09-26</Date>
+               </BirthDate>
+               <Nationality>
+                  <Country>
+                     <CountryId value="752" />
+                     <Alpha2 value="SE" />
+                     <Alpha3 value="SWE" />
+                  </Country>
+               </Nationality>
+            </Person>
+            <Organisation>
+               <OrganisationId>163</OrganisationId>
+               <Name languageId="sv">IL Tyrving</Name>
+               <ShortName languageId="sv">IL Tyrving</ShortName>
+            </Organisation>
+            <Result>
+               <ResultId>607210</ResultId>
+               <BibNumber>35</BibNumber>
+               <StartTime>
+                  <Date>2014-08-02</Date>
+                  <Clock>10:42:00</Clock>
+               </StartTime>
+               <FinishTime>
+                  <Date>2014-08-02</Date>
+                  <Clock>13:40:22</Clock>
+               </FinishTime>
+               <Time>178:22</Time>
+               <TimeDiff>7:56</TimeDiff>
+               <ResultPosition>3</ResultPosition>
+               <CompetitorStatus value="OK" />
+               <ModifyDate>
+                  <Date>2014-08-02</Date>
+                  <Clock>16:22:05</Clock>
+               </ModifyDate>
+               <ModifiedBy>
+                  <PersonId idManager="SWE" type="nat">13196</PersonId>
+               </ModifiedBy>
+            </Result>
+         </PersonResult>
+         <PersonResult>
+            <Person sex="M">
+               <PersonName>
+                  <Family>Lucasen</Family>
+                  <Given sequence="1">Håvard</Given>
+               </PersonName>
+               <PersonId idManager="SWE" type="nat">479</PersonId>
+               <BirthDate>
+                  <Date>1982-07-07</Date>
+               </BirthDate>
+               <Nationality>
+                  <Country>
+                     <CountryId value="578" />
+                     <Alpha2 value="NO" />
+                     <Alpha3 value="NOR" />
+                  </Country>
+               </Nationality>
+            </Person>
+            <Organisation>
+               <OrganisationId>402</OrganisationId>
+               <Name languageId="sv">Ås-NMBU Orientering</Name>
+               <ShortName languageId="sv">Ås-NMBU Orientering</ShortName>
+            </Organisation>
+            <Result>
+               <ResultId>529672</ResultId>
+               <BibNumber>56</BibNumber>
+               <StartTime>
+                  <Date>2014-08-02</Date>
+                  <Clock>11:45:00</Clock>
+               </StartTime>
+               <FinishTime>
+                  <Date>2014-08-02</Date>
+                  <Clock>14:47:03</Clock>
+               </FinishTime>
+               <Time>182:03</Time>
+               <TimeDiff>11:37</TimeDiff>
+               <ResultPosition>5</ResultPosition>
+               <CompetitorStatus value="OK" />
+               <ModifyDate>
+                  <Date>2014-08-02</Date>
+                  <Clock>16:22:05</Clock>
+               </ModifyDate>
+               <ModifiedBy>
+                  <PersonId idManager="SWE" type="nat">479</PersonId>
+               </ModifiedBy>
+            </Result>
+         </PersonResult>
+      </ClassResult>
+   </ResultList>
+   <ResultList>
+      <Event eventForm="IndSingleDay">
+         <EventId>3334</EventId>
+         <Name languageId="sv">NM natt</Name>
+         <EventClassificationId>1</EventClassificationId>
+         <EventStatusId>11</EventStatusId>
+         <StartDate>
+            <Date>2014-09-05</Date>
+            <Clock>00:00:00</Clock>
+         </StartDate>
+         <FinishDate>
+            <Date>2014-09-05</Date>
+            <Clock>00:00:00</Clock>
+         </FinishDate>
+         <Organiser>
+            <OrganisationId>262</OrganisationId>
+         </Organiser>
+         <WebURL>http://www.nm2014.net/</WebURL>
+         <Comment />
+         <PunchingUnitType value="Emit" />
+         <ModifyDate>
+            <Date>2014-10-06</Date>
+            <Clock>08:43:15</Clock>
+         </ModifyDate>
+         <ModifiedBy>
+            <PersonId idManager="SWE" type="nat">206</PersonId>
+         </ModifiedBy>
+      </Event>
+      <ClassResult>
+         <EventClass allowEntryInAdvance="Y" numberOfPrizes="0" normalizedClass="Y" totalResult="Y" timePresentation="Y" actualForRanking="N" divideClassMethod="divideByClub" maxNumberInClass="0" numberOfVacancies="0" numberOfLegs="1" teamEntry="N" numberInTeam="1" sex="M" lowAge="21">
+            <EventClassId>39473</EventClassId>
+            <Name languageId="sv">H 21-</Name>
+            <ClassShortName>H 21-</ClassShortName>
+            <EventClassStatus value="normal" />
+            <EventId>3334</EventId>
+            <ClassTypeId>2</ClassTypeId>
+            <BaseClassId>35</BaseClassId>
+            <ModifyDate>
+               <Date>2014-09-04</Date>
+               <Clock>17:22:21</Clock>
+            </ModifyDate>
+            <ClassRaceInfo noOfStarts="60" noOfEntries="68">
+               <EventRaceId>3492</EventRaceId>
+               <CourseLength>10530.0</CourseLength>
+            </ClassRaceInfo>
+         </EventClass>
+         <PersonResult>
+            <Person>
+               <PersonName>
+                  <Family>Kaas</Family>
+                  <Given sequence="1">Carl Godager</Given>
+               </PersonName>
+            </Person>
+            <Organisation>
+               <OrganisationId>32</OrganisationId>
+               <Name languageId="sv">Bækkelagets SK</Name>
+               <ShortName languageId="sv">Bækkelagets SK</ShortName>
+            </Organisation>
+            <Result>
+               <ResultId>671297</ResultId>
+               <BibNumber>57</BibNumber>
+               <CCardId>201412</CCardId>
+               <CCardId>3597259</CCardId>
+               <StartTime>
+                  <Date>2014-09-05</Date>
+                  <Clock>22:42:00</Clock>
+               </StartTime>
+               <FinishTime>
+                  <Date>2014-09-06</Date>
+                  <Clock>00:04:46</Clock>
+               </FinishTime>
+               <Time>82:46</Time>
+               <TimeDiff>0:00</TimeDiff>
+               <ResultPosition>1</ResultPosition>
+               <CompetitorStatus value="OK" />
+               <ModifyDate>
+                  <Date>2014-09-06</Date>
+                  <Clock>10:10:59</Clock>
+               </ModifyDate>
+            </Result>
+         </PersonResult>
+         <PersonResult>
+            <Person sex="M">
+               <PersonName>
+                  <Family>Årstad</Family>
+                  <Given sequence="1">Thomas Natvig</Given>
+               </PersonName>
+               <PersonId idManager="SWE" type="nat">1100</PersonId>
+               <BirthDate>
+                  <Date>1989-11-01</Date>
+               </BirthDate>
+               <Nationality>
+                  <Country>
+                     <CountryId value="578" />
+                     <Alpha2 value="NO" />
+                     <Alpha3 value="NOR" />
+                  </Country>
+               </Nationality>
+            </Person>
+            <Organisation>
+               <OrganisationId>244</OrganisationId>
+               <Name languageId="sv">NTNUI</Name>
+               <ShortName languageId="sv">NTNUI</ShortName>
+            </Organisation>
+            <Result>
+               <ResultId>646338</ResultId>
+               <BibNumber>68</BibNumber>
+               <CCardId>158625</CCardId>
+               <CCardId>3620341</CCardId>
+               <StartTime>
+                  <Date>2014-09-05</Date>
+                  <Clock>22:53:00</Clock>
+               </StartTime>
+               <FinishTime>
+                  <Date>2014-09-06</Date>
+                  <Clock>00:18:48</Clock>
+               </FinishTime>
+               <Time>85:48</Time>
+               <TimeDiff>3:02</TimeDiff>
+               <ResultPosition>2</ResultPosition>
+               <CompetitorStatus value="OK" />
+               <ModifyDate>
+                  <Date>2014-09-06</Date>
+                  <Clock>10:10:59</Clock>
+               </ModifyDate>
+               <ModifiedBy>
+                  <PersonId idManager="SWE" type="nat">1100</PersonId>
+               </ModifiedBy>
+            </Result>
+         </PersonResult>
+         <PersonResult>
+            <Person sex="M">
+               <PersonName>
+                  <Family>Indgaard</Family>
+                  <Given sequence="1">Ulf Forseth</Given>
+               </PersonName>
+               <PersonId idManager="SWE" type="nat">568</PersonId>
+               <BirthDate>
+                  <Date>1989-02-11</Date>
+               </BirthDate>
+               <Nationality>
+                  <Country>
+                     <CountryId value="578" />
+                     <Alpha2 value="NO" />
+                     <Alpha3 value="NOR" />
+                  </Country>
+               </Nationality>
+            </Person>
+            <Organisation>
+               <OrganisationId>84</OrganisationId>
+               <Name languageId="sv">Frol IL</Name>
+               <ShortName languageId="sv">Frol IL</ShortName>
+            </Organisation>
+            <Result>
+               <ResultId>643490</ResultId>
+               <BibNumber>64</BibNumber>
+               <CCardId>190906</CCardId>
+               <CCardId>3623873</CCardId>
+               <StartTime>
+                  <Date>2014-09-05</Date>
+                  <Clock>22:49:00</Clock>
+               </StartTime>
+               <FinishTime>
+                  <Date>2014-09-06</Date>
+                  <Clock>00:15:21</Clock>
+               </FinishTime>
+               <Time>86:21</Time>
+               <TimeDiff>3:35</TimeDiff>
+               <ResultPosition>3</ResultPosition>
+               <CompetitorStatus value="OK" />
+               <ModifyDate>
+                  <Date>2014-09-06</Date>
+                  <Clock>10:11:00</Clock>
+               </ModifyDate>
+               <ModifiedBy>
+                  <PersonId idManager="SWE" type="nat">568</PersonId>
+               </ModifiedBy>
+            </Result>
+         </PersonResult>
+         <PersonResult>
+            <Person sex="M">
+               <PersonName>
+                  <Family>Lucasen</Family>
+                  <Given sequence="1">Håvard</Given>
+               </PersonName>
+               <PersonId idManager="SWE" type="nat">479</PersonId>
+               <BirthDate>
+                  <Date>1982-07-07</Date>
+               </BirthDate>
+               <Nationality>
+                  <Country>
+                     <CountryId value="578" />
+                     <Alpha2 value="NO" />
+                     <Alpha3 value="NOR" />
+                  </Country>
+               </Nationality>
+            </Person>
+            <Organisation>
+               <OrganisationId>402</OrganisationId>
+               <Name languageId="sv">Ås-NMBU Orientering</Name>
+               <ShortName languageId="sv">Ås-NMBU Orientering</ShortName>
+            </Organisation>
+            <Result>
+               <ResultId>622797</ResultId>
+               <BibNumber>65</BibNumber>
+               <CCardId>160833</CCardId>
+               <StartTime>
+                  <Date>2014-09-05</Date>
+                  <Clock>22:50:00</Clock>
+               </StartTime>
+               <FinishTime />
+               <CompetitorStatus value="Cancelled" />
+               <ModifyDate>
+                  <Date>2014-09-06</Date>
+                  <Clock>01:08:55</Clock>
+               </ModifyDate>
+               <ModifiedBy>
+                  <PersonId idManager="SWE" type="nat">479</PersonId>
+               </ModifiedBy>
+            </Result>
+         </PersonResult>
+         <PersonResult>
+            <Person sex="M">
+               <PersonName>
+                  <Family>Kaas</Family>
+                  <Given sequence="1">Carl Godager</Given>
+               </PersonName>
+               <PersonId idManager="SWE" type="nat">2892</PersonId>
+               <BirthDate>
+                  <Date>1982-07-28</Date>
+               </BirthDate>
+               <Nationality>
+                  <Country>
+                     <CountryId value="578" />
+                     <Alpha2 value="NO" />
+                     <Alpha3 value="NOR" />
+                  </Country>
+               </Nationality>
+            </Person>
+            <Organisation>
+               <OrganisationId>32</OrganisationId>
+               <Name languageId="sv">Bækkelagets SK</Name>
+               <ShortName languageId="sv">Bækkelagets SK</ShortName>
+            </Organisation>
+            <Result>
+               <ResultId>622283</ResultId>
+               <BibNumber>57</BibNumber>
+               <StartTime>
+                  <Date>2014-09-05</Date>
+                  <Clock>22:42:00</Clock>
+               </StartTime>
+               <FinishTime>
+                  <Date>2014-09-05</Date>
+                  <Clock>00:04:46</Clock>
+               </FinishTime>
+               <Time>82:46</Time>
+               <CompetitorStatus value="Cancelled" />
+               <ModifyDate>
+                  <Date>2014-09-06</Date>
+                  <Clock>10:11:05</Clock>
+               </ModifyDate>
+               <ModifiedBy>
+                  <PersonId idManager="SWE" type="nat">2892</PersonId>
+               </ModifiedBy>
+            </Result>
+         </PersonResult>
+      </ClassResult>
+   </ResultList>
+   <ResultList>
+      <Event eventForm="IndSingleDay">
+         <EventId>2124</EventId>
+         <Name languageId="sv">O-idol og Norgescup</Name>
+         <EventClassificationId>2</EventClassificationId>
+         <EventStatusId>11</EventStatusId>
+         <StartDate>
+            <Date>2014-09-06</Date>
+            <Clock>00:00:00</Clock>
+         </StartDate>
+         <FinishDate>
+            <Date>2014-09-06</Date>
+            <Clock>00:00:00</Clock>
+         </FinishDate>
+         <Organiser>
+            <OrganisationId>262</OrganisationId>
+         </Organiser>
+         <WebURL>http://www.nm2014.net/</WebURL>
+         <Comment />
+         <PunchingUnitType value="Emit" />
+         <ModifyDate>
+            <Date>2014-10-06</Date>
+            <Clock>09:05:05</Clock>
+         </ModifyDate>
+         <ModifiedBy>
+            <PersonId idManager="SWE" type="nat">3171</PersonId>
+         </ModifiedBy>
+      </Event>
+      <ClassResult>
+         <EventClass allowEntryInAdvance="Y" numberOfPrizes="0" normalizedClass="Y" totalResult="Y" timePresentation="Y" actualForRanking="N" divideClassMethod="divideByClub" maxNumberInClass="0" numberOfVacancies="0" numberOfLegs="1" teamEntry="N" numberInTeam="1" sex="M" lowAge="21">
+            <EventClassId>39479</EventClassId>
+            <Name languageId="sv">H 21-</Name>
+            <ClassShortName>H 21-</ClassShortName>
+            <EventClassStatus value="normal" />
+            <EventId>2124</EventId>
+            <ClassTypeId>2</ClassTypeId>
+            <BaseClassId>35</BaseClassId>
+            <ModifyDate>
+               <Date>2014-09-04</Date>
+               <Clock>07:18:07</Clock>
+            </ModifyDate>
+            <ClassRaceInfo noOfStarts="54" noOfEntries="54">
+               <EventRaceId>2214</EventRaceId>
+               <CourseLength>4820.0</CourseLength>
+            </ClassRaceInfo>
+         </EventClass>
+         <PersonResult>
+            <Person sex="M">
+               <PersonName>
+                  <Family>Kaas</Family>
+                  <Given sequence="1">Carl Godager</Given>
+               </PersonName>
+               <PersonId idManager="SWE" type="nat">2892</PersonId>
+               <BirthDate>
+                  <Date>1982-07-28</Date>
+               </BirthDate>
+               <Nationality>
+                  <Country>
+                     <CountryId value="578" />
+                     <Alpha2 value="NO" />
+                     <Alpha3 value="NOR" />
+                  </Country>
+               </Nationality>
+            </Person>
+            <Organisation>
+               <OrganisationId>32</OrganisationId>
+               <Name languageId="sv">Bækkelagets SK</Name>
+               <ShortName languageId="sv">Bækkelagets SK</ShortName>
+            </Organisation>
+            <Result>
+               <ResultId>622284</ResultId>
+               <BibNumber>60</BibNumber>
+               <StartTime>
+                  <Date>2014-09-06</Date>
+                  <Clock>14:58:00</Clock>
+               </StartTime>
+               <FinishTime>
+                  <Date>2014-09-06</Date>
+                  <Clock>15:27:46</Clock>
+               </FinishTime>
+               <Time>29:46</Time>
+               <TimeDiff>0:00</TimeDiff>
+               <ResultPosition>1</ResultPosition>
+               <CompetitorStatus value="OK" />
+               <ModifyDate>
+                  <Date>2014-09-06</Date>
+                  <Clock>22:37:54</Clock>
+               </ModifyDate>
+               <ModifiedBy>
+                  <PersonId idManager="SWE" type="nat">2892</PersonId>
+               </ModifiedBy>
+            </Result>
+         </PersonResult>
+         <PersonResult>
+            <Person sex="M">
+               <PersonName>
+                  <Family>Skjeset</Family>
+                  <Given sequence="1">Lars Sandstad</Given>
+               </PersonName>
+               <PersonId idManager="SWE" type="nat">1701</PersonId>
+               <BirthDate>
+                  <Date>1983-03-01</Date>
+               </BirthDate>
+               <Nationality>
+                  <Country>
+                     <CountryId value="578" />
+                     <Alpha2 value="NO" />
+                     <Alpha3 value="NOR" />
+                  </Country>
+               </Nationality>
+            </Person>
+            <Organisation>
+               <OrganisationId>84</OrganisationId>
+               <Name languageId="sv">Frol IL</Name>
+               <ShortName languageId="sv">Frol IL</ShortName>
+            </Organisation>
+            <Result>
+               <ResultId>645478</ResultId>
+               <BibNumber>50</BibNumber>
+               <StartTime>
+                  <Date>2014-09-06</Date>
+                  <Clock>14:38:00</Clock>
+               </StartTime>
+               <FinishTime>
+                  <Date>2014-09-06</Date>
+                  <Clock>15:09:35</Clock>
+               </FinishTime>
+               <Time>31:35</Time>
+               <TimeDiff>1:49</TimeDiff>
+               <ResultPosition>2</ResultPosition>
+               <CompetitorStatus value="OK" />
+               <ModifyDate>
+                  <Date>2014-09-06</Date>
+                  <Clock>22:37:54</Clock>
+               </ModifyDate>
+               <ModifiedBy>
+                  <PersonId idManager="SWE" type="nat">1701</PersonId>
+               </ModifiedBy>
+            </Result>
+         </PersonResult>
+         <PersonResult>
+            <Person sex="M">
+               <PersonName>
+                  <Family>Ruttenborg</Family>
+                  <Given sequence="1">Vegard</Given>
+               </PersonName>
+               <PersonId idManager="SWE" type="nat">5618</PersonId>
+               <BirthDate>
+                  <Date>1989-03-31</Date>
+               </BirthDate>
+               <Nationality>
+                  <Country>
+                     <CountryId value="578" />
+                     <Alpha2 value="NO" />
+                     <Alpha3 value="NOR" />
+                  </Country>
+               </Nationality>
+            </Person>
+            <Organisation>
+               <OrganisationId>244</OrganisationId>
+               <Name languageId="sv">NTNUI</Name>
+               <ShortName languageId="sv">NTNUI</ShortName>
+            </Organisation>
+            <Result>
+               <ResultId>655021</ResultId>
+               <BibNumber>56</BibNumber>
+               <StartTime>
+                  <Date>2014-09-06</Date>
+                  <Clock>14:50:00</Clock>
+               </StartTime>
+               <FinishTime>
+                  <Date>2014-09-06</Date>
+                  <Clock>15:22:01</Clock>
+               </FinishTime>
+               <Time>32:01</Time>
+               <TimeDiff>2:15</TimeDiff>
+               <ResultPosition>3</ResultPosition>
+               <CompetitorStatus value="OK" />
+               <ModifyDate>
+                  <Date>2014-09-06</Date>
+                  <Clock>22:37:54</Clock>
+               </ModifyDate>
+               <ModifiedBy>
+                  <PersonId idManager="SWE" type="nat">5618</PersonId>
+               </ModifiedBy>
+            </Result>
+         </PersonResult>
+         <PersonResult>
+            <Person sex="M">
+               <PersonName>
+                  <Family>Lucasen</Family>
+                  <Given sequence="1">Håvard</Given>
+               </PersonName>
+               <PersonId idManager="SWE" type="nat">479</PersonId>
+               <BirthDate>
+                  <Date>1982-07-07</Date>
+               </BirthDate>
+               <Nationality>
+                  <Country>
+                     <CountryId value="578" />
+                     <Alpha2 value="NO" />
+                     <Alpha3 value="NOR" />
+                  </Country>
+               </Nationality>
+            </Person>
+            <Organisation>
+               <OrganisationId>409</OrganisationId>
+               <Name languageId="sv">Vaajakosken Terä</Name>
+               <ShortName languageId="sv">Vaajakosken Terä</ShortName>
+            </Organisation>
+            <Result>
+               <ResultId>622798</ResultId>
+               <BibNumber>59</BibNumber>
+               <CCardId>160833</CCardId>
+               <StartTime>
+                  <Date>2014-09-06</Date>
+                  <Clock>14:56:00</Clock>
+               </StartTime>
+               <FinishTime />
+               <CompetitorStatus value="Cancelled" />
+               <ModifyDate>
+                  <Date>2014-09-06</Date>
+                  <Clock>17:19:50</Clock>
+               </ModifyDate>
+               <ModifiedBy>
+                  <PersonId idManager="SWE" type="nat">479</PersonId>
+               </ModifiedBy>
+            </Result>
+         </PersonResult>
+      </ClassResult>
+   </ResultList>
+   <ResultList>
+      <Event eventForm="RelaySingleDay">
+         <EventId>3298</EventId>
+         <Name languageId="sv">Night Hawk 8.-9. August 2014</Name>
+         <EventClassificationId>2</EventClassificationId>
+         <EventStatusId>11</EventStatusId>
+         <StartDate>
+            <Date>2014-08-08</Date>
+            <Clock>00:00:00</Clock>
+         </StartDate>
+         <FinishDate>
+            <Date>2014-08-09</Date>
+            <Clock>00:00:00</Clock>
+         </FinishDate>
+         <Organiser>
+            <OrganisationId>163</OrganisationId>
+            <OrganisationId>939</OrganisationId>
+         </Organiser>
+         <WebURL>http://www.facebook.com/TheNightHawkRelay</WebURL>
+         <Comment languageId="sv">Stafett med fellesstart fredag 8. august, 4 nattetapper for herrer og 3 nattetapper for damer. Jaktstart lørdag . 4 herre etapper og 3 dame etapper</Comment>
+         <PunchingUnitType value="Emit" />
+         <ModifyDate>
+            <Date>2014-09-16</Date>
+            <Clock>23:00:09</Clock>
+         </ModifyDate>
+         <ModifiedBy>
+            <PersonId idManager="SWE" type="nat">1817</PersonId>
+         </ModifiedBy>
+      </Event>
+      <ClassResult>
+         <EventClass allowEntryInAdvance="Y" numberOfPrizes="0" normalizedClass="Y" totalResult="Y" timePresentation="Y" actualForRanking="N" divideClassMethod="divideByClub" maxNumberInClass="0" numberOfVacancies="0" numberOfLegs="8" teamEntry="Y" numberInTeam="1" sex="B" sequence="1" highAge="80" lowAge="14">
+            <EventClassId>30037</EventClassId>
+            <Name languageId="sv">Night Hawk Herrer</Name>
+            <ClassShortName>NightHawk Herrer</ClassShortName>
+            <EventClassStatus value="normal" />
+            <EventId>3298</EventId>
+            <ClassTypeId>1</ClassTypeId>
+            <BaseClassId />
+            <ExternalId>1</ExternalId>
+            <PunchingUnitType value="Emit" />
+            <PunchingUnitType value="Emit" />
+            <PunchingUnitType value="Emit" />
+            <PunchingUnitType value="Emit" />
+            <PunchingUnitType value="Emit" />
+            <PunchingUnitType value="Emit" />
+            <PunchingUnitType value="Emit" />
+            <PunchingUnitType value="Emit" />
+            <ModifyDate>
+               <Date>2014-08-08</Date>
+               <Clock>09:03:56</Clock>
+            </ModifyDate>
+            <ClassRaceInfo restartedTeamsAfter="Y" timeResolution="seconds" maxRunners="1" minRunners="1" relayLeg="1" finishChute="" bibNumberInherit="Y" bibNumberBase="" bibNumberPrefix="" numberOfPrizes="0" priceGivingDone="N" rankingRace="Y">
+               <ClassRaceInfoId>33083</ClassRaceInfoId>
+               <EventRaceId>3456</EventRaceId>
+               <EventClassId>30037</EventClassId>
+               <Name />
+               <CourseLength>0</CourseLength>
+               <FirstStart>
+                  <Date>2014-08-08</Date>
+                  <Clock>00:00:00</Clock>
+               </FirstStart>
+               <StartInterval>
+                  <Time>00:00</Time>
+               </StartInterval>
+               <EstimatedBestTime>
+                  <Time>0:00</Time>
+               </EstimatedBestTime>
+               <EstimatedLastPrizeTime>
+                  <Time>0:00</Time>
+               </EstimatedLastPrizeTime>
+               <AllocationMethod value="sNormalDraw" />
+               <StartMethod lateStartLimit="0" earlyStartLimit="0" value="allocatedStart" />
+               <ClassRaceStatus value="notAllocated" />
+               <PunchingUnitType value="Emit" />
+               <ModifyDate>
+                  <Date>2014-08-07</Date>
+                  <Clock>21:38:18</Clock>
+               </ModifyDate>
+            </ClassRaceInfo>
+            <ClassRaceInfo restartedTeamsAfter="Y" timeResolution="seconds" maxRunners="1" minRunners="1" relayLeg="2" finishChute="" bibNumberInherit="Y" bibNumberBase="" bibNumberPrefix="" numberOfPrizes="0" priceGivingDone="N" rankingRace="Y">
+               <ClassRaceInfoId>33090</ClassRaceInfoId>
+               <EventRaceId>3456</EventRaceId>
+               <EventClassId>30037</EventClassId>
+               <Name />
+               <CourseLength>0</CourseLength>
+               <FirstStart>
+                  <Date>2014-08-08</Date>
+                  <Clock>00:00:00</Clock>
+               </FirstStart>
+               <StartInterval>
+                  <Time>00:00</Time>
+               </StartInterval>
+               <EstimatedBestTime>
+                  <Time>0:00</Time>
+               </EstimatedBestTime>
+               <EstimatedLastPrizeTime>
+                  <Time>0:00</Time>
+               </EstimatedLastPrizeTime>
+               <AllocationMethod value="sNormalDraw" />
+               <StartMethod lateStartLimit="0" earlyStartLimit="0" value="allocatedStart" />
+               <ClassRaceStatus value="notAllocated" />
+               <PunchingUnitType value="Emit" />
+               <ModifyDate>
+                  <Date>2014-08-07</Date>
+                  <Clock>21:38:18</Clock>
+               </ModifyDate>
+            </ClassRaceInfo>
+            <ClassRaceInfo restartedTeamsAfter="Y" timeResolution="seconds" maxRunners="1" minRunners="1" relayLeg="3" finishChute="" bibNumberInherit="Y" bibNumberBase="" bibNumberPrefix="" numberOfPrizes="0" priceGivingDone="N" rankingRace="Y">
+               <ClassRaceInfoId>33089</ClassRaceInfoId>
+               <EventRaceId>3456</EventRaceId>
+               <EventClassId>30037</EventClassId>
+               <Name />
+               <CourseLength>0</CourseLength>
+               <FirstStart>
+                  <Date>2014-08-08</Date>
+                  <Clock>00:00:00</Clock>
+               </FirstStart>
+               <StartInterval>
+                  <Time>00:00</Time>
+               </StartInterval>
+               <EstimatedBestTime>
+                  <Time>0:00</Time>
+               </EstimatedBestTime>
+               <EstimatedLastPrizeTime>
+                  <Time>0:00</Time>
+               </EstimatedLastPrizeTime>
+               <AllocationMethod value="sNormalDraw" />
+               <StartMethod lateStartLimit="0" earlyStartLimit="0" value="allocatedStart" />
+               <ClassRaceStatus value="notAllocated" />
+               <PunchingUnitType value="Emit" />
+               <ModifyDate>
+                  <Date>2014-08-07</Date>
+                  <Clock>21:38:18</Clock>
+               </ModifyDate>
+            </ClassRaceInfo>
+            <ClassRaceInfo restartedTeamsAfter="Y" timeResolution="seconds" maxRunners="1" minRunners="1" relayLeg="4" finishChute="" bibNumberInherit="Y" bibNumberBase="" bibNumberPrefix="" numberOfPrizes="0" priceGivingDone="N" rankingRace="Y">
+               <ClassRaceInfoId>33084</ClassRaceInfoId>
+               <EventRaceId>3456</EventRaceId>
+               <EventClassId>30037</EventClassId>
+               <Name />
+               <CourseLength>0</CourseLength>
+               <FirstStart>
+                  <Date>2014-08-08</Date>
+                  <Clock>00:00:00</Clock>
+               </FirstStart>
+               <StartInterval>
+                  <Time>00:00</Time>
+               </StartInterval>
+               <EstimatedBestTime>
+                  <Time>0:00</Time>
+               </EstimatedBestTime>
+               <EstimatedLastPrizeTime>
+                  <Time>0:00</Time>
+               </EstimatedLastPrizeTime>
+               <AllocationMethod value="sNormalDraw" />
+               <StartMethod lateStartLimit="0" earlyStartLimit="0" value="allocatedStart" />
+               <ClassRaceStatus value="notAllocated" />
+               <PunchingUnitType value="Emit" />
+               <ModifyDate>
+                  <Date>2014-08-07</Date>
+                  <Clock>21:38:18</Clock>
+               </ModifyDate>
+            </ClassRaceInfo>
+            <ClassRaceInfo restartedTeamsAfter="Y" timeResolution="seconds" maxRunners="1" minRunners="1" relayLeg="5" finishChute="" bibNumberInherit="Y" bibNumberBase="" bibNumberPrefix="" numberOfPrizes="0" priceGivingDone="N" rankingRace="Y">
+               <ClassRaceInfoId>33087</ClassRaceInfoId>
+               <EventRaceId>3456</EventRaceId>
+               <EventClassId>30037</EventClassId>
+               <Name />
+               <CourseLength>0</CourseLength>
+               <FirstStart>
+                  <Date>2014-08-08</Date>
+                  <Clock>00:00:00</Clock>
+               </FirstStart>
+               <StartInterval>
+                  <Time>00:00</Time>
+               </StartInterval>
+               <EstimatedBestTime>
+                  <Time>0:00</Time>
+               </EstimatedBestTime>
+               <EstimatedLastPrizeTime>
+                  <Time>0:00</Time>
+               </EstimatedLastPrizeTime>
+               <AllocationMethod value="sNormalDraw" />
+               <StartMethod lateStartLimit="0" earlyStartLimit="0" value="allocatedStart" />
+               <ClassRaceStatus value="notAllocated" />
+               <PunchingUnitType value="Emit" />
+               <ModifyDate>
+                  <Date>2014-08-07</Date>
+                  <Clock>21:38:18</Clock>
+               </ModifyDate>
+            </ClassRaceInfo>
+            <ClassRaceInfo restartedTeamsAfter="Y" timeResolution="seconds" maxRunners="1" minRunners="1" relayLeg="6" finishChute="" bibNumberInherit="Y" bibNumberBase="" bibNumberPrefix="" numberOfPrizes="0" priceGivingDone="N" rankingRace="Y">
+               <ClassRaceInfoId>33085</ClassRaceInfoId>
+               <EventRaceId>3456</EventRaceId>
+               <EventClassId>30037</EventClassId>
+               <Name />
+               <CourseLength>0</CourseLength>
+               <FirstStart>
+                  <Date>2014-08-08</Date>
+                  <Clock>00:00:00</Clock>
+               </FirstStart>
+               <StartInterval>
+                  <Time>00:00</Time>
+               </StartInterval>
+               <EstimatedBestTime>
+                  <Time>0:00</Time>
+               </EstimatedBestTime>
+               <EstimatedLastPrizeTime>
+                  <Time>0:00</Time>
+               </EstimatedLastPrizeTime>
+               <AllocationMethod value="sNormalDraw" />
+               <StartMethod lateStartLimit="0" earlyStartLimit="0" value="allocatedStart" />
+               <ClassRaceStatus value="notAllocated" />
+               <PunchingUnitType value="Emit" />
+               <ModifyDate>
+                  <Date>2014-08-07</Date>
+                  <Clock>21:38:18</Clock>
+               </ModifyDate>
+            </ClassRaceInfo>
+            <ClassRaceInfo restartedTeamsAfter="Y" timeResolution="seconds" maxRunners="1" minRunners="1" relayLeg="7" finishChute="" bibNumberInherit="Y" bibNumberBase="" bibNumberPrefix="" numberOfPrizes="0" priceGivingDone="N" rankingRace="Y">
+               <ClassRaceInfoId>33088</ClassRaceInfoId>
+               <EventRaceId>3456</EventRaceId>
+               <EventClassId>30037</EventClassId>
+               <Name />
+               <CourseLength>0</CourseLength>
+               <FirstStart>
+                  <Date>2014-08-08</Date>
+                  <Clock>00:00:00</Clock>
+               </FirstStart>
+               <StartInterval>
+                  <Time>00:00</Time>
+               </StartInterval>
+               <EstimatedBestTime>
+                  <Time>0:00</Time>
+               </EstimatedBestTime>
+               <EstimatedLastPrizeTime>
+                  <Time>0:00</Time>
+               </EstimatedLastPrizeTime>
+               <AllocationMethod value="sNormalDraw" />
+               <StartMethod lateStartLimit="0" earlyStartLimit="0" value="allocatedStart" />
+               <ClassRaceStatus value="notAllocated" />
+               <PunchingUnitType value="Emit" />
+               <ModifyDate>
+                  <Date>2014-08-07</Date>
+                  <Clock>21:38:18</Clock>
+               </ModifyDate>
+            </ClassRaceInfo>
+            <ClassRaceInfo restartedTeamsAfter="Y" timeResolution="seconds" maxRunners="1" minRunners="1" relayLeg="8" finishChute="" bibNumberInherit="Y" bibNumberBase="" bibNumberPrefix="" numberOfPrizes="0" priceGivingDone="N" rankingRace="Y">
+               <ClassRaceInfoId>33086</ClassRaceInfoId>
+               <EventRaceId>3456</EventRaceId>
+               <EventClassId>30037</EventClassId>
+               <Name />
+               <CourseLength>0</CourseLength>
+               <FirstStart>
+                  <Date>2014-08-08</Date>
+                  <Clock>00:00:00</Clock>
+               </FirstStart>
+               <StartInterval>
+                  <Time>00:00</Time>
+               </StartInterval>
+               <EstimatedBestTime>
+                  <Time>0:00</Time>
+               </EstimatedBestTime>
+               <EstimatedLastPrizeTime>
+                  <Time>0:00</Time>
+               </EstimatedLastPrizeTime>
+               <AllocationMethod value="sNormalDraw" />
+               <StartMethod lateStartLimit="0" earlyStartLimit="0" value="allocatedStart" />
+               <ClassRaceStatus value="notAllocated" />
+               <PunchingUnitType value="Emit" />
+               <ModifyDate>
+                  <Date>2014-08-07</Date>
+                  <Clock>21:38:18</Clock>
+               </ModifyDate>
+            </ClassRaceInfo>
+         </EventClass>
+         <TeamResult>
+            <TeamName>Ås-NMBU Orientering-1</TeamName>
+            <Organisation>
+               <OrganisationId>402</OrganisationId>
+               <Name languageId="sv">Ås-NMBU Orientering</Name>
+               <ShortName languageId="sv">Ås-NMBU Orientering</ShortName>
+               <CountryId value="578" />
+            </Organisation>
+            <BibNumber>81</BibNumber>
+            <TeamMemberResult>
+               <Person sex="M">
+                  <PersonName>
+                     <Family>Lucasen</Family>
+                     <Given sequence="1">Håvard</Given>
+                  </PersonName>
+                  <PersonId idManager="SWE" type="nat">479</PersonId>
+                  <BirthDate>
+                     <Date>1982-07-07</Date>
+                  </BirthDate>
+                  <Nationality>
+                     <Country>
+                        <CountryId value="578" />
+                        <Alpha2 value="NO" />
+                        <Alpha3 value="NOR" />
+                     </Country>
+                  </Nationality>
+               </Person>
+               <Organisation>
+                  <OrganisationId>409</OrganisationId>
+                  <Name languageId="sv">Vaajakosken Terä</Name>
+                  <ShortName languageId="sv">Vaajakosken Terä</ShortName>
+                  <CountryId value="" />
+               </Organisation>
+               <Leg>4</Leg>
+               <LegOrder>1</LegOrder>
+               <BibNumber>8104</BibNumber>
+               <FinishTime />
+               <CompetitorStatus value="Inactive" />
+               <OverallResult>
+                  <TeamStatus value="Inactive" />
+               </OverallResult>
+            </TeamMemberResult>
+         </TeamResult>
+      </ClassResult>
+   </ResultList>
+   <ResultList>
+      <Event eventForm="IndSingleDay">
+         <EventId>3546</EventId>
+         <Name languageId="sv">NM-uka 2014 mellomdistanse kvalifisering</Name>
+         <EventClassificationId>1</EventClassificationId>
+         <EventStatusId>11</EventStatusId>
+         <StartDate>
+            <Date>2014-09-12</Date>
+            <Clock>00:00:00</Clock>
+         </StartDate>
+         <FinishDate>
+            <Date>2014-09-12</Date>
+            <Clock>00:00:00</Clock>
+         </FinishDate>
+         <Organiser>
+            <OrganisationId>26</OrganisationId>
+         </Organiser>
+         <WebURL>http://www.o-nm2014.no</WebURL>
+         <Comment />
+         <PunchingUnitType value="Emit" />
+         <ModifyDate>
+            <Date>2014-09-15</Date>
+            <Clock>17:14:58</Clock>
+         </ModifyDate>
+         <ModifiedBy>
+            <PersonId idManager="SWE" type="nat">1817</PersonId>
+         </ModifiedBy>
+      </Event>
+      <ClassResult>
+         <EventClass allowEntryInAdvance="Y" numberOfPrizes="0" normalizedClass="Y" totalResult="Y" timePresentation="Y" actualForRanking="N" divideClassMethod="divideByClub" maxNumberInClass="0" numberOfVacancies="0" numberOfLegs="1" teamEntry="N" numberInTeam="1" sex="M" sequence="600">
+            <EventClassId>41932</EventClassId>
+            <Name languageId="sv">H21 Heat 5</Name>
+            <ClassShortName>H21 Heat 5</ClassShortName>
+            <EventClassStatus value="normal" />
+            <EventId>3546</EventId>
+            <ClassTypeId>1</ClassTypeId>
+            <BaseClassId />
+            <ExternalId>60</ExternalId>
+            <ModifyDate>
+               <Date>2014-09-11</Date>
+               <Clock>19:39:16</Clock>
+            </ModifyDate>
+            <ClassRaceInfo noOfStarts="29" noOfEntries="29">
+               <EventRaceId>3730</EventRaceId>
+               <CourseLength>0 m</CourseLength>
+            </ClassRaceInfo>
+         </EventClass>
+         <PersonResult>
+            <Person>
+               <PersonName>
+                  <Family>Mathisen</Family>
+                  <Given sequence="1">Hans Petter</Given>
+               </PersonName>
+               <PersonId idManager="SWE" type="nat">1225</PersonId>
+               <BirthDate>
+                  <Date>1991-08-21</Date>
+               </BirthDate>
+               <Nationality>
+                  <Country>
+                     <CountryId value="578" />
+                     <Alpha2 value="NO" />
+                     <Alpha3 value="NOR" />
+                  </Country>
+               </Nationality>
+            </Person>
+            <Organisation>
+               <OrganisationId>244</OrganisationId>
+               <Name languageId="sv">NTNUI</Name>
+               <ShortName languageId="sv">NTNUI</ShortName>
+               <Country>
+                  <CountryId value="578" />
+                  <Alpha2 value="NO" />
+                  <Alpha3 value="NOR" />
+                  <Name languageId="sv">Norge</Name>
+                  <Name languageId="en">Norway</Name>
+                  <ModifyDate>
+                     <Date>2009-10-27</Date>
+                     <Clock>21:55:12</Clock>
+                  </ModifyDate>
+               </Country>
+            </Organisation>
+            <Result>
+               <ResultId>676745</ResultId>
+               <BibNumber>829</BibNumber>
+               <StartTime>
+                  <Date>2014-09-12</Date>
+                  <Clock>15:56:00</Clock>
+               </StartTime>
+               <FinishTime>
+                  <Date>2014-09-12</Date>
+                  <Clock>16:18:43</Clock>
+               </FinishTime>
+               <Time>22:43</Time>
+               <TimeDiff>0:00</TimeDiff>
+               <ResultPosition>1</ResultPosition>
+               <CompetitorStatus value="OK" />
+               <ModifyDate>
+                  <Date>2014-09-12</Date>
+                  <Clock>17:05:30</Clock>
+               </ModifyDate>
+            </Result>
+         </PersonResult>
+         <PersonResult>
+            <Person>
+               <PersonName>
+                  <Family>Lundanes</Family>
+                  <Given sequence="1">Ivar</Given>
+               </PersonName>
+               <PersonId idManager="SWE" type="nat">495</PersonId>
+               <BirthDate>
+                  <Date>1991-07-06</Date>
+               </BirthDate>
+               <Nationality>
+                  <Country>
+                     <CountryId value="578" />
+                     <Alpha2 value="NO" />
+                     <Alpha3 value="NOR" />
+                  </Country>
+               </Nationality>
+            </Person>
+            <Organisation>
+               <OrganisationId>67</OrganisationId>
+               <Name languageId="sv">Emblem IL</Name>
+               <ShortName languageId="sv">Emblem IL</ShortName>
+               <Country>
+                  <CountryId value="578" />
+                  <Alpha2 value="NO" />
+                  <Alpha3 value="NOR" />
+                  <Name languageId="sv">Norge</Name>
+                  <Name languageId="en">Norway</Name>
+                  <ModifyDate>
+                     <Date>2009-10-27</Date>
+                     <Clock>21:55:12</Clock>
+                  </ModifyDate>
+               </Country>
+            </Organisation>
+            <Result>
+               <ResultId>676755</ResultId>
+               <BibNumber>834</BibNumber>
+               <StartTime>
+                  <Date>2014-09-12</Date>
+                  <Clock>16:06:00</Clock>
+               </StartTime>
+               <FinishTime>
+                  <Date>2014-09-12</Date>
+                  <Clock>16:28:52</Clock>
+               </FinishTime>
+               <Time>22:52</Time>
+               <TimeDiff>0:09</TimeDiff>
+               <ResultPosition>2</ResultPosition>
+               <CompetitorStatus value="OK" />
+               <ModifyDate>
+                  <Date>2014-09-12</Date>
+                  <Clock>17:05:30</Clock>
+               </ModifyDate>
+            </Result>
+         </PersonResult>
+         <PersonResult>
+            <Person>
+               <PersonName>
+                  <Family>Lucasen</Family>
+                  <Given sequence="1">Håvard</Given>
+               </PersonName>
+               <PersonId idManager="SWE" type="nat">479</PersonId>
+               <BirthDate>
+                  <Date>1982-07-07</Date>
+               </BirthDate>
+               <Nationality>
+                  <Country>
+                     <CountryId value="578" />
+                     <Alpha2 value="NO" />
+                     <Alpha3 value="NOR" />
+                  </Country>
+               </Nationality>
+            </Person>
+            <Organisation>
+               <OrganisationId>402</OrganisationId>
+               <Name languageId="sv">Ås-NMBU Orientering</Name>
+               <ShortName languageId="sv">Ås-NMBU Orientering</ShortName>
+               <Country>
+                  <CountryId value="578" />
+                  <Alpha2 value="NO" />
+                  <Alpha3 value="NOR" />
+                  <Name languageId="sv">Norge</Name>
+                  <Name languageId="en">Norway</Name>
+                  <ModifyDate>
+                     <Date>2009-10-27</Date>
+                     <Clock>21:55:12</Clock>
+                  </ModifyDate>
+               </Country>
+            </Organisation>
+            <Result>
+               <ResultId>676763</ResultId>
+               <BibNumber>823</BibNumber>
+               <StartTime>
+                  <Date>2014-09-12</Date>
+                  <Clock>15:44:00</Clock>
+               </StartTime>
+               <FinishTime>
+                  <Date>2014-09-12</Date>
+                  <Clock>16:06:53</Clock>
+               </FinishTime>
+               <Time>22:53</Time>
+               <TimeDiff>0:10</TimeDiff>
+               <ResultPosition>3</ResultPosition>
+               <CompetitorStatus value="OK" />
+               <ModifyDate>
+                  <Date>2014-09-12</Date>
+                  <Clock>17:05:30</Clock>
+               </ModifyDate>
+            </Result>
+         </PersonResult>
+      </ClassResult>
+   </ResultList>
+   <ResultList>
+      <Event eventForm="IndSingleDay">
+         <EventId>2122</EventId>
+         <Name languageId="sv">NM-uka 2014 mellomdistanse junior og senior</Name>
+         <EventClassificationId>1</EventClassificationId>
+         <EventStatusId>11</EventStatusId>
+         <StartDate>
+            <Date>2014-09-13</Date>
+            <Clock>00:00:00</Clock>
+         </StartDate>
+         <FinishDate>
+            <Date>2014-09-13</Date>
+            <Clock>00:00:00</Clock>
+         </FinishDate>
+         <Organiser>
+            <OrganisationId>26</OrganisationId>
+         </Organiser>
+         <WebURL>http://www.o-nm2014.no</WebURL>
+         <Comment />
+         <PunchingUnitType value="Emit" />
+         <ModifyDate>
+            <Date>2014-09-15</Date>
+            <Clock>17:18:10</Clock>
+         </ModifyDate>
+         <ModifiedBy>
+            <PersonId idManager="SWE" type="nat">1817</PersonId>
+         </ModifiedBy>
+      </Event>
+      <ClassResult>
+         <EventClass allowEntryInAdvance="Y" numberOfPrizes="0" normalizedClass="Y" totalResult="Y" timePresentation="Y" actualForRanking="N" divideClassMethod="divideByClub" maxNumberInClass="0" numberOfVacancies="0" numberOfLegs="1" teamEntry="N" numberInTeam="1" sex="F" sequence="550">
+            <EventClassId>42127</EventClassId>
+            <Name languageId="sv">H21 Finale</Name>
+            <ClassShortName>H21 Finale</ClassShortName>
+            <EventClassStatus value="normal" />
+            <EventId>2122</EventId>
+            <ClassTypeId>1</ClassTypeId>
+            <BaseClassId />
+            <ExternalId>55</ExternalId>
+            <ModifyDate>
+               <Date>2014-09-12</Date>
+               <Clock>20:10:29</Clock>
+            </ModifyDate>
+            <ClassRaceInfo noOfStarts="59" noOfEntries="59">
+               <EventRaceId>2212</EventRaceId>
+               <CourseLength>5370.0</CourseLength>
+            </ClassRaceInfo>
+         </EventClass>
+         <PersonResult>
+            <Person sex="M">
+               <PersonName>
+                  <Family>Nordberg</Family>
+                  <Given sequence="1">Anders</Given>
+               </PersonName>
+               <PersonId idManager="SWE" type="nat">555</PersonId>
+               <BirthDate>
+                  <Date>1978-02-17</Date>
+               </BirthDate>
+               <Nationality>
+                  <Country>
+                     <CountryId value="578" />
+                     <Alpha2 value="NO" />
+                     <Alpha3 value="NOR" />
+                  </Country>
+               </Nationality>
+            </Person>
+            <Organisation>
+               <OrganisationId>245</OrganisationId>
+               <Name languageId="sv">Nydalens SK</Name>
+               <ShortName languageId="sv">Nydalens SK</ShortName>
+            </Organisation>
+            <Result>
+               <ResultId>677668</ResultId>
+               <BibNumber>57</BibNumber>
+               <StartTime>
+                  <Date>2014-09-13</Date>
+                  <Clock>13:07:00</Clock>
+               </StartTime>
+               <FinishTime>
+                  <Date>2014-09-13</Date>
+                  <Clock>13:39:31</Clock>
+               </FinishTime>
+               <Time>32:31</Time>
+               <TimeDiff>0:00</TimeDiff>
+               <ResultPosition>1</ResultPosition>
+               <CompetitorStatus value="OK" />
+               <ModifyDate>
+                  <Date>2014-09-13</Date>
+                  <Clock>17:41:56</Clock>
+               </ModifyDate>
+            </Result>
+         </PersonResult>
+         <PersonResult>
+            <Person sex="M">
+               <PersonName>
+                  <Family>Omdal</Family>
+                  <Given sequence="1">Hans Gunnar</Given>
+               </PersonName>
+               <PersonId idManager="SWE" type="nat">2610</PersonId>
+               <BirthDate>
+                  <Date>1977-09-14</Date>
+               </BirthDate>
+               <Nationality>
+                  <Country>
+                     <CountryId value="578" />
+                     <Alpha2 value="NO" />
+                     <Alpha3 value="NOR" />
+                  </Country>
+               </Nationality>
+            </Person>
+            <Organisation>
+               <OrganisationId>189</OrganisationId>
+               <Name languageId="sv">Kristiansand OK</Name>
+               <ShortName languageId="sv">Kristiansand OK</ShortName>
+            </Organisation>
+            <Result>
+               <ResultId>677671</ResultId>
+               <BibNumber>36</BibNumber>
+               <StartTime>
+                  <Date>2014-09-13</Date>
+                  <Clock>12:25:00</Clock>
+               </StartTime>
+               <FinishTime>
+                  <Date>2014-09-13</Date>
+                  <Clock>12:59:13</Clock>
+               </FinishTime>
+               <Time>34:13</Time>
+               <TimeDiff>1:42</TimeDiff>
+               <ResultPosition>2</ResultPosition>
+               <CompetitorStatus value="OK" />
+               <ModifyDate>
+                  <Date>2014-09-13</Date>
+                  <Clock>17:41:56</Clock>
+               </ModifyDate>
+            </Result>
+         </PersonResult>
+         <PersonResult>
+            <Person sex="M">
+               <PersonName>
+                  <Family>Tiltnes</Family>
+                  <Given sequence="1">Anders</Given>
+               </PersonName>
+               <PersonId idManager="SWE" type="nat">4526</PersonId>
+               <BirthDate>
+                  <Date>1984-05-28</Date>
+               </BirthDate>
+               <Nationality>
+                  <Country>
+                     <CountryId value="578" />
+                     <Alpha2 value="NO" />
+                     <Alpha3 value="NOR" />
+                  </Country>
+               </Nationality>
+            </Person>
+            <Organisation>
+               <OrganisationId>163</OrganisationId>
+               <Name languageId="sv">IL Tyrving</Name>
+               <ShortName languageId="sv">IL Tyrving</ShortName>
+            </Organisation>
+            <Result>
+               <ResultId>677673</ResultId>
+               <BibNumber>56</BibNumber>
+               <StartTime>
+                  <Date>2014-09-13</Date>
+                  <Clock>13:05:00</Clock>
+               </StartTime>
+               <FinishTime>
+                  <Date>2014-09-13</Date>
+                  <Clock>13:39:28</Clock>
+               </FinishTime>
+               <Time>34:28</Time>
+               <TimeDiff>1:57</TimeDiff>
+               <ResultPosition>3</ResultPosition>
+               <CompetitorStatus value="OK" />
+               <ModifyDate>
+                  <Date>2014-09-13</Date>
+                  <Clock>17:41:56</Clock>
+               </ModifyDate>
+            </Result>
+         </PersonResult>
+         <PersonResult>
+            <Person sex="M">
+               <PersonName>
+                  <Family>Lucasen</Family>
+                  <Given sequence="1">Håvard</Given>
+               </PersonName>
+               <PersonId idManager="SWE" type="nat">479</PersonId>
+               <BirthDate>
+                  <Date>1982-07-07</Date>
+               </BirthDate>
+               <Nationality>
+                  <Country>
+                     <CountryId value="578" />
+                     <Alpha2 value="NO" />
+                     <Alpha3 value="NOR" />
+                  </Country>
+               </Nationality>
+            </Person>
+            <Organisation>
+               <OrganisationId>402</OrganisationId>
+               <Name languageId="sv">Ås-NMBU Orientering</Name>
+               <ShortName languageId="sv">Ås-NMBU Orientering</ShortName>
+            </Organisation>
+            <Result>
+               <ResultId>677701</ResultId>
+               <BibNumber>50</BibNumber>
+               <StartTime>
+                  <Date>2014-09-13</Date>
+                  <Clock>12:53:00</Clock>
+               </StartTime>
+               <FinishTime>
+                  <Date>2014-09-13</Date>
+                  <Clock>13:30:49</Clock>
+               </FinishTime>
+               <Time>37:49</Time>
+               <TimeDiff>5:18</TimeDiff>
+               <ResultPosition>16</ResultPosition>
+               <CompetitorStatus value="OK" />
+               <ModifyDate>
+                  <Date>2014-09-13</Date>
+                  <Clock>17:41:57</Clock>
+               </ModifyDate>
+            </Result>
+         </PersonResult>
+      </ClassResult>
+   </ResultList>
+   <ResultList>
+      <Event eventForm="RelaySingleDay">
+         <EventId>2123</EventId>
+         <Name languageId="sv">NM-uka 2014 Stafett</Name>
+         <EventClassificationId>1</EventClassificationId>
+         <EventStatusId>11</EventStatusId>
+         <StartDate>
+            <Date>2014-09-14</Date>
+            <Clock>00:00:00</Clock>
+         </StartDate>
+         <FinishDate>
+            <Date>2014-09-14</Date>
+            <Clock>00:00:00</Clock>
+         </FinishDate>
+         <Organiser>
+            <OrganisationId>26</OrganisationId>
+         </Organiser>
+         <WebURL>http://www.o-nm2014.no</WebURL>
+         <Comment />
+         <PunchingUnitType value="Emit" />
+         <ModifyDate>
+            <Date>2014-09-15</Date>
+            <Clock>17:43:11</Clock>
+         </ModifyDate>
+         <ModifiedBy>
+            <PersonId idManager="SWE" type="nat">1817</PersonId>
+         </ModifiedBy>
+      </Event>
+      <ClassResult>
+         <EventClass allowEntryInAdvance="Y" numberOfPrizes="0" normalizedClass="Y" totalResult="Y" timePresentation="Y" actualForRanking="N" divideClassMethod="divideByClub" maxNumberInClass="0" numberOfVacancies="0" numberOfLegs="3" teamEntry="Y" numberInTeam="1" sex="M" sequence="2" lowAge="15">
+            <EventClassId>39347</EventClassId>
+            <Name languageId="sv">H17</Name>
+            <ClassShortName>H17</ClassShortName>
+            <EventClassStatus value="normal" />
+            <EventId>2123</EventId>
+            <ClassTypeId>1</ClassTypeId>
+            <BaseClassId />
+            <ExternalId>2</ExternalId>
+            <PunchingUnitType value="Emit" />
+            <PunchingUnitType value="Emit" />
+            <PunchingUnitType value="Emit" />
+            <ModifyDate>
+               <Date>2014-09-14</Date>
+               <Clock>19:06:53</Clock>
+            </ModifyDate>
+            <ClassRaceInfo restartedTeamsAfter="Y" timeResolution="seconds" maxRunners="1" minRunners="1" relayLeg="1" finishChute="" bibNumberInherit="Y" bibNumberBase="" bibNumberPrefix="" numberOfPrizes="0" priceGivingDone="N" rankingRace="Y">
+               <ClassRaceInfoId>43434</ClassRaceInfoId>
+               <EventRaceId>2213</EventRaceId>
+               <EventClassId>39347</EventClassId>
+               <Name />
+               <FirstStart>
+                  <Date>2014-09-14</Date>
+                  <Clock>00:00:00</Clock>
+               </FirstStart>
+               <StartInterval>
+                  <Time>00:00</Time>
+               </StartInterval>
+               <EstimatedBestTime>
+                  <Time>0:00</Time>
+               </EstimatedBestTime>
+               <EstimatedLastPrizeTime>
+                  <Time>0:00</Time>
+               </EstimatedLastPrizeTime>
+               <AllocationMethod value="sNormalDraw" />
+               <StartMethod lateStartLimit="0" earlyStartLimit="0" value="allocatedStart" />
+               <ClassRaceStatus value="notAllocated" />
+               <PunchingUnitType value="Emit" />
+               <ModifyDate>
+                  <Date>2014-09-12</Date>
+                  <Clock>23:26:10</Clock>
+               </ModifyDate>
+            </ClassRaceInfo>
+            <ClassRaceInfo restartedTeamsAfter="Y" timeResolution="seconds" maxRunners="1" minRunners="1" relayLeg="2" finishChute="" bibNumberInherit="Y" bibNumberBase="" bibNumberPrefix="" numberOfPrizes="0" priceGivingDone="N" rankingRace="Y">
+               <ClassRaceInfoId>43433</ClassRaceInfoId>
+               <EventRaceId>2213</EventRaceId>
+               <EventClassId>39347</EventClassId>
+               <Name />
+               <FirstStart>
+                  <Date>2014-09-14</Date>
+                  <Clock>00:00:00</Clock>
+               </FirstStart>
+               <StartInterval>
+                  <Time>00:00</Time>
+               </StartInterval>
+               <EstimatedBestTime>
+                  <Time>0:00</Time>
+               </EstimatedBestTime>
+               <EstimatedLastPrizeTime>
+                  <Time>0:00</Time>
+               </EstimatedLastPrizeTime>
+               <AllocationMethod value="sNormalDraw" />
+               <StartMethod lateStartLimit="0" earlyStartLimit="0" value="allocatedStart" />
+               <ClassRaceStatus value="notAllocated" />
+               <PunchingUnitType value="Emit" />
+               <ModifyDate>
+                  <Date>2014-09-12</Date>
+                  <Clock>23:26:10</Clock>
+               </ModifyDate>
+            </ClassRaceInfo>
+            <ClassRaceInfo restartedTeamsAfter="Y" timeResolution="seconds" maxRunners="1" minRunners="1" relayLeg="3" finishChute="" bibNumberInherit="Y" bibNumberBase="" bibNumberPrefix="" numberOfPrizes="0" priceGivingDone="N" rankingRace="Y">
+               <ClassRaceInfoId>43432</ClassRaceInfoId>
+               <EventRaceId>2213</EventRaceId>
+               <EventClassId>39347</EventClassId>
+               <Name />
+               <FirstStart>
+                  <Date>2014-09-14</Date>
+                  <Clock>00:00:00</Clock>
+               </FirstStart>
+               <StartInterval>
+                  <Time>00:00</Time>
+               </StartInterval>
+               <EstimatedBestTime>
+                  <Time>0:00</Time>
+               </EstimatedBestTime>
+               <EstimatedLastPrizeTime>
+                  <Time>0:00</Time>
+               </EstimatedLastPrizeTime>
+               <AllocationMethod value="sNormalDraw" />
+               <StartMethod lateStartLimit="0" earlyStartLimit="0" value="allocatedStart" />
+               <ClassRaceStatus value="notAllocated" />
+               <PunchingUnitType value="Emit" />
+               <ModifyDate>
+                  <Date>2014-09-12</Date>
+                  <Clock>23:26:10</Clock>
+               </ModifyDate>
+            </ClassRaceInfo>
+         </EventClass>
+         <TeamResult>
+            <TeamName>Frol IL 1</TeamName>
+            <Organisation>
+               <OrganisationId>84</OrganisationId>
+               <Name languageId="sv">Frol IL</Name>
+               <ShortName languageId="sv">Frol IL</ShortName>
+               <CountryId value="578" />
+            </Organisation>
+            <BibNumber>104</BibNumber>
+            <TeamMemberResult>
+               <Person sex="M">
+                  <PersonName>
+                     <Family>Indgaard</Family>
+                     <Given sequence="1">Jo Forseth</Given>
+                  </PersonName>
+                  <PersonId idManager="SWE" type="nat">468</PersonId>
+                  <BirthDate>
+                     <Date>1991-06-14</Date>
+                  </BirthDate>
+                  <Nationality>
+                     <Country>
+                        <CountryId value="578" />
+                        <Alpha2 value="NO" />
+                        <Alpha3 value="NOR" />
+                     </Country>
+                  </Nationality>
+               </Person>
+               <Organisation>
+                  <OrganisationId>84</OrganisationId>
+                  <Name languageId="sv">Frol IL</Name>
+                  <ShortName languageId="sv">Frol IL</ShortName>
+                  <CountryId value="" />
+               </Organisation>
+               <Leg>3</Leg>
+               <LegOrder>3</LegOrder>
+               <BibNumber>10401</BibNumber>
+               <StartTime>
+                  <Date>2014-09-14</Date>
+                  <Clock>12:16:32</Clock>
+               </StartTime>
+               <FinishTime>
+                  <Date>2014-09-14</Date>
+                  <Clock>12:59:29</Clock>
+               </FinishTime>
+               <Time>42:57</Time>
+               <TimeBehind type="Leg">11.0</TimeBehind>
+               <Position type="Leg">2</Position>
+               <CompetitorStatus value="OK" />
+               <OverallResult>
+                  <Time>119:29</Time>
+                  <TimeDiff>0:03</TimeDiff>
+                  <ResultPosition>2</ResultPosition>
+                  <TeamStatus value="OK" />
+               </OverallResult>
+            </TeamMemberResult>
+         </TeamResult>
+         <TeamResult>
+            <TeamName>Frol IL 2</TeamName>
+            <Organisation>
+               <OrganisationId>84</OrganisationId>
+               <Name languageId="sv">Frol IL</Name>
+               <ShortName languageId="sv">Frol IL</ShortName>
+               <CountryId value="578" />
+            </Organisation>
+            <BibNumber>138</BibNumber>
+            <TeamMemberResult>
+               <Person sex="M">
+                  <PersonName>
+                     <Family>Lyngen</Family>
+                     <Given sequence="1">Carl Petter</Given>
+                  </PersonName>
+                  <PersonId idManager="SWE" type="nat">398</PersonId>
+                  <BirthDate>
+                     <Date>1992-07-30</Date>
+                  </BirthDate>
+                  <Nationality>
+                     <Country>
+                        <CountryId value="578" />
+                        <Alpha2 value="NO" />
+                        <Alpha3 value="NOR" />
+                     </Country>
+                  </Nationality>
+               </Person>
+               <Organisation>
+                  <OrganisationId>84</OrganisationId>
+                  <Name languageId="sv">Frol IL</Name>
+                  <ShortName languageId="sv">Frol IL</ShortName>
+                  <CountryId value="" />
+               </Organisation>
+               <Leg>2</Leg>
+               <LegOrder>2</LegOrder>
+               <BibNumber>13801</BibNumber>
+               <StartTime>
+                  <Date>2014-09-14</Date>
+                  <Clock>11:45:19</Clock>
+               </StartTime>
+               <FinishTime>
+                  <Date>2014-09-14</Date>
+                  <Clock>12:19:22</Clock>
+               </FinishTime>
+               <Time>34:03</Time>
+               <TimeBehind type="Leg">34.0</TimeBehind>
+               <Position type="Leg">3</Position>
+               <CompetitorStatus value="OK" />
+               <OverallResult>
+                  <Time>79:22</Time>
+                  <TimeDiff>3:41</TimeDiff>
+                  <ResultPosition>6</ResultPosition>
+                  <TeamStatus value="OK" />
+               </OverallResult>
+            </TeamMemberResult>
+         </TeamResult>
+         <TeamResult>
+            <TeamName>Halden SK 1</TeamName>
+            <Organisation>
+               <OrganisationId>101</OrganisationId>
+               <Name languageId="sv">Halden SK</Name>
+               <ShortName languageId="sv">Halden SK</ShortName>
+               <CountryId value="578" />
+            </Organisation>
+            <BibNumber>102</BibNumber>
+            <TeamMemberResult>
+               <Person sex="M">
+                  <PersonName>
+                     <Family>Dæhli</Family>
+                     <Given sequence="1">Magne</Given>
+                  </PersonName>
+                  <PersonId idManager="SWE" type="nat">260</PersonId>
+                  <BirthDate>
+                     <Date>1987-04-24</Date>
+                  </BirthDate>
+                  <Nationality>
+                     <Country>
+                        <CountryId value="578" />
+                        <Alpha2 value="NO" />
+                        <Alpha3 value="NOR" />
+                     </Country>
+                  </Nationality>
+               </Person>
+               <Organisation>
+                  <OrganisationId>101</OrganisationId>
+                  <Name languageId="sv">Halden SK</Name>
+                  <ShortName languageId="sv">Halden SK</ShortName>
+                  <CountryId value="" />
+               </Organisation>
+               <Leg>1</Leg>
+               <LegOrder>1</LegOrder>
+               <BibNumber>10201</BibNumber>
+               <StartTime>
+                  <Date>2014-09-14</Date>
+                  <Clock>11:00:00</Clock>
+               </StartTime>
+               <FinishTime>
+                  <Date>2014-09-14</Date>
+                  <Clock>11:40:53</Clock>
+               </FinishTime>
+               <Time>40:53</Time>
+               <TimeBehind type="Leg">0.0</TimeBehind>
+               <Position type="Leg">1</Position>
+               <CompetitorStatus value="OK" />
+               <OverallResult>
+                  <Time>40:53</Time>
+                  <TimeDiff>0:00</TimeDiff>
+                  <ResultPosition>1</ResultPosition>
+                  <TeamStatus value="OK" />
+               </OverallResult>
+            </TeamMemberResult>
+            <TeamMemberResult>
+               <Person sex="M">
+                  <PersonName>
+                     <Family>Lundanes</Family>
+                     <Given sequence="1">Olav</Given>
+                  </PersonName>
+                  <PersonId idManager="SWE" type="nat">1043</PersonId>
+                  <BirthDate>
+                     <Date>1987-11-11</Date>
+                  </BirthDate>
+                  <Nationality>
+                     <Country>
+                        <CountryId value="578" />
+                        <Alpha2 value="NO" />
+                        <Alpha3 value="NOR" />
+                     </Country>
+                  </Nationality>
+               </Person>
+               <Organisation>
+                  <OrganisationId>101</OrganisationId>
+                  <Name languageId="sv">Halden SK</Name>
+                  <ShortName languageId="sv">Halden SK</ShortName>
+                  <CountryId value="" />
+               </Organisation>
+               <Leg>3</Leg>
+               <LegOrder>3</LegOrder>
+               <BibNumber>10201</BibNumber>
+               <StartTime>
+                  <Date>2014-09-14</Date>
+                  <Clock>12:16:37</Clock>
+               </StartTime>
+               <FinishTime>
+                  <Date>2014-09-14</Date>
+                  <Clock>13:00:12</Clock>
+               </FinishTime>
+               <Time>43:35</Time>
+               <TimeBehind type="Leg">49.0</TimeBehind>
+               <Position type="Leg">3</Position>
+               <CompetitorStatus value="OK" />
+               <OverallResult>
+                  <Time>120:12</Time>
+                  <TimeDiff>0:46</TimeDiff>
+                  <ResultPosition>3</ResultPosition>
+                  <TeamStatus value="OK" />
+               </OverallResult>
+            </TeamMemberResult>
+         </TeamResult>
+         <TeamResult>
+            <TeamName>Bækkelagets SK 1</TeamName>
+            <Organisation>
+               <OrganisationId>32</OrganisationId>
+               <Name languageId="sv">Bækkelagets SK</Name>
+               <ShortName languageId="sv">Bækkelagets SK</ShortName>
+               <CountryId value="578" />
+            </Organisation>
+            <BibNumber>124</BibNumber>
+            <TeamMemberResult>
+               <Person sex="M">
+                  <PersonName>
+                     <Family>Kaas</Family>
+                     <Given sequence="1">Carl Godager</Given>
+                  </PersonName>
+                  <PersonId idManager="SWE" type="nat">2892</PersonId>
+                  <BirthDate>
+                     <Date>1982-07-28</Date>
+                  </BirthDate>
+                  <Nationality>
+                     <Country>
+                        <CountryId value="578" />
+                        <Alpha2 value="NO" />
+                        <Alpha3 value="NOR" />
+                     </Country>
+                  </Nationality>
+               </Person>
+               <Organisation>
+                  <OrganisationId>32</OrganisationId>
+                  <Name languageId="sv">Bækkelagets SK</Name>
+                  <ShortName languageId="sv">Bækkelagets SK</ShortName>
+                  <CountryId value="" />
+               </Organisation>
+               <Leg>3</Leg>
+               <LegOrder>3</LegOrder>
+               <BibNumber>12401</BibNumber>
+               <StartTime>
+                  <Date>2014-09-14</Date>
+                  <Clock>12:23:27</Clock>
+               </StartTime>
+               <FinishTime>
+                  <Date>2014-09-14</Date>
+                  <Clock>13:06:13</Clock>
+               </FinishTime>
+               <Time>42:46</Time>
+               <TimeBehind type="Leg">0.0</TimeBehind>
+               <Position type="Leg">1</Position>
+               <CompetitorStatus value="OK" />
+               <OverallResult>
+                  <Time>126:13</Time>
+                  <TimeDiff>6:47</TimeDiff>
+                  <ResultPosition>11</ResultPosition>
+                  <TeamStatus value="OK" />
+               </OverallResult>
+            </TeamMemberResult>
+         </TeamResult>
+         <TeamResult>
+            <TeamName>Kristiansand OK 1</TeamName>
+            <Organisation>
+               <OrganisationId>189</OrganisationId>
+               <Name languageId="sv">Kristiansand OK</Name>
+               <ShortName languageId="sv">Kristiansand OK</ShortName>
+               <CountryId value="578" />
+            </Organisation>
+            <BibNumber>106</BibNumber>
+            <TeamMemberResult>
+               <Person sex="M">
+                  <PersonName>
+                     <Family>Svensen</Family>
+                     <Given sequence="1">Eirik Martens</Given>
+                  </PersonName>
+                  <PersonId idManager="SWE" type="nat">3040</PersonId>
+                  <BirthDate>
+                     <Date>1980-07-20</Date>
+                  </BirthDate>
+                  <Nationality>
+                     <Country>
+                        <CountryId value="578" />
+                        <Alpha2 value="NO" />
+                        <Alpha3 value="NOR" />
+                     </Country>
+                  </Nationality>
+               </Person>
+               <Organisation>
+                  <OrganisationId>189</OrganisationId>
+                  <Name languageId="sv">Kristiansand OK</Name>
+                  <ShortName languageId="sv">Kristiansand OK</ShortName>
+                  <CountryId value="" />
+               </Organisation>
+               <Leg>1</Leg>
+               <LegOrder>1</LegOrder>
+               <BibNumber>10601</BibNumber>
+               <StartTime>
+                  <Date>2014-09-14</Date>
+                  <Clock>11:00:00</Clock>
+               </StartTime>
+               <FinishTime>
+                  <Date>2014-09-14</Date>
+                  <Clock>11:41:04</Clock>
+               </FinishTime>
+               <Time>41:04</Time>
+               <TimeBehind type="Leg">11.0</TimeBehind>
+               <Position type="Leg">3</Position>
+               <CompetitorStatus value="OK" />
+               <OverallResult>
+                  <Time>41:04</Time>
+                  <TimeDiff>0:11</TimeDiff>
+                  <ResultPosition>3</ResultPosition>
+                  <TeamStatus value="OK" />
+               </OverallResult>
+            </TeamMemberResult>
+         </TeamResult>
+         <TeamResult>
+            <TeamName>Ås-NMBU Orientering 1</TeamName>
+            <Organisation>
+               <OrganisationId>402</OrganisationId>
+               <Name languageId="sv">Ås-NMBU Orientering</Name>
+               <ShortName languageId="sv">Ås-NMBU Orientering</ShortName>
+               <CountryId value="578" />
+            </Organisation>
+            <BibNumber>112</BibNumber>
+            <TeamMemberResult>
+               <Person sex="M">
+                  <PersonName>
+                     <Family>Lucasen</Family>
+                     <Given sequence="1">Håvard</Given>
+                  </PersonName>
+                  <PersonId idManager="SWE" type="nat">479</PersonId>
+                  <BirthDate>
+                     <Date>1982-07-07</Date>
+                  </BirthDate>
+                  <Nationality>
+                     <Country>
+                        <CountryId value="578" />
+                        <Alpha2 value="NO" />
+                        <Alpha3 value="NOR" />
+                     </Country>
+                  </Nationality>
+               </Person>
+               <Organisation>
+                  <OrganisationId>402</OrganisationId>
+                  <Name languageId="sv">Ås-NMBU Orientering</Name>
+                  <ShortName languageId="sv">Ås-NMBU Orientering</ShortName>
+                  <CountryId value="" />
+               </Organisation>
+               <Leg>3</Leg>
+               <LegOrder>3</LegOrder>
+               <BibNumber>11201</BibNumber>
+               <StartTime>
+                  <Date>2014-09-14</Date>
+                  <Clock>12:22:31</Clock>
+               </StartTime>
+               <FinishTime>
+                  <Date>2014-09-14</Date>
+                  <Clock>13:15:53</Clock>
+               </FinishTime>
+               <Time>53:22</Time>
+               <TimeBehind type="Leg">636.0</TimeBehind>
+               <Position type="Leg">37</Position>
+               <CompetitorStatus value="OK" />
+               <OverallResult>
+                  <Time>135:53</Time>
+                  <TimeDiff>16:27</TimeDiff>
+                  <ResultPosition>29</ResultPosition>
+                  <TeamStatus value="OK" />
+               </OverallResult>
+            </TeamMemberResult>
+         </TeamResult>
+         <TeamResult>
+            <TeamName>NTNUI 1</TeamName>
+            <Organisation>
+               <OrganisationId>244</OrganisationId>
+               <Name languageId="sv">NTNUI</Name>
+               <ShortName languageId="sv">NTNUI</ShortName>
+               <CountryId value="578" />
+            </Organisation>
+            <BibNumber>107</BibNumber>
+            <TeamMemberResult>
+               <Person sex="M">
+                  <PersonName>
+                     <Family>Årstad</Family>
+                     <Given sequence="1">Thomas Natvig</Given>
+                  </PersonName>
+                  <PersonId idManager="SWE" type="nat">1100</PersonId>
+                  <BirthDate>
+                     <Date>1989-11-01</Date>
+                  </BirthDate>
+                  <Nationality>
+                     <Country>
+                        <CountryId value="578" />
+                        <Alpha2 value="NO" />
+                        <Alpha3 value="NOR" />
+                     </Country>
+                  </Nationality>
+               </Person>
+               <Organisation>
+                  <OrganisationId>244</OrganisationId>
+                  <Name languageId="sv">NTNUI</Name>
+                  <ShortName languageId="sv">NTNUI</ShortName>
+                  <CountryId value="" />
+               </Organisation>
+               <Leg>2</Leg>
+               <LegOrder>2</LegOrder>
+               <BibNumber>10701</BibNumber>
+               <StartTime>
+                  <Date>2014-09-14</Date>
+                  <Clock>11:44:53</Clock>
+               </StartTime>
+               <FinishTime>
+                  <Date>2014-09-14</Date>
+                  <Clock>12:18:22</Clock>
+               </FinishTime>
+               <Time>33:29</Time>
+               <TimeBehind type="Leg">0.0</TimeBehind>
+               <Position type="Leg">1</Position>
+               <CompetitorStatus value="OK" />
+               <OverallResult>
+                  <Time>78:22</Time>
+                  <TimeDiff>2:41</TimeDiff>
+                  <ResultPosition>5</ResultPosition>
+                  <TeamStatus value="OK" />
+               </OverallResult>
+            </TeamMemberResult>
+         </TeamResult>
+         <TeamResult>
+            <TeamName>Wing OK 1</TeamName>
+            <Organisation>
+               <OrganisationId>379</OrganisationId>
+               <Name languageId="sv">Wing OK</Name>
+               <ShortName languageId="sv">Wing OK</ShortName>
+               <CountryId value="578" />
+            </Organisation>
+            <BibNumber>108</BibNumber>
+            <TeamMemberResult>
+               <Person sex="M">
+                  <PersonName>
+                     <Family>Østerbø</Family>
+                     <Given sequence="1">Øystein Kvaal</Given>
+                  </PersonName>
+                  <PersonId idManager="SWE" type="nat">716</PersonId>
+                  <BirthDate>
+                     <Date>1981-07-07</Date>
+                  </BirthDate>
+                  <Nationality>
+                     <Country>
+                        <CountryId value="578" />
+                        <Alpha2 value="NO" />
+                        <Alpha3 value="NOR" />
+                     </Country>
+                  </Nationality>
+               </Person>
+               <Organisation>
+                  <OrganisationId>379</OrganisationId>
+                  <Name languageId="sv">Wing OK</Name>
+                  <ShortName languageId="sv">Wing OK</ShortName>
+                  <CountryId value="" />
+               </Organisation>
+               <Leg>1</Leg>
+               <LegOrder>1</LegOrder>
+               <BibNumber>10801</BibNumber>
+               <StartTime>
+                  <Date>2014-09-14</Date>
+                  <Clock>11:00:00</Clock>
+               </StartTime>
+               <FinishTime>
+                  <Date>2014-09-14</Date>
+                  <Clock>11:40:56</Clock>
+               </FinishTime>
+               <Time>40:56</Time>
+               <TimeBehind type="Leg">3.0</TimeBehind>
+               <Position type="Leg">2</Position>
+               <CompetitorStatus value="OK" />
+               <OverallResult>
+                  <Time>40:56</Time>
+                  <TimeDiff>0:03</TimeDiff>
+                  <ResultPosition>2</ResultPosition>
+                  <TeamStatus value="OK" />
+               </OverallResult>
+            </TeamMemberResult>
+         </TeamResult>
+         <TeamResult>
+            <TeamName>IL Tyrving 1</TeamName>
+            <Organisation>
+               <OrganisationId>163</OrganisationId>
+               <Name languageId="sv">IL Tyrving</Name>
+               <ShortName languageId="sv">IL Tyrving</ShortName>
+               <CountryId value="578" />
+            </Organisation>
+            <BibNumber>101</BibNumber>
+            <TeamMemberResult>
+               <Person sex="M">
+                  <PersonName>
+                     <Family>Tiltnes</Family>
+                     <Given sequence="1">Anders</Given>
+                  </PersonName>
+                  <PersonId idManager="SWE" type="nat">4526</PersonId>
+                  <BirthDate>
+                     <Date>1984-05-28</Date>
+                  </BirthDate>
+                  <Nationality>
+                     <Country>
+                        <CountryId value="578" />
+                        <Alpha2 value="NO" />
+                        <Alpha3 value="NOR" />
+                     </Country>
+                  </Nationality>
+               </Person>
+               <Organisation>
+                  <OrganisationId>163</OrganisationId>
+                  <Name languageId="sv">IL Tyrving</Name>
+                  <ShortName languageId="sv">IL Tyrving</ShortName>
+                  <CountryId value="" />
+               </Organisation>
+               <Leg>2</Leg>
+               <LegOrder>2</LegOrder>
+               <BibNumber>10101</BibNumber>
+               <StartTime>
+                  <Date>2014-09-14</Date>
+                  <Clock>11:41:55</Clock>
+               </StartTime>
+               <FinishTime>
+                  <Date>2014-09-14</Date>
+                  <Clock>12:15:41</Clock>
+               </FinishTime>
+               <Time>33:46</Time>
+               <TimeBehind type="Leg">17.0</TimeBehind>
+               <Position type="Leg">2</Position>
+               <CompetitorStatus value="OK" />
+               <OverallResult>
+                  <Time>75:41</Time>
+                  <TimeDiff>0:00</TimeDiff>
+                  <ResultPosition>1</ResultPosition>
+                  <TeamStatus value="OK" />
+               </OverallResult>
+            </TeamMemberResult>
+         </TeamResult>
+         <TeamResult>
+            <TeamName>Heming Orientering 3</TeamName>
+            <Organisation>
+               <OrganisationId>114</OrganisationId>
+               <Name languageId="sv">Heming Orientering</Name>
+               <ShortName languageId="sv">Heming Orientering</ShortName>
+               <CountryId value="578" />
+            </Organisation>
+            <BibNumber>200</BibNumber>
+            <TeamMemberResult>
+               <Person>
+                  <PersonName>
+                     <Family>Norman</Family>
+                     <Given sequence="1">Niklas</Given>
+                  </PersonName>
+               </Person>
+               <Organisation>
+                  <OrganisationId>114</OrganisationId>
+                  <Name languageId="sv">Heming Orientering</Name>
+                  <ShortName languageId="sv">Heming Orientering</ShortName>
+                  <CountryId value="" />
+               </Organisation>
+               <Leg>1</Leg>
+               <LegOrder>1</LegOrder>
+               <BibNumber>20001</BibNumber>
+               <StartTime>
+                  <Date>2014-09-14</Date>
+                  <Clock>11:00:00</Clock>
+               </StartTime>
+               <FinishTime>
+                  <Date>2014-09-14</Date>
+                  <Clock>12:00:47</Clock>
+               </FinishTime>
+               <Time>60:47</Time>
+               <TimeBehind type="Leg">1194.0</TimeBehind>
+               <Position type="Leg">0</Position>
+               <CompetitorStatus value="OK" />
+               <OverallResult>
+                  <TeamStatus value="DidNotFinish" />
+               </OverallResult>
+            </TeamMemberResult>
+            <TeamMemberResult>
+               <Person sex="M">
+                  <PersonName>
+                     <Family>Aagard</Family>
+                     <Given sequence="1">Gunnar Nerdrum</Given>
+                  </PersonName>
+                  <PersonId idManager="SWE" type="nat">18933</PersonId>
+                  <BirthDate>
+                     <Date>1982-09-01</Date>
+                  </BirthDate>
+                  <Nationality>
+                     <Country>
+                        <CountryId value="578" />
+                        <Alpha2 value="NO" />
+                        <Alpha3 value="NOR" />
+                     </Country>
+                  </Nationality>
+               </Person>
+               <Organisation>
+                  <OrganisationId>114</OrganisationId>
+                  <Name languageId="sv">Heming Orientering</Name>
+                  <ShortName languageId="sv">Heming Orientering</ShortName>
+                  <CountryId value="" />
+               </Organisation>
+               <Leg>2</Leg>
+               <LegOrder>2</LegOrder>
+               <BibNumber>20001</BibNumber>
+               <StartTime>
+                  <Date>2014-09-14</Date>
+                  <Clock>12:00:47</Clock>
+               </StartTime>
+               <FinishTime>
+                  <Date>2014-09-14</Date>
+                  <Clock>13:56:41</Clock>
+               </FinishTime>
+               <Time>115:54</Time>
+               <TimeBehind type="Leg">4945.0</TimeBehind>
+               <Position type="Leg">0</Position>
+               <CompetitorStatus value="OK" />
+               <OverallResult>
+                  <TeamStatus value="DidNotFinish" />
+               </OverallResult>
+            </TeamMemberResult>
+         </TeamResult>
+         <TeamResult>
+            <TeamName>Varegg Fleridrett 4</TeamName>
+            <Organisation>
+               <OrganisationId>368</OrganisationId>
+               <Name languageId="sv">Varegg Fleridrett</Name>
+               <ShortName languageId="sv">Varegg Fleridrett</ShortName>
+               <CountryId value="578" />
+            </Organisation>
+            <BibNumber>205</BibNumber>
+            <TeamMemberResult>
+               <Person sex="M">
+                  <PersonName>
+                     <Family>Røen</Family>
+                     <Given sequence="1">Oskar</Given>
+                  </PersonName>
+                  <PersonId idManager="SWE" type="nat">800</PersonId>
+                  <BirthDate>
+                     <Date>1993-08-05</Date>
+                  </BirthDate>
+                  <Nationality>
+                     <Country>
+                        <CountryId value="578" />
+                        <Alpha2 value="NO" />
+                        <Alpha3 value="NOR" />
+                     </Country>
+                  </Nationality>
+               </Person>
+               <Organisation>
+                  <OrganisationId>368</OrganisationId>
+                  <Name languageId="sv">Varegg Fleridrett</Name>
+                  <ShortName languageId="sv">Varegg Fleridrett</ShortName>
+                  <CountryId value="" />
+               </Organisation>
+               <Leg>1</Leg>
+               <LegOrder>1</LegOrder>
+               <BibNumber>20501</BibNumber>
+               <StartTime>
+                  <Date>2014-09-14</Date>
+                  <Clock>11:00:00</Clock>
+               </StartTime>
+               <FinishTime>
+                  <Date>2014-09-14</Date>
+                  <Clock>11:53:47</Clock>
+               </FinishTime>
+               <Time>53:47</Time>
+               <TimeBehind type="Leg">774.0</TimeBehind>
+               <Position type="Leg">0</Position>
+               <CompetitorStatus value="OK" />
+               <OverallResult>
+                  <TeamStatus value="DidNotFinish" />
+               </OverallResult>
+            </TeamMemberResult>
+            <TeamMemberResult>
+               <Person sex="M">
+                  <PersonName>
+                     <Family>Ottesen</Family>
+                     <Given sequence="1">Per Ola</Given>
+                  </PersonName>
+                  <PersonId idManager="SWE" type="nat">748</PersonId>
+                  <BirthDate>
+                     <Date>1994-03-24</Date>
+                  </BirthDate>
+                  <Nationality>
+                     <Country>
+                        <CountryId value="578" />
+                        <Alpha2 value="NO" />
+                        <Alpha3 value="NOR" />
+                     </Country>
+                  </Nationality>
+               </Person>
+               <Organisation>
+                  <OrganisationId>368</OrganisationId>
+                  <Name languageId="sv">Varegg Fleridrett</Name>
+                  <ShortName languageId="sv">Varegg Fleridrett</ShortName>
+                  <CountryId value="" />
+               </Organisation>
+               <Leg>2</Leg>
+               <LegOrder>2</LegOrder>
+               <BibNumber>20501</BibNumber>
+               <StartTime>
+                  <Date>2014-09-14</Date>
+                  <Clock>11:53:47</Clock>
+               </StartTime>
+               <FinishTime>
+                  <Date>2014-09-14</Date>
+                  <Clock>12:45:39</Clock>
+               </FinishTime>
+               <Time>51:52</Time>
+               <TimeBehind type="Leg">1103.0</TimeBehind>
+               <Position type="Leg">0</Position>
+               <CompetitorStatus value="OK" />
+               <OverallResult>
+                  <TeamStatus value="DidNotFinish" />
+               </OverallResult>
+            </TeamMemberResult>
+         </TeamResult>
+         <TeamResult>
+            <TeamName>Ganddal IL 1</TeamName>
+            <Organisation>
+               <OrganisationId>88</OrganisationId>
+               <Name languageId="sv">Ganddal IL</Name>
+               <ShortName languageId="sv">Ganddal IL</ShortName>
+               <CountryId value="578" />
+            </Organisation>
+            <BibNumber>206</BibNumber>
+            <TeamMemberResult>
+               <Person sex="M">
+                  <PersonName>
+                     <Family>Lima</Family>
+                     <Given sequence="1">Alf Johan W.</Given>
+                  </PersonName>
+                  <PersonId idManager="SWE" type="nat">3258</PersonId>
+                  <BirthDate>
+                     <Date>1985-03-28</Date>
+                  </BirthDate>
+                  <Nationality>
+                     <Country>
+                        <CountryId value="578" />
+                        <Alpha2 value="NO" />
+                        <Alpha3 value="NOR" />
+                     </Country>
+                  </Nationality>
+               </Person>
+               <Organisation>
+                  <OrganisationId>88</OrganisationId>
+                  <Name languageId="sv">Ganddal IL</Name>
+                  <ShortName languageId="sv">Ganddal IL</ShortName>
+                  <CountryId value="" />
+               </Organisation>
+               <Leg>1</Leg>
+               <LegOrder>1</LegOrder>
+               <BibNumber>20601</BibNumber>
+               <StartTime>
+                  <Date>2014-09-14</Date>
+                  <Clock>11:00:00</Clock>
+               </StartTime>
+               <FinishTime>
+                  <Date>2014-09-14</Date>
+                  <Clock>11:58:08</Clock>
+               </FinishTime>
+               <Time>58:08</Time>
+               <TimeBehind type="Leg">1035.0</TimeBehind>
+               <Position type="Leg">0</Position>
+               <CompetitorStatus value="OK" />
+               <OverallResult>
+                  <TeamStatus value="DidNotFinish" />
+               </OverallResult>
+            </TeamMemberResult>
+         </TeamResult>
+      </ClassResult>
+   </ResultList>
+   <ResultList>
+      <Event eventForm="IndSingleDay">
+         <EventId>3372</EventId>
+         <Name languageId="sv">Blodslitet eliteklasser</Name>
+         <EventClassificationId>2</EventClassificationId>
+         <EventStatusId>11</EventStatusId>
+         <StartDate>
+            <Date>2014-10-18</Date>
+            <Clock>00:00:00</Clock>
+         </StartDate>
+         <FinishDate>
+            <Date>2014-10-18</Date>
+            <Clock>00:00:00</Clock>
+         </FinishDate>
+         <Organiser>
+            <OrganisationId>82</OrganisationId>
+         </Organiser>
+         <WebURL>http://blodslitet.no/</WebURL>
+         <Comment />
+         <PunchingUnitType value="Emit" />
+         <ModifyDate>
+            <Date>2014-10-18</Date>
+            <Clock>21:53:55</Clock>
+         </ModifyDate>
+         <ModifiedBy>
+            <PersonId idManager="SWE" type="nat">1817</PersonId>
+         </ModifiedBy>
+      </Event>
+      <ClassResult>
+         <EventClass allowEntryInAdvance="Y" numberOfPrizes="0" normalizedClass="Y" totalResult="Y" timePresentation="Y" actualForRanking="N" divideClassMethod="divideByClub" maxNumberInClass="0" numberOfVacancies="0" numberOfLegs="1" teamEntry="N" numberInTeam="1" sex="M" sequence="350" lowAge="15">
+            <EventClassId>39187</EventClassId>
+            <Name languageId="sv">H21</Name>
+            <ClassShortName>H21</ClassShortName>
+            <EventClassStatus value="normal" />
+            <EventId>3372</EventId>
+            <ClassTypeId>2</ClassTypeId>
+            <BaseClassId>35</BaseClassId>
+            <ModifyDate>
+               <Date>2014-10-17</Date>
+               <Clock>20:36:44</Clock>
+            </ModifyDate>
+            <ClassRaceInfo noOfStarts="47" noOfEntries="47">
+               <EventRaceId>3530</EventRaceId>
+               <CourseLength>25275.0</CourseLength>
+            </ClassRaceInfo>
+         </EventClass>
+         <PersonResult>
+            <Person sex="M">
+               <PersonName>
+                  <Family>Bergman</Family>
+                  <Given sequence="1">Gustav</Given>
+               </PersonName>
+               <PersonId idManager="SWE" type="nat">15850</PersonId>
+               <BirthDate>
+                  <Date>1990-12-04</Date>
+               </BirthDate>
+               <Nationality>
+                  <Country>
+                     <CountryId value="752" />
+                     <Alpha2 value="SE" />
+                     <Alpha3 value="SWE" />
+                  </Country>
+               </Nationality>
+            </Person>
+            <Organisation>
+               <OrganisationId>663</OrganisationId>
+               <Name languageId="sv">OK Ravinen</Name>
+               <ShortName languageId="sv">OK Ravinen</ShortName>
+            </Organisation>
+            <Result>
+               <ResultId>679079</ResultId>
+               <BibNumber>34</BibNumber>
+               <StartTime>
+                  <Date>2014-10-18</Date>
+                  <Clock>10:45:00</Clock>
+               </StartTime>
+               <FinishTime>
+                  <Date>2014-10-18</Date>
+                  <Clock>13:16:20</Clock>
+               </FinishTime>
+               <Time>151:20</Time>
+               <TimeDiff>0:00</TimeDiff>
+               <ResultPosition>1</ResultPosition>
+               <CompetitorStatus value="OK" />
+               <ModifyDate>
+                  <Date>2014-10-18</Date>
+                  <Clock>19:02:52</Clock>
+               </ModifyDate>
+               <ModifiedBy>
+                  <PersonId idManager="SWE" type="nat">15850</PersonId>
+               </ModifiedBy>
+            </Result>
+         </PersonResult>
+         <PersonResult>
+            <Person sex="M">
+               <PersonName>
+                  <Family>Kaas</Family>
+                  <Given sequence="1">Carl Godager</Given>
+               </PersonName>
+               <PersonId idManager="SWE" type="nat">2892</PersonId>
+               <BirthDate>
+                  <Date>1982-07-28</Date>
+               </BirthDate>
+               <Nationality>
+                  <Country>
+                     <CountryId value="578" />
+                     <Alpha2 value="NO" />
+                     <Alpha3 value="NOR" />
+                  </Country>
+               </Nationality>
+            </Person>
+            <Organisation>
+               <OrganisationId>32</OrganisationId>
+               <Name languageId="sv">Bækkelagets SK</Name>
+               <ShortName languageId="sv">Bækkelagets SK</ShortName>
+            </Organisation>
+            <Result>
+               <ResultId>657215</ResultId>
+               <BibNumber>5</BibNumber>
+               <StartTime>
+                  <Date>2014-10-18</Date>
+                  <Clock>10:45:00</Clock>
+               </StartTime>
+               <FinishTime>
+                  <Date>2014-10-18</Date>
+                  <Clock>13:17:28</Clock>
+               </FinishTime>
+               <Time>152:28</Time>
+               <TimeDiff>1:08</TimeDiff>
+               <ResultPosition>2</ResultPosition>
+               <CompetitorStatus value="OK" />
+               <ModifyDate>
+                  <Date>2014-10-18</Date>
+                  <Clock>19:02:52</Clock>
+               </ModifyDate>
+               <ModifiedBy>
+                  <PersonId idManager="SWE" type="nat">2892</PersonId>
+               </ModifiedBy>
+            </Result>
+         </PersonResult>
+         <PersonResult>
+            <Person sex="M">
+               <PersonName>
+                  <Family>Nordberg</Family>
+                  <Given sequence="1">Anders</Given>
+               </PersonName>
+               <PersonId idManager="SWE" type="nat">555</PersonId>
+               <BirthDate>
+                  <Date>1978-02-17</Date>
+               </BirthDate>
+               <Nationality>
+                  <Country>
+                     <CountryId value="578" />
+                     <Alpha2 value="NO" />
+                     <Alpha3 value="NOR" />
+                  </Country>
+               </Nationality>
+            </Person>
+            <Organisation>
+               <OrganisationId>245</OrganisationId>
+               <Name languageId="sv">Nydalens SK</Name>
+               <ShortName languageId="sv">Nydalens SK</ShortName>
+            </Organisation>
+            <Result>
+               <ResultId>654446</ResultId>
+               <BibNumber>10</BibNumber>
+               <StartTime>
+                  <Date>2014-10-18</Date>
+                  <Clock>10:45:00</Clock>
+               </StartTime>
+               <FinishTime>
+                  <Date>2014-10-18</Date>
+                  <Clock>13:17:42</Clock>
+               </FinishTime>
+               <Time>152:42</Time>
+               <TimeDiff>1:22</TimeDiff>
+               <ResultPosition>3</ResultPosition>
+               <CompetitorStatus value="OK" />
+               <ModifyDate>
+                  <Date>2014-10-18</Date>
+                  <Clock>19:02:52</Clock>
+               </ModifyDate>
+               <ModifiedBy>
+                  <PersonId idManager="SWE" type="nat">555</PersonId>
+               </ModifiedBy>
+            </Result>
+         </PersonResult>
+         <PersonResult>
+            <Person sex="M">
+               <PersonName>
+                  <Family>Lucasen</Family>
+                  <Given sequence="1">Håvard</Given>
+               </PersonName>
+               <PersonId idManager="SWE" type="nat">479</PersonId>
+               <BirthDate>
+                  <Date>1982-07-07</Date>
+               </BirthDate>
+               <Nationality>
+                  <Country>
+                     <CountryId value="578" />
+                     <Alpha2 value="NO" />
+                     <Alpha3 value="NOR" />
+                  </Country>
+               </Nationality>
+            </Person>
+            <Organisation>
+               <OrganisationId>409</OrganisationId>
+               <Name languageId="sv">Vaajakosken Terä</Name>
+               <ShortName languageId="sv">Vaajakosken Terä</ShortName>
+            </Organisation>
+            <Result>
+               <ResultId>695015</ResultId>
+               <BibNumber>12</BibNumber>
+               <CCardId>160833</CCardId>
+               <StartTime>
+                  <Date>2014-10-18</Date>
+                  <Clock>10:45:00</Clock>
+               </StartTime>
+               <FinishTime />
+               <CompetitorStatus value="Cancelled" />
+               <ModifyDate>
+                  <Date>2014-10-18</Date>
+                  <Clock>15:41:07</Clock>
+               </ModifyDate>
+               <ModifiedBy>
+                  <PersonId idManager="SWE" type="nat">479</PersonId>
+               </ModifiedBy>
+            </Result>
+         </PersonResult>
+      </ClassResult>
+   </ResultList>
+</ResultListList>

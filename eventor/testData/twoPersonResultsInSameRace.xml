@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResultListList>
+   <ResultList>
+      <Event eventForm="IndSingleDay">
+         <EventId>3334</EventId>
+         <Name languageId="sv">NM natt</Name>
+         <EventClassificationId>1</EventClassificationId>
+         <EventStatusId>11</EventStatusId>
+         <StartDate>
+            <Date>2014-09-05</Date>
+            <Clock>00:00:00</Clock>
+         </StartDate>
+         <FinishDate>
+            <Date>2014-09-05</Date>
+            <Clock>00:00:00</Clock>
+         </FinishDate>
+         <Organiser>
+            <OrganisationId>262</OrganisationId>
+         </Organiser>
+         <WebURL>http://www.nm2014.net/</WebURL>
+         <Comment />
+         <PunchingUnitType value="Emit" />
+         <ModifyDate>
+            <Date>2014-10-06</Date>
+            <Clock>08:43:15</Clock>
+         </ModifyDate>
+         <ModifiedBy>
+            <PersonId idManager="SWE" type="nat">206</PersonId>
+         </ModifiedBy>
+      </Event>
+      <ClassResult>
+         <EventClass allowEntryInAdvance="Y" numberOfPrizes="0" normalizedClass="Y" totalResult="Y" timePresentation="Y" actualForRanking="N" divideClassMethod="divideByClub" maxNumberInClass="0" numberOfVacancies="0" numberOfLegs="1" teamEntry="N" numberInTeam="1" sex="M" lowAge="21">
+            <EventClassId>39473</EventClassId>
+            <Name languageId="sv">H 21-</Name>
+            <ClassShortName>H 21-</ClassShortName>
+            <EventClassStatus value="normal" />
+            <EventId>3334</EventId>
+            <ClassTypeId>2</ClassTypeId>
+            <BaseClassId>35</BaseClassId>
+            <ModifyDate>
+               <Date>2014-09-04</Date>
+               <Clock>17:22:21</Clock>
+            </ModifyDate>
+            <ClassRaceInfo noOfStarts="60" noOfEntries="68">
+               <EventRaceId>3492</EventRaceId>
+               <CourseLength>10530.0</CourseLength>
+            </ClassRaceInfo>
+         </EventClass>
+         <PersonResult>
+            <Person>
+               <PersonName>
+                  <Family>Kaas</Family>
+                  <Given sequence="1">Carl Godager</Given>
+               </PersonName>
+            </Person>
+            <Organisation>
+               <OrganisationId>32</OrganisationId>
+               <Name languageId="sv">Bækkelagets SK</Name>
+               <ShortName languageId="sv">Bækkelagets SK</ShortName>
+            </Organisation>
+            <Result>
+               <ResultId>671297</ResultId>
+               <BibNumber>57</BibNumber>
+               <CCardId>201412</CCardId>
+               <CCardId>3597259</CCardId>
+               <StartTime>
+                  <Date>2014-09-05</Date>
+                  <Clock>22:42:00</Clock>
+               </StartTime>
+               <FinishTime>
+                  <Date>2014-09-06</Date>
+                  <Clock>00:04:46</Clock>
+               </FinishTime>
+               <Time>82:46</Time>
+               <TimeDiff>0:00</TimeDiff>
+               <ResultPosition>1</ResultPosition>
+               <CompetitorStatus value="OK" />
+               <ModifyDate>
+                  <Date>2014-09-06</Date>
+                  <Clock>10:10:59</Clock>
+               </ModifyDate>
+            </Result>
+         </PersonResult>
+         <PersonResult>
+            <Person sex="M">
+               <PersonName>
+                  <Family>Årstad</Family>
+                  <Given sequence="1">Thomas Natvig</Given>
+               </PersonName>
+               <PersonId idManager="SWE" type="nat">1100</PersonId>
+               <BirthDate>
+                  <Date>1989-11-01</Date>
+               </BirthDate>
+               <Nationality>
+                  <Country>
+                     <CountryId value="578" />
+                     <Alpha2 value="NO" />
+                     <Alpha3 value="NOR" />
+                  </Country>
+               </Nationality>
+            </Person>
+            <Organisation>
+               <OrganisationId>244</OrganisationId>
+               <Name languageId="sv">NTNUI</Name>
+               <ShortName languageId="sv">NTNUI</ShortName>
+            </Organisation>
+            <Result>
+               <ResultId>646338</ResultId>
+               <BibNumber>68</BibNumber>
+               <CCardId>158625</CCardId>
+               <CCardId>3620341</CCardId>
+               <StartTime>
+                  <Date>2014-09-05</Date>
+                  <Clock>22:53:00</Clock>
+               </StartTime>
+               <FinishTime>
+                  <Date>2014-09-06</Date>
+                  <Clock>00:18:48</Clock>
+               </FinishTime>
+               <Time>85:48</Time>
+               <TimeDiff>3:02</TimeDiff>
+               <ResultPosition>2</ResultPosition>
+               <CompetitorStatus value="OK" />
+               <ModifyDate>
+                  <Date>2014-09-06</Date>
+                  <Clock>10:10:59</Clock>
+               </ModifyDate>
+               <ModifiedBy>
+                  <PersonId idManager="SWE" type="nat">1100</PersonId>
+               </ModifiedBy>
+            </Result>
+         </PersonResult>
+         <PersonResult>
+            <Person sex="M">
+               <PersonName>
+                  <Family>Indgaard</Family>
+                  <Given sequence="1">Ulf Forseth</Given>
+               </PersonName>
+               <PersonId idManager="SWE" type="nat">568</PersonId>
+               <BirthDate>
+                  <Date>1989-02-11</Date>
+               </BirthDate>
+               <Nationality>
+                  <Country>
+                     <CountryId value="578" />
+                     <Alpha2 value="NO" />
+                     <Alpha3 value="NOR" />
+                  </Country>
+               </Nationality>
+            </Person>
+            <Organisation>
+               <OrganisationId>84</OrganisationId>
+               <Name languageId="sv">Frol IL</Name>
+               <ShortName languageId="sv">Frol IL</ShortName>
+            </Organisation>
+            <Result>
+               <ResultId>643490</ResultId>
+               <BibNumber>64</BibNumber>
+               <CCardId>190906</CCardId>
+               <CCardId>3623873</CCardId>
+               <StartTime>
+                  <Date>2014-09-05</Date>
+                  <Clock>22:49:00</Clock>
+               </StartTime>
+               <FinishTime>
+                  <Date>2014-09-06</Date>
+                  <Clock>00:15:21</Clock>
+               </FinishTime>
+               <Time>86:21</Time>
+               <TimeDiff>3:35</TimeDiff>
+               <ResultPosition>3</ResultPosition>
+               <CompetitorStatus value="OK" />
+               <ModifyDate>
+                  <Date>2014-09-06</Date>
+                  <Clock>10:11:00</Clock>
+               </ModifyDate>
+               <ModifiedBy>
+                  <PersonId idManager="SWE" type="nat">568</PersonId>
+               </ModifiedBy>
+            </Result>
+         </PersonResult>
+         <PersonResult>
+            <Person sex="M">
+               <PersonName>
+                  <Family>Kaas</Family>
+                  <Given sequence="1">Carl Godager</Given>
+               </PersonName>
+               <PersonId idManager="SWE" type="nat">2892</PersonId>
+               <BirthDate>
+                  <Date>1982-07-28</Date>
+               </BirthDate>
+               <Nationality>
+                  <Country>
+                     <CountryId value="578" />
+                     <Alpha2 value="NO" />
+                     <Alpha3 value="NOR" />
+                  </Country>
+               </Nationality>
+            </Person>
+            <Organisation>
+               <OrganisationId>32</OrganisationId>
+               <Name languageId="sv">Bækkelagets SK</Name>
+               <ShortName languageId="sv">Bækkelagets SK</ShortName>
+            </Organisation>
+            <Result>
+               <ResultId>622283</ResultId>
+               <BibNumber>57</BibNumber>
+               <StartTime>
+                  <Date>2014-09-05</Date>
+                  <Clock>22:42:00</Clock>
+               </StartTime>
+               <FinishTime>
+                  <Date>2014-09-05</Date>
+                  <Clock>00:04:46</Clock>
+               </FinishTime>
+               <Time>82:46</Time>
+               <CompetitorStatus value="Cancelled" />
+               <ModifyDate>
+                  <Date>2014-09-06</Date>
+                  <Clock>10:11:05</Clock>
+               </ModifyDate>
+               <ModifiedBy>
+                  <PersonId idManager="SWE" type="nat">2892</PersonId>
+               </ModifiedBy>
+            </Result>
+         </PersonResult>
+         <PersonResult>
+            <Person sex="M">
+               <PersonName>
+                  <Family>Nordberg</Family>
+                  <Given sequence="1">Anders</Given>
+               </PersonName>
+               <PersonId idManager="SWE" type="nat">555</PersonId>
+               <BirthDate>
+                  <Date>1978-02-17</Date>
+               </BirthDate>
+               <Nationality>
+                  <Country>
+                     <CountryId value="578" />
+                     <Alpha2 value="NO" />
+                     <Alpha3 value="NOR" />
+                  </Country>
+               </Nationality>
+            </Person>
+            <Organisation>
+               <OrganisationId>245</OrganisationId>
+               <Name languageId="sv">Nydalens SK</Name>
+               <ShortName languageId="sv">Nydalens SK</ShortName>
+            </Organisation>
+            <Result>
+               <ResultId>640506</ResultId>
+               <BibNumber>51</BibNumber>
+               <StartTime>
+                  <Date>2014-09-05</Date>
+                  <Clock>22:36:00</Clock>
+               </StartTime>
+               <FinishTime>
+                  <Date>2014-09-05</Date>
+                  <Clock>00:03:14</Clock>
+               </FinishTime>
+               <Time>87:14</Time>
+               <CompetitorStatus value="Cancelled" />
+               <ModifyDate>
+                  <Date>2014-09-06</Date>
+                  <Clock>10:11:05</Clock>
+               </ModifyDate>
+               <ModifiedBy>
+                  <PersonId idManager="SWE" type="nat">555</PersonId>
+               </ModifiedBy>
+            </Result>
+         </PersonResult>
+      </ClassResult>
+   </ResultList>
+</ResultListList>

@@ -1,0 +1,11 @@
+.loading-icon {
+    animation-name: rotateThis;
+    animation-duration: .9s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+
+@keyframes "rotateThis" {
+    from { transform: scale( 1 ) rotate( 0deg ); }
+    to { transform: scale( 1 ) rotate( 360deg ); }
+}

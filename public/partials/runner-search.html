@@ -1,0 +1,28 @@
+<h3>Finn løper</h3>
+<form class="form-search">
+	<input ng-model="searchExpression" type="text" name="term" autocomplete="on" /> 
+	<input type="button" value="Søk" class="btn btn-primary" ng-click="findRunner()" />
+</form>
+
+<div ng-show="hasSearched"> <strong>{{runnerSearchResults.length}}</strong> treff</div>
+
+<div ng-show="runnerSearchResults.length > 0 && hasSearched" class="table-responsive">
+    <table class="table">
+      <caption>Søkeresultater</caption>
+      <thead>
+        <tr>
+          <th>Fornavn</th>
+          <th>Etternavn</th>
+          <th></th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr ng-repeat="runner in runnerSearchResults">
+          <td>{{runner.firstName}}</td>
+          <td>{{runner.lastName}}</td>
+          <td ng-hide="alreadyAdded(runner.eventorId)"><button type="button" class="btn btn-default" ng-click="addRunner(runner.eventorId)">Legg til <span class="glyphicon glyphicon-plus" aria-hidden="true"></span></button></td>
+          <td ng-show="alreadyAdded(runner.eventorId)">Lagt til</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>

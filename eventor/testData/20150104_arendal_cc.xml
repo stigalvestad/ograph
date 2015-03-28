@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ResultList>
+	<Event eventForm="IndSingleDay">
+		<EventId>486</EventId>
+		<Name languageId="sv">CRAFT-cup - Arendal</Name>
+		<EventClassificationId>2</EventClassificationId>
+		<EventStatusId>9</EventStatusId>
+		<StartDate>
+			<Date>2011-05-29</Date>
+			<Clock>11:00:00</Clock>
+		</StartDate>
+		<FinishDate>
+			<Date>2011-05-29</Date>
+			<Clock>15:00:00</Clock>
+		</FinishDate>
+		<Organiser>
+			<OrganisationId>135</OrganisationId>
+		</Organiser>
+		<WebURL>http://www.nmsprint2011.no</WebURL>
+		<Comment />
+		<PunchingUnitType value="Emit" />
+		<ModifyDate>
+			<Date>2011-05-30</Date>
+			<Clock>20:25:08</Clock>
+		</ModifyDate>
+		<ModifiedBy>
+			<PersonId idManager="SWE" type="nat">1817</PersonId>
+		</ModifiedBy>
+	</Event>
+	<ClassResult>
+		<EventClass allowEntryInAdvance="Y" numberOfPrizes="0"
+			normalizedClass="Y" totalResult="Y" timePresentation="Y"
+			actualForRanking="N" divideClassMethod="divideByClub"
+			maxNumberInClass="0" numberOfVacancies="0" numberOfLegs="1"
+			teamEntry="N" numberInTeam="1" sex="M" sequence="350">
+			<EventClassId>1689</EventClassId>
+			<Name languageId="sv">H21</Name>
+			<ClassShortName>H21</ClassShortName>
+			<EventClassStatus value="normal" />
+			<EventId>486</EventId>
+			<ClassTypeId>2</ClassTypeId>
+			<BaseClassId>35</BaseClassId>
+			<ModifyDate>
+				<Date>2011-05-30</Date>
+				<Clock>20:25:06</Clock>
+			</ModifyDate>
+			<ClassRaceInfo noOfStarts="88">
+				<EventRaceId>486</EventRaceId>
+				<CourseLength>0 m</CourseLength>
+			</ClassRaceInfo>
+		</EventClass>
+		<PersonResult>
+			<Person sex="M">
+				<PersonName>
+					<Family>Nordberg</Family>
+					<Given sequence="1">Anders</Given>
+				</PersonName>
+				<PersonId idManager="SWE" type="nat">555</PersonId>
+				<BirthDate>
+					<Date>1978-02-17</Date>
+				</BirthDate>
+				<Nationality>
+					<Country>
+						<CountryId value="578" />
+						<Alpha2 value="NO" />
+						<Alpha3 value="NOR" />
+					</Country>
+				</Nationality>
+			</Person>
+			<Organisation>
+				<OrganisationId>409</OrganisationId>
+				<Name languageId="sv">Vaajakosken Terä</Name>
+				<ShortName languageId="sv">Vaajakosken Terä</ShortName>
+				<Country>
+					<CountryId value="578" />
+					<Alpha2 value="NO" />
+					<Alpha3 value="NOR" />
+					<Name languageId="sv">Norge</Name>
+					<Name languageId="en">Norway</Name>
+					<ModifyDate>
+						<Date>2009-10-27</Date>
+						<Clock>21:55:12</Clock>
+					</ModifyDate>
+				</Country>
+			</Organisation>
+			<Result>
+				<ResultId>24209</ResultId>
+				<CCardId>152462</CCardId>
+				<StartTime>
+					<Date>2011-05-29</Date>
+					<Clock>14:05:00</Clock>
+				</StartTime>
+				<FinishTime>
+					<Date>2011-05-29</Date>
+					<Clock>14:35:55</Clock>
+				</FinishTime>
+				<Time>30:55</Time>
+				<ResultPosition>1</ResultPosition>
+				<CompetitorStatus value="OK" />
+				<ModifyDate>
+					<Date>2012-01-12</Date>
+					<Clock>15:50:58</Clock>
+				</ModifyDate>
+			</Result>
+		</PersonResult>
+		<PersonResult>
+			<Person sex="M">
+				<PersonName>
+					<Family>Lundanes</Family>
+					<Given sequence="1">Olav</Given>
+				</PersonName>
+				<PersonId idManager="SWE" type="nat">1043</PersonId>
+				<BirthDate>
+					<Date>1987-11-11</Date>
+				</BirthDate>
+				<Nationality>
+					<Country>
+						<CountryId value="578" />
+						<Alpha2 value="NO" />
+						<Alpha3 value="NOR" />
+					</Country>
+				</Nationality>
+			</Person>
+			<Organisation>
+				<OrganisationId>101</OrganisationId>
+				<Name languageId="sv">Halden SK</Name>
+				<ShortName languageId="sv">Halden SK</ShortName>
+				<Country>
+					<CountryId value="578" />
+					<Alpha2 value="NO" />
+					<Alpha3 value="NOR" />
+					<Name languageId="sv">Norge</Name>
+					<Name languageId="en">Norway</Name>
+					<ModifyDate>
+						<Date>2009-10-27</Date>
+						<Clock>21:55:12</Clock>
+					</ModifyDate>
+				</Country>
+			</Organisation>
+			<Result>
+				<ResultId>24213</ResultId>
+				<CCardId>152519</CCardId>
+				<StartTime>
+					<Date>2011-05-29</Date>
+					<Clock>14:13:00</Clock>
+				</StartTime>
+				<FinishTime>
+					<Date>2011-05-29</Date>
+					<Clock>14:44:24</Clock>
+				</FinishTime>
+				<Time>31:24</Time>
+				<TimeDiff>0:29</TimeDiff>
+				<ResultPosition>2</ResultPosition>
+				<CompetitorStatus value="OK" />
+				<ModifyDate>
+					<Date>2012-01-12</Date>
+					<Clock>15:50:58</Clock>
+				</ModifyDate>
+			</Result>
+		</PersonResult>
+	</ClassResult>
+	<ClassResult>
+		<EventClass allowEntryInAdvance="Y" numberOfPrizes="0"
+			normalizedClass="Y" totalResult="Y" timePresentation="Y"
+			actualForRanking="N" divideClassMethod="divideByClub"
+			maxNumberInClass="0" numberOfVacancies="0" numberOfLegs="1"
+			teamEntry="N" numberInTeam="1" sex="F" sequence="110" highAge="20">
+			<EventClassId>1686</EventClassId>
+			<Name languageId="sv">D19-20</Name>
+			<ClassShortName>D19-20</ClassShortName>
+			<EventClassStatus value="normal" />
+			<EventId>486</EventId>
+			<ClassTypeId>2</ClassTypeId>
+			<BaseClassId>11</BaseClassId>
+			<ModifyDate>
+				<Date>2011-05-30</Date>
+				<Clock>20:24:15</Clock>
+			</ModifyDate>
+			<ClassRaceInfo noOfStarts="26">
+				<EventRaceId>486</EventRaceId>
+				<CourseLength> m</CourseLength>
+			</ClassRaceInfo>
+		</EventClass>
+		<PersonResult>
+			<Person sex="F">
+				<PersonName>
+					<Family>Rognstad</Family>
+					<Given sequence="1">Audhild Bakken</Given>
+				</PersonName>
+				<PersonId idManager="SWE" type="nat">1159</PersonId>
+				<BirthDate>
+					<Date>1991-02-16</Date>
+				</BirthDate>
+				<Nationality>
+					<Country>
+						<CountryId value="578" />
+						<Alpha2 value="NO" />
+						<Alpha3 value="NOR" />
+					</Country>
+				</Nationality>
+			</Person>
+			<Organisation>
+				<OrganisationId>202</OrganisationId>
+				<Name languageId="sv">Lillehammer OK</Name>
+				<ShortName languageId="sv">Lillehammer OK</ShortName>
+				<Country>
+					<CountryId value="578" />
+					<Alpha2 value="NO" />
+					<Alpha3 value="NOR" />
+					<Name languageId="sv">Norge</Name>
+					<Name languageId="en">Norway</Name>
+					<ModifyDate>
+						<Date>2009-10-27</Date>
+						<Clock>21:55:12</Clock>
+					</ModifyDate>
+				</Country>
+			</Organisation>
+			<Result>
+				<ResultId>23959</ResultId>
+				<CCardId>165112</CCardId>
+				<StartTime>
+					<Date>2011-05-29</Date>
+					<Clock>11:35:00</Clock>
+				</StartTime>
+				<FinishTime>
+					<Date>2011-05-29</Date>
+					<Clock>12:02:40</Clock>
+				</FinishTime>
+				<Time>27:40</Time>
+				<ResultPosition>1</ResultPosition>
+				<CompetitorStatus value="OK" />
+				<ModifyDate>
+					<Date>2012-01-12</Date>
+					<Clock>15:50:58</Clock>
+				</ModifyDate>
+			</Result>
+		</PersonResult>
+		<PersonResult>
+			<Person sex="F">
+				<PersonName>
+					<Family>Haverstad</Family>
+					<Given sequence="1">Maren Jansson</Given>
+				</PersonName>
+				<PersonId idManager="SWE" type="nat">2050</PersonId>
+				<BirthDate>
+					<Date>839-06-18</Date>
+				</BirthDate>
+				<Nationality>
+					<Country>
+						<CountryId value="578" />
+						<Alpha2 value="NO" />
+						<Alpha3 value="NOR" />
+					</Country>
+				</Nationality>
+			</Person>
+			<Organisation>
+				<OrganisationId>185</OrganisationId>
+				<Name languageId="sv">Konnerud IL</Name>
+				<ShortName languageId="sv">Konnerud IL</ShortName>
+				<Country>
+					<CountryId value="578" />
+					<Alpha2 value="NO" />
+					<Alpha3 value="NOR" />
+					<Name languageId="sv">Norge</Name>
+					<Name languageId="en">Norway</Name>
+					<ModifyDate>
+						<Date>2009-10-27</Date>
+						<Clock>21:55:12</Clock>
+					</ModifyDate>
+				</Country>
+			</Organisation>
+			<Result>
+				<ResultId>23955</ResultId>
+				<BibNumber>474</BibNumber>
+				<CCardId>152432</CCardId>
+				<StartTime>
+					<Date>2011-05-29</Date>
+					<Clock>11:27:00</Clock>
+				</StartTime>
+				<FinishTime />
+				<CompetitorStatus value="Inactive" />
+				<ModifyDate>
+					<Date>2011-05-26</Date>
+					<Clock>22:56:39</Clock>
+				</ModifyDate>
+			</Result>
+		</PersonResult>
+	</ClassResult>
+</ResultList>

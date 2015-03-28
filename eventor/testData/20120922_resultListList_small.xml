@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ResultListList>
+    <ResultList>
+        <Event eventForm="IndSingleDay">
+            <EventId>486</EventId>
+            <Name languageId="sv">CRAFT-cup - Arendal</Name>
+            <EventClassificationId>2</EventClassificationId>
+            <EventStatusId>9</EventStatusId>
+            <StartDate>
+                <Date>2011-05-29</Date>
+                <Clock>11:00:00</Clock>
+            </StartDate>
+            <FinishDate>
+                <Date>2011-05-29</Date>
+                <Clock>15:00:00</Clock>
+            </FinishDate>
+            <WebURL>http://www.nmsprint2011.no</WebURL>
+            <Comment />
+            <PunchingUnitType value="Emit" />
+            <ModifyDate>
+                <Date>2011-05-30</Date>
+                <Clock>20:25:08</Clock>
+            </ModifyDate>
+            <ModifiedBy>
+                <PersonId type="nat" idManager="SWE">1817</PersonId>
+            </ModifiedBy>
+        </Event>
+        <ClassResult>
+            <EventClass sequence="350" sex="M" numberInTeam="1" teamEntry="N" numberOfLegs="1" numberOfVacancies="0" maxNumberInClass="0" divideClassMethod="divideByClub" actualForRanking="N" timePresentation="Y" totalResult="Y" normalizedClass="Y" numberOfPrizes="0" allowEntryInAdvance="Y">
+                <EventClassId>1689</EventClassId>
+                <Name languageId="sv">H21</Name>
+                <ClassShortName>H21</ClassShortName>
+                <EventClassStatus value="normal" />
+                <EventId>486</EventId>
+                <ClassTypeId>2</ClassTypeId>
+                <BaseClassId>35</BaseClassId>
+                <ModifyDate>
+                    <Date>2011-05-30</Date>
+                    <Clock>20:25:06</Clock>
+                </ModifyDate>
+                <ClassRaceInfo noOfStarts="88">
+                    <EventRaceId>486</EventRaceId>
+                </ClassRaceInfo>
+            </EventClass>
+            <PersonResult>
+                <Person sex="M">
+                    <PersonName>
+                        <Family>Nordberg</Family>
+                        <Given sequence="1">Anders</Given>
+                    </PersonName>
+                    <PersonId type="nat" idManager="SWE">555</PersonId>
+                    <BirthDate>
+                        <Date>1978-02-17</Date>
+                    </BirthDate>
+                </Person>
+                <Organisation>
+                    <OrganisationId>409</OrganisationId>
+                    <Name languageId="sv">Vaajakosken Tera</Name>
+                    <ShortName languageId="sv">Vaajakosken Tera</ShortName>
+                    <Country>
+                        <CountryId value="578" />
+                        <Alpha2 value="NO" />
+                        <Alpha3 value="NOR" />
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                        <ModifyDate>
+                            <Date>2009-10-27</Date>
+                            <Clock>21:55:12</Clock>
+                        </ModifyDate>
+                    </Country>
+                </Organisation>
+                <Result>
+                    <ResultId>24209</ResultId>
+                    <CCardId>152462</CCardId>
+                    <StartTime>
+                        <Date>2011-05-29</Date>
+                        <Clock>14:05:00</Clock>
+                    </StartTime>
+                    <FinishTime>
+                        <Date>2011-05-29</Date>
+                        <Clock>14:35:55</Clock>
+                    </FinishTime>
+                    <Time>30:55</Time>
+                    <ResultPosition>1</ResultPosition>
+                    <CompetitorStatus value="OK" />
+                    <ModifyDate>
+                        <Date>2012-01-12</Date>
+                        <Clock>15:50:58</Clock>
+                    </ModifyDate>
+                </Result>
+            </PersonResult>
+            <PersonResult>
+                <Person sex="M">
+                    <PersonName>
+                        <Family>Lundanes</Family>
+                        <Given sequence="1">Olav</Given>
+                    </PersonName>
+                    <PersonId type="nat" idManager="SWE">1043</PersonId>
+                    <BirthDate>
+                        <Date>1987-11-11</Date>
+                    </BirthDate>
+                </Person>
+                <Organisation>
+                    <OrganisationId>101</OrganisationId>
+                    <Name languageId="sv">Halden SK</Name>
+                    <ShortName languageId="sv">Halden SK</ShortName>
+                    <Country>
+                        <CountryId value="578" />
+                        <Alpha2 value="NO" />
+                        <Alpha3 value="NOR" />
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                        <ModifyDate>
+                            <Date>2009-10-27</Date>
+                            <Clock>21:55:12</Clock>
+                        </ModifyDate>
+                    </Country>
+                </Organisation>
+                <Result>
+                    <ResultId>24213</ResultId>
+                    <CCardId>152519</CCardId>
+                    <FinishTime>
+                        <Date>2011-05-29</Date>
+                        <Clock>14:44:24</Clock>
+                    </FinishTime>
+                    <Time>31:24</Time>
+                    <TimeDiff>0:29</TimeDiff>
+                    <ResultPosition>2</ResultPosition>
+                    <CompetitorStatus value="OK" />
+                    <ModifyDate>
+                        <Date>2012-01-12</Date>
+                        <Clock>15:50:58</Clock>
+                    </ModifyDate>
+                </Result>
+            </PersonResult>
+            <PersonResult>
+                <Person sex="M">
+                    <PersonName>
+                        <Family>Weltzien</Family>
+                        <Given sequence="1">Audun</Given>
+                    </PersonName>
+                    <PersonId type="nat" idManager="SWE">1831</PersonId>
+                    <BirthDate>
+                        <Date>1983-09-03</Date>
+                    </BirthDate>
+                </Person>
+                <Organisation>
+                    <OrganisationId>163</OrganisationId>
+                    <Name languageId="sv">IL Tyrving</Name>
+                    <ShortName languageId="sv">IL Tyrving</ShortName>
+                    <Country>
+                        <CountryId value="578" />
+                        <Alpha2 value="NO" />
+                        <Alpha3 value="NOR" />
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                        <ModifyDate>
+                            <Date>2009-10-27</Date>
+                            <Clock>21:55:12</Clock>
+                        </ModifyDate>
+                    </Country>
+                </Organisation>
+                <Result>
+                    <ResultId>24207</ResultId>
+                    <CCardId>152512</CCardId>
+                    <StartTime>
+                        <Date>2011-05-29</Date>
+                        <Clock>14:01:00</Clock>
+                    </StartTime>
+                    <FinishTime>
+                        <Date>2011-05-29</Date>
+                        <Clock>14:32:42</Clock>
+                    </FinishTime>
+                    <Time>31:42</Time>
+                    <TimeDiff>0:47</TimeDiff>
+                    <ResultPosition>3</ResultPosition>
+                    <CompetitorStatus value="OK" />
+                    <ModifyDate>
+                        <Date>2012-01-12</Date>
+                        <Clock>15:50:58</Clock>
+                    </ModifyDate>
+                </Result>
+            </PersonResult>
+            <PersonResult>
+                <Person sex="M">
+                    <PersonName>
+                        <Family>Alvestad</Family>
+                        <Given sequence="1">Stig</Given>
+                    </PersonName>
+                    <PersonId type="nat" idManager="SWE">3351</PersonId>
+                    <BirthDate>
+                        <Date>1981-08-02</Date>
+                    </BirthDate>
+                </Person>
+                <Organisation>
+                    <OrganisationId>88</OrganisationId>
+                    <Name languageId="sv">Ganddal IL</Name>
+                    <ShortName languageId="sv">Ganddal IL</ShortName>
+                    <Country>
+                        <CountryId value="578" />
+                        <Alpha2 value="NO" />
+                        <Alpha3 value="NOR" />
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                        <ModifyDate>
+                            <Date>2009-10-27</Date>
+                            <Clock>21:55:12</Clock>
+                        </ModifyDate>
+                    </Country>
+                </Organisation>
+                <Result>
+                    <ResultId>24195</ResultId>
+                    <CCardId>129067</CCardId>
+                    <StartTime>
+                        <Date>2011-05-29</Date>
+                        <Clock>13:37:00</Clock>
+                    </StartTime>
+                    <FinishTime>
+                        <Date>2011-05-29</Date>
+                        <Clock>14:12:07</Clock>
+                    </FinishTime>
+                    <Time>35:07</Time>
+                    <TimeDiff>4:12</TimeDiff>
+                    <ResultPosition>12</ResultPosition>
+                    <CompetitorStatus value="OK" />
+                    <ModifyDate>
+                        <Date>2012-01-12</Date>
+                        <Clock>15:50:58</Clock>
+                    </ModifyDate>
+                </Result>
+            </PersonResult>
+        </ClassResult>
+    </ResultList>
+    <ResultList>
+        <Event eventForm="IndSingleDay">
+            <EventId>484</EventId>
+            <Name languageId="sv">NM Sprint 2011 - Finaler</Name>
+            <EventClassificationId>1</EventClassificationId>
+            <EventStatusId>9</EventStatusId>
+            <StartDate>
+                <Date>2011-05-28</Date>
+                <Clock>15:00:00</Clock>
+            </StartDate>
+            <FinishDate>
+                <Date>2011-05-28</Date>
+                <Clock>18:00:00</Clock>
+            </FinishDate>
+            <WebURL>http://www.nmsprint2011.no</WebURL>
+            <Comment />
+            <PunchingUnitType value="Emit" />
+            <ModifyDate>
+                <Date>2011-05-29</Date>
+                <Clock>23:58:35</Clock>
+            </ModifyDate>
+            <ModifiedBy>
+                <PersonId type="nat" idManager="SWE">8</PersonId>
+            </ModifiedBy>
+        </Event>
+        <ClassResult>
+            <EventClass sequence="550" sex="M" numberInTeam="1" teamEntry="N" numberOfLegs="1" numberOfVacancies="0" maxNumberInClass="0" divideClassMethod="divideByClub" actualForRanking="N" timePresentation="Y" totalResult="Y" normalizedClass="Y" numberOfPrizes="0" allowEntryInAdvance="Y">
+                <EventClassId>2530</EventClassId>
+                <Name languageId="sv">H21 Finale</Name>
+                <ClassShortName>H21 Finale</ClassShortName>
+                <EventClassStatus value="normal" />
+                <EventId>484</EventId>
+                <ClassTypeId>1</ClassTypeId>
+                <BaseClassId />
+                <ExternalId>119</ExternalId>
+                <ModifyDate>
+                    <Date>2011-05-29</Date>
+                    <Clock>23:19:48</Clock>
+                </ModifyDate>
+                <ClassRaceInfo noOfStarts="30">
+                    <EventRaceId>484</EventRaceId>
+                </ClassRaceInfo>
+            </EventClass>
+            <PersonResult>
+                <Person sex="M">
+                    <PersonName>
+                        <Family>Østerbø</Family>
+                        <Given sequence="1">Øystein Kvaal</Given>
+                    </PersonName>
+                    <PersonId type="nat" idManager="SWE">716</PersonId>
+                    <BirthDate>
+                        <Date>1981-07-07</Date>
+                    </BirthDate>
+                </Person>
+                <Organisation>
+                    <OrganisationId>379</OrganisationId>
+                    <Name languageId="sv">Wing OK</Name>
+                    <ShortName languageId="sv">Wing OK</ShortName>
+                    <Country>
+                        <CountryId value="578" />
+                        <Alpha2 value="NO" />
+                        <Alpha3 value="NOR" />
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                        <ModifyDate>
+                            <Date>2009-10-27</Date>
+                            <Clock>21:55:12</Clock>
+                        </ModifyDate>
+                    </Country>
+                </Organisation>
+                <Result>
+                    <ResultId>25504</ResultId>
+                    <StartTime>
+                        <Date>2011-05-28</Date>
+                        <Clock>17:19:00</Clock>
+                    </StartTime>
+                    <FinishTime>
+                        <Date>2011-05-28</Date>
+                        <Clock>17:34:21</Clock>
+                    </FinishTime>
+                    <Time>15:21</Time>
+                    <ResultPosition>1</ResultPosition>
+                    <CompetitorStatus value="OK" />
+                    <ModifyDate>
+                        <Date>2012-01-12</Date>
+                        <Clock>15:51:15</Clock>
+                    </ModifyDate>
+                </Result>
+            </PersonResult>
+            <PersonResult>
+                <Person sex="M">
+                    <PersonName>
+                        <Family>Kaas</Family>
+                        <Given sequence="1">Carl Waaler</Given>
+                    </PersonName>
+                    <PersonId type="nat" idManager="SWE">2892</PersonId>
+                    <BirthDate>
+                        <Date>1982-07-28</Date>
+                    </BirthDate>
+                </Person>
+                <Organisation>
+                    <OrganisationId>32</OrganisationId>
+                    <Name languageId="sv">Bækkelagets SK</Name>
+                    <ShortName languageId="sv">Bækkelagets SK</ShortName>
+                    <Country>
+                        <CountryId value="578" />
+                        <Alpha2 value="NO" />
+                        <Alpha3 value="NOR" />
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                        <ModifyDate>
+                            <Date>2009-10-27</Date>
+                            <Clock>21:55:12</Clock>
+                        </ModifyDate>
+                    </Country>
+                </Organisation>
+                <Result>
+                    <ResultId>25505</ResultId>
+                    <StartTime>
+                        <Date>2011-05-28</Date>
+                        <Clock>17:27:00</Clock>
+                    </StartTime>
+                    <FinishTime>
+                        <Date>2011-05-28</Date>
+                        <Clock>17:42:35</Clock>
+                    </FinishTime>
+                    <Time>15:35</Time>
+                    <TimeDiff>0:14</TimeDiff>
+                    <ResultPosition>2</ResultPosition>
+                    <CompetitorStatus value="OK" />
+                    <ModifyDate>
+                        <Date>2012-01-12</Date>
+                        <Clock>15:51:15</Clock>
+                    </ModifyDate>
+                </Result>
+            </PersonResult>
+            <PersonResult>
+                <Person sex="M">
+                    <PersonName>
+                        <Family>Lucasen</Family>
+                        <Given sequence="1">Håvard</Given>
+                    </PersonName>
+                    <PersonId type="nat" idManager="SWE">479</PersonId>
+                    <BirthDate>
+                        <Date>1982-07-07</Date>
+                    </BirthDate>
+                </Person>
+                <Organisation>
+                	<OrganisationId>987</OrganisationId>
+                    <Name languageId="sv">Ås-UMB Orientering</Name>
+                    <ShortName languageId="sv">Ås-UMB Orientering</ShortName>
+                    <Country>
+                        <CountryId value="578" />
+                        <Alpha2 value="NO" />
+                        <Alpha3 value="NOR" />
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                        <ModifyDate>
+                            <Date>2009-10-27</Date>
+                            <Clock>21:55:12</Clock>
+                        </ModifyDate>
+                    </Country>
+                </Organisation>
+                <Result>
+                    <ResultId>25506</ResultId>
+                    <StartTime>
+                        <Date>2011-05-28</Date>
+                        <Clock>17:16:00</Clock>
+                    </StartTime>
+                    <FinishTime>
+                        <Date>2011-05-28</Date>
+                        <Clock>17:31:46</Clock>
+                    </FinishTime>
+                    <Time>15:46</Time>
+                    <TimeDiff>0:25</TimeDiff>
+                    <ResultPosition>3</ResultPosition>
+                    <CompetitorStatus value="OK" />
+                    <ModifyDate>
+                        <Date>2012-01-12</Date>
+                        <Clock>15:51:15</Clock>
+                    </ModifyDate>
+                </Result>
+            </PersonResult>
+            <PersonResult>
+                <Person sex="M">
+                    <PersonName>
+                        <Family>Alvestad</Family>
+                        <Given sequence="1">Stig</Given>
+                    </PersonName>
+                    <PersonId type="nat" idManager="SWE">3351</PersonId>
+                </Person>
+                <Organisation>
+                    <OrganisationId>88</OrganisationId>
+                    <Name languageId="sv">Ganddal IL</Name>
+                    <ShortName languageId="sv">Ganddal IL</ShortName>
+                    <Country>
+                        <CountryId value="578" />
+                        <Alpha2 value="NO" />
+                        <Alpha3 value="NOR" />
+                        <Name languageId="sv">Norge</Name>
+                        <Name languageId="en">Norway</Name>
+                        <ModifyDate>
+                            <Date>2009-10-27</Date>
+                            <Clock>21:55:12</Clock>
+                        </ModifyDate>
+                    </Country>
+                </Organisation>
+                <Result>
+                    <ResultId>25533</ResultId>
+                    <StartTime>
+                        <Date>2011-05-28</Date>
+                        <Clock>17:03:00</Clock>
+                    </StartTime>
+                    <FinishTime>
+                        <Date>2011-05-28</Date>
+                        <Clock>17:20:21</Clock>
+                    </FinishTime>
+                    <Time>17:21</Time>
+                    <CompetitorStatus value="Disqualified" />
+                    <ModifyDate>
+                        <Date>2011-05-29</Date>
+                        <Clock>23:19:48</Clock>
+                    </ModifyDate>
+                </Result>
+            </PersonResult>
+        </ClassResult>
+    </ResultList>
+</ResultListList>

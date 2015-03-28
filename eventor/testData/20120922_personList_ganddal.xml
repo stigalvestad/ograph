@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PersonList>
+  <Person sex="F">
+    <PersonName>
+      <Family>Lamark</Family>
+      <Given sequence="1">Vibeke</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">28</PersonId>
+    <BirthDate>
+      <Date>1970-07-22</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2011-05-03</Date>
+      <Clock>22:01:07</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="M">
+    <PersonName>
+      <Family>Omdal</Family>
+      <Given sequence="1">Otte</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">483</PersonId>
+    <BirthDate>
+      <Date>1958-11-16</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <OrganisationId>88</OrganisationId>
+    <ModifyDate>
+      <Date>2012-06-08</Date>
+      <Clock>12:32:37</Clock>
+    </ModifyDate>
+  </Person>
+  <Person sex="F">
+    <PersonName>
+      <Family>Prestvold</Family>
+      <Given sequence="1">Katrine</Given>
+    </PersonName>
+    <PersonId type="nat" idManager="SWE">1914</PersonId>
+    <BirthDate>
+      <Date>1986-09-11</Date>
+    </BirthDate>
+    <Nationality>
+      <CountryId value="578"/>
+    </Nationality>
+    <ModifyDate>
+      <Date>2012-05-06</Date>
+      <Clock>18:00:24</Clock>
+    </ModifyDate>
+  </Person>
+</PersonList>

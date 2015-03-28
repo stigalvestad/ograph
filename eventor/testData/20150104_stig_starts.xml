@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<StartListList>
+    <StartList>
+        <Event eventForm="IndSingleDay">
+            <EventId>486</EventId>
+            <Name languageId="sv">CRAFT-cup - Arendal</Name>
+            <EventClassificationId>2</EventClassificationId>
+            <EventStatusId>9</EventStatusId>
+            <StartDate>
+                <Date>2011-05-29</Date>
+                <Clock>11:00:00</Clock>
+            </StartDate>
+            <FinishDate>
+                <Date>2011-05-29</Date>
+                <Clock>15:00:00</Clock>
+            </FinishDate>
+            <Organiser>
+                <OrganisationId>135</OrganisationId>
+            </Organiser>
+            <WebURL>http://www.nmsprint2011.no</WebURL>
+            <Comment/>
+            <PunchingUnitType value="Emit"/>
+            <ModifyDate>
+                <Date>2011-05-30</Date>
+                <Clock>20:25:08</Clock>
+            </ModifyDate>
+            <ModifiedBy>
+                <PersonId idManager="SWE" type="nat">1817</PersonId>
+            </ModifiedBy>
+        </Event>
+        <ClassStart numberOfEntries="0">
+            <EventClass allowEntryInAdvance="Y" numberOfPrizes="0" normalizedClass="Y" totalResult="Y" timePresentation="Y" actualForRanking="N" divideClassMethod="divideByClub" maxNumberInClass="0" numberOfVacancies="0" numberOfLegs="1" teamEntry="N" numberInTeam="1" sex="M" sequence="350">
+                <EventClassId>1689</EventClassId>
+                <Name languageId="sv">H21</Name>
+                <ClassShortName>H21</ClassShortName>
+                <EventClassStatus value="normal"/>
+                <EventId>486</EventId>
+                <ClassTypeId>2</ClassTypeId>
+                <BaseClassId>35</BaseClassId>
+                <PunchingUnitType value="Emit"/>
+                <ModifyDate>
+                    <Date>2011-05-30</Date>
+                    <Clock>20:25:06</Clock>
+                </ModifyDate>
+                <ClassRaceInfo restartedTeamsAfter="Y" timeResolution="seconds" maxRunners="1" minRunners="1" relayLeg="1" finishChute="" bibNumberInherit="Y" bibNumberBase="" bibNumberPrefix="" numberOfPrizes="0" priceGivingDone="N" rankingRace="Y">
+                    <ClassRaceInfoId>1787</ClassRaceInfoId>
+                    <EventRaceId>486</EventRaceId>
+                    <EventClassId>1689</EventClassId>
+                    <Name/>
+                    <CourseLength>0 m</CourseLength>
+                    <FirstStart>
+                        <Date>2011-05-29</Date>
+                        <Clock>12:00:00</Clock>
+                    </FirstStart>
+                    <StartInterval>
+                        <Time>00:00</Time>
+                    </StartInterval>
+                    <EstimatedBestTime>
+                        <Time>0:00</Time>
+                    </EstimatedBestTime>
+                    <EstimatedLastPrizeTime>
+                        <Time>0:00</Time>
+                    </EstimatedLastPrizeTime>
+                    <AllocationMethod value="sNormalDraw"/>
+                    <StartMethod lateStartLimit="0" earlyStartLimit="0" value="allocatedStart"/>
+                    <ClassRaceStatus value="notAllocated"/>
+                    <PunchingUnitType value="Emit"/>
+                    <ModifyDate>
+                        <Date>2011-05-30</Date>
+                        <Clock>20:24:44</Clock>
+                    </ModifyDate>
+                </ClassRaceInfo>
+            </EventClass>
+            <PersonStart>
+                <Person sex="M">
+                    <PersonName>
+                        <Family>Alvestad</Family>
+                        <Given sequence="1">Stig</Given>
+                    </PersonName>
+                    <PersonId idManager="SWE" type="nat">3351</PersonId>
+                    <BirthDate>
+                        <Date>1981-08-02</Date>
+                    </BirthDate>
+                </Person>
+                <Organisation>
+                    <OrganisationId>88</OrganisationId>
+                    <Name languageId="sv">Ganddal IL</Name>
+                    <ShortName languageId="sv">Ganddal IL</ShortName>
+                    <CountryId value="578"/>
+                </Organisation>
+                <Start>
+                    <CCardId>129067</CCardId>
+                    <StartTime>
+                        <Date>2011-05-29</Date>
+                        <Clock>13:37:00</Clock>
+                    </StartTime>
+                    <StartId>24195</StartId>
+                    <ModifyDate>
+                        <Date>2012-01-12</Date>
+                        <Clock>15:50:58</Clock>
+                    </ModifyDate>
+                </Start>
+            </PersonStart>
+        </ClassStart>
+    </StartList>
+    <StartList>
+        <Event eventForm="IndSingleDay">
+            <EventId>484</EventId>
+            <Name languageId="sv">NM Sprint 2011 - Finaler</Name>
+            <EventClassificationId>1</EventClassificationId>
+            <EventStatusId>9</EventStatusId>
+            <StartDate>
+                <Date>2011-05-28</Date>
+                <Clock>15:00:00</Clock>
+            </StartDate>
+            <FinishDate>
+                <Date>2011-05-28</Date>
+                <Clock>18:00:00</Clock>
+            </FinishDate>
+            <Organiser>
+                <OrganisationId>135</OrganisationId>
+            </Organiser>
+            <WebURL>http://www.nmsprint2011.no</WebURL>
+            <Comment/>
+            <PunchingUnitType value="Emit"/>
+            <ModifyDate>
+                <Date>2011-05-29</Date>
+                <Clock>23:58:35</Clock>
+            </ModifyDate>
+            <ModifiedBy>
+                <PersonId idManager="SWE" type="nat">8</PersonId>
+            </ModifiedBy>
+        </Event>
+        <ClassStart numberOfEntries="0">
+            <EventClass allowEntryInAdvance="Y" numberOfPrizes="0" normalizedClass="Y" totalResult="Y" timePresentation="Y" actualForRanking="N" divideClassMethod="divideByClub" maxNumberInClass="0" numberOfVacancies="0" numberOfLegs="1" teamEntry="N" numberInTeam="1" sex="M" sequence="550">
+                <EventClassId>2530</EventClassId>
+                <Name languageId="sv">H21 Finale</Name>
+                <ClassShortName>H21 Finale</ClassShortName>
+                <EventClassStatus value="normal"/>
+                <EventId>484</EventId>
+                <ClassTypeId>1</ClassTypeId>
+                <BaseClassId/>
+                <ExternalId>119</ExternalId>
+                <PunchingUnitType value="Emit"/>
+                <ModifyDate>
+                    <Date>2011-05-29</Date>
+                    <Clock>23:19:48</Clock>
+                </ModifyDate>
+                <ClassRaceInfo restartedTeamsAfter="Y" timeResolution="seconds" maxRunners="1" minRunners="1" relayLeg="1" finishChute="" bibNumberInherit="Y" bibNumberBase="" bibNumberPrefix="" numberOfPrizes="0" priceGivingDone="N" rankingRace="Y">
+                    <ClassRaceInfoId>2650</ClassRaceInfoId>
+                    <EventRaceId>484</EventRaceId>
+                    <EventClassId>2530</EventClassId>
+                    <Name/>
+                    <CourseLength>0 m</CourseLength>
+                    <FirstStart>
+                        <Date>2011-05-28</Date>
+                        <Clock>10:00:00</Clock>
+                    </FirstStart>
+                    <StartInterval>
+                        <Time>00:00</Time>
+                    </StartInterval>
+                    <EstimatedBestTime>
+                        <Time>0:00</Time>
+                    </EstimatedBestTime>
+                    <EstimatedLastPrizeTime>
+                        <Time>0:00</Time>
+                    </EstimatedLastPrizeTime>
+                    <AllocationMethod value="sNormalDraw"/>
+                    <StartMethod lateStartLimit="0" earlyStartLimit="0" value="allocatedStart"/>
+                    <ClassRaceStatus value="notAllocated"/>
+                    <PunchingUnitType value="Emit"/>
+                    <ModifyDate>
+                        <Date>2011-05-29</Date>
+                        <Clock>23:19:44</Clock>
+                    </ModifyDate>
+                </ClassRaceInfo>
+            </EventClass>
+            <PersonStart>
+                <Person sex="M">
+                    <PersonName>
+                        <Family>Alvestad</Family>
+                        <Given sequence="1">Stig</Given>
+                    </PersonName>
+                    <PersonId idManager="SWE" type="nat">3351</PersonId>
+                    <BirthDate>
+                        <Date>1981-08-02</Date>
+                    </BirthDate>
+                </Person>
+                <Organisation>
+                    <OrganisationId>88</OrganisationId>
+                    <Name languageId="sv">Ganddal IL</Name>
+                    <ShortName languageId="sv">Ganddal IL</ShortName>
+                    <CountryId value="578"/>
+                </Organisation>
+                <Start>
+                    <StartTime>
+                        <Date>2011-05-28</Date>
+                        <Clock>17:03:00</Clock>
+                    </StartTime>
+                    <StartId>25533</StartId>
+                    <ModifyDate>
+                        <Date>2011-05-29</Date>
+                        <Clock>23:19:48</Clock>
+                    </ModifyDate>
+                </Start>
+            </PersonStart>
+        </ClassStart>
+    </StartList>
+    <StartList>
+        <Event eventForm="IndSingleDay">
+            <EventId>763</EventId>
+            <Name languageId="sv">NM Sprint 2011 - Kvalifisering</Name>
+            <EventClassificationId>1</EventClassificationId>
+            <EventStatusId>9</EventStatusId>
+            <StartDate>
+                <Date>2011-05-28</Date>
+                <Clock>10:00:00</Clock>
+            </StartDate>
+            <FinishDate>
+                <Date>2011-05-28</Date>
+                <Clock>10:00:00</Clock>
+            </FinishDate>
+            <Organiser>
+                <OrganisationId>135</OrganisationId>
+            </Organiser>
+            <WebURL>http://www.nmsprint2011.no</WebURL>
+            <Comment/>
+            <PunchingUnitType value="Emit"/>
+            <ModifyDate>
+                <Date>2011-05-30</Date>
+                <Clock>09:18:37</Clock>
+            </ModifyDate>
+            <ModifiedBy>
+                <PersonId idManager="SWE" type="nat">1817</PersonId>
+            </ModifiedBy>
+        </Event>
+        <ClassStart numberOfEntries="0">
+            <EventClass allowEntryInAdvance="Y" numberOfPrizes="0" normalizedClass="Y" totalResult="Y" timePresentation="Y" actualForRanking="N" divideClassMethod="divideByClub" maxNumberInClass="0" numberOfVacancies="0" numberOfLegs="1" teamEntry="N" numberInTeam="1" sex="M">
+                <EventClassId>2620</EventClassId>
+                <Name languageId="sv">H21 Heat1</Name>
+                <ClassShortName>H21 Heat1</ClassShortName>
+                <EventClassStatus value="normal"/>
+                <EventId>763</EventId>
+                <ClassTypeId>1</ClassTypeId>
+                <BaseClassId/>
+                <ExternalId>212</ExternalId>
+                <PunchingUnitType value="Emit"/>
+                <ModifyDate>
+                    <Date>2011-05-30</Date>
+                    <Clock>09:18:24</Clock>
+                </ModifyDate>
+                <ClassRaceInfo restartedTeamsAfter="Y" timeResolution="seconds" maxRunners="1" minRunners="1" relayLeg="1" finishChute="" bibNumberInherit="Y" bibNumberBase="" bibNumberPrefix="" numberOfPrizes="0" priceGivingDone="N" rankingRace="Y">
+                    <ClassRaceInfoId>2762</ClassRaceInfoId>
+                    <EventRaceId>765</EventRaceId>
+                    <EventClassId>2620</EventClassId>
+                    <Name/>
+                    <CourseLength>0 m</CourseLength>
+                    <FirstStart>
+                        <Date>2011-05-28</Date>
+                        <Clock>10:00:00</Clock>
+                    </FirstStart>
+                    <StartInterval>
+                        <Time>00:00</Time>
+                    </StartInterval>
+                    <EstimatedBestTime>
+                        <Time>0:00</Time>
+                    </EstimatedBestTime>
+                    <EstimatedLastPrizeTime>
+                        <Time>0:00</Time>
+                    </EstimatedLastPrizeTime>
+                    <AllocationMethod value="sNormalDraw"/>
+                    <StartMethod lateStartLimit="0" earlyStartLimit="0" value="allocatedStart"/>
+                    <ClassRaceStatus value="notAllocated"/>
+                    <PunchingUnitType value="Emit"/>
+                    <ModifyDate>
+                        <Date>2011-05-30</Date>
+                        <Clock>09:18:19</Clock>
+                    </ModifyDate>
+                </ClassRaceInfo>
+            </EventClass>
+            <PersonStart>
+                <Person sex="M">
+                    <PersonName>
+                        <Family>Alvestad</Family>
+                        <Given sequence="1">Stig</Given>
+                    </PersonName>
+                    <PersonId idManager="SWE" type="nat">3351</PersonId>
+                    <BirthDate>
+                        <Date>1981-08-02</Date>
+                    </BirthDate>
+                </Person>
+                <Organisation>
+                    <OrganisationId>88</OrganisationId>
+                    <Name languageId="sv">Ganddal IL</Name>
+                    <ShortName languageId="sv">Ganddal IL</ShortName>
+                    <CountryId value="578"/>
+                </Organisation>
+                <Start>
+                    <StartTime>
+                        <Date>2011-05-28</Date>
+                        <Clock>11:25:00</Clock>
+                    </StartTime>
+                    <StartId>26088</StartId>
+                    <ModifyDate>
+                        <Date>2012-01-12</Date>
+                        <Clock>15:51:17</Clock>
+                    </ModifyDate>
+                </Start>
+            </PersonStart>
+        </ClassStart>
+    </StartList>
+    <StartList>
+        <Event eventForm="RelaySingleDay">
+            <EventId>4003</EventId>
+            <Name languageId="sv">Vagleskogstafetten</Name>
+            <EventClassificationId>4</EventClassificationId>
+            <EventStatusId>11</EventStatusId>
+            <StartDate>
+                <Date>2014-06-18</Date>
+                <Clock>00:00:00</Clock>
+            </StartDate>
+            <FinishDate>
+                <Date>2014-06-18</Date>
+                <Clock>00:00:00</Clock>
+            </FinishDate>
+            <Organiser>
+                <OrganisationId>88</OrganisationId>
+            </Organiser>
+            <WebURL>http://www.gandor.org</WebURL>
+            <Comment/>
+            <PunchingUnitType value="Emit"/>
+            <ModifyDate>
+                <Date>2014-07-02</Date>
+                <Clock>16:51:16</Clock>
+            </ModifyDate>
+            <ModifiedBy>
+                <PersonId idManager="SWE" type="nat">28</PersonId>
+            </ModifiedBy>
+        </Event>
+        <ClassStart>
+            <EventClass allowEntryInAdvance="Y" numberOfPrizes="0" normalizedClass="Y" totalResult="Y" timePresentation="Y" actualForRanking="N" divideClassMethod="divideByClub" maxNumberInClass="0" numberOfVacancies="0" numberOfLegs="3" teamEntry="Y" numberInTeam="1" sex="M">
+                <EventClassId>37348</EventClassId>
+                <Name languageId="sv">H17</Name>
+                <ClassShortName>H17</ClassShortName>
+                <EventClassStatus value="normal"/>
+                <EventId>4003</EventId>
+                <ClassTypeId>2</ClassTypeId>
+                <BaseClassId/>
+                <ExternalId>10</ExternalId>
+                <PunchingUnitType value="Emit"/>
+                <PunchingUnitType value="Emit"/>
+                <PunchingUnitType value="Emit"/>
+                <ModifyDate>
+                    <Date>2014-06-20</Date>
+                    <Clock>08:29:28</Clock>
+                </ModifyDate>
+                <ClassRaceInfo restartedTeamsAfter="Y" timeResolution="seconds" maxRunners="1" minRunners="1" relayLeg="1" finishChute="" bibNumberInherit="Y" bibNumberBase="" bibNumberPrefix="" numberOfPrizes="0" priceGivingDone="N" rankingRace="Y">
+                    <ClassRaceInfoId>41153</ClassRaceInfoId>
+                    <EventRaceId>4216</EventRaceId>
+                    <EventClassId>37348</EventClassId>
+                    <Name/>
+                    <FirstStart>
+                        <Date>2014-06-18</Date>
+                        <Clock>00:00:00</Clock>
+                    </FirstStart>
+                    <StartInterval>
+                        <Time>00:00</Time>
+                    </StartInterval>
+                    <EstimatedBestTime>
+                        <Time>0:00</Time>
+                    </EstimatedBestTime>
+                    <EstimatedLastPrizeTime>
+                        <Time>0:00</Time>
+                    </EstimatedLastPrizeTime>
+                    <AllocationMethod value="sNormalDraw"/>
+                    <StartMethod lateStartLimit="0" earlyStartLimit="0" value="allocatedStart"/>
+                    <ClassRaceStatus value="notAllocated"/>
+                    <PunchingUnitType value="Emit"/>
+                    <ModifyDate>
+                        <Date>2014-06-18</Date>
+                        <Clock>06:59:09</Clock>
+                    </ModifyDate>
+                </ClassRaceInfo>
+                <ClassRaceInfo restartedTeamsAfter="Y" timeResolution="seconds" maxRunners="1" minRunners="1" relayLeg="2" finishChute="" bibNumberInherit="Y" bibNumberBase="" bibNumberPrefix="" numberOfPrizes="0" priceGivingDone="N" rankingRace="Y">
+                    <ClassRaceInfoId>41151</ClassRaceInfoId>
+                    <EventRaceId>4216</EventRaceId>
+                    <EventClassId>37348</EventClassId>
+                    <Name/>
+                    <FirstStart>
+                        <Date>2014-06-18</Date>
+                        <Clock>00:00:00</Clock>
+                    </FirstStart>
+                    <StartInterval>
+                        <Time>00:00</Time>
+                    </StartInterval>
+                    <EstimatedBestTime>
+                        <Time>0:00</Time>
+                    </EstimatedBestTime>
+                    <EstimatedLastPrizeTime>
+                        <Time>0:00</Time>
+                    </EstimatedLastPrizeTime>
+                    <AllocationMethod value="sNormalDraw"/>
+                    <StartMethod lateStartLimit="0" earlyStartLimit="0" value="allocatedStart"/>
+                    <ClassRaceStatus value="notAllocated"/>
+                    <PunchingUnitType value="Emit"/>
+                    <ModifyDate>
+                        <Date>2014-06-18</Date>
+                        <Clock>06:59:09</Clock>
+                    </ModifyDate>
+                </ClassRaceInfo>
+                <ClassRaceInfo restartedTeamsAfter="Y" timeResolution="seconds" maxRunners="1" minRunners="1" relayLeg="3" finishChute="" bibNumberInherit="Y" bibNumberBase="" bibNumberPrefix="" numberOfPrizes="0" priceGivingDone="N" rankingRace="Y">
+                    <ClassRaceInfoId>41152</ClassRaceInfoId>
+                    <EventRaceId>4216</EventRaceId>
+                    <EventClassId>37348</EventClassId>
+                    <Name/>
+                    <FirstStart>
+                        <Date>2014-06-18</Date>
+                        <Clock>00:00:00</Clock>
+                    </FirstStart>
+                    <StartInterval>
+                        <Time>00:00</Time>
+                    </StartInterval>
+                    <EstimatedBestTime>
+                        <Time>0:00</Time>
+                    </EstimatedBestTime>
+                    <EstimatedLastPrizeTime>
+                        <Time>0:00</Time>
+                    </EstimatedLastPrizeTime>
+                    <AllocationMethod value="sNormalDraw"/>
+                    <StartMethod lateStartLimit="0" earlyStartLimit="0" value="allocatedStart"/>
+                    <ClassRaceStatus value="notAllocated"/>
+                    <PunchingUnitType value="Emit"/>
+                    <ModifyDate>
+                        <Date>2014-06-18</Date>
+                        <Clock>06:59:09</Clock>
+                    </ModifyDate>
+                </ClassRaceInfo>
+            </EventClass>
+            <TeamStart>
+                <TeamName>Ganddal IL 1</TeamName>
+                <Organisation>
+                    <OrganisationId>88</OrganisationId>
+                    <Name languageId="sv">Ganddal IL</Name>
+                    <ShortName languageId="sv">Ganddal IL</ShortName>
+                    <CountryId value="578"/>
+                </Organisation>
+                <BibNumber>24</BibNumber>
+                <TeamMemberStart>
+                    <Person sex="M">
+                        <PersonName>
+                            <Family>Alvestad</Family>
+                            <Given sequence="1">Stig</Given>
+                        </PersonName>
+                        <PersonId idManager="SWE" type="nat">3351</PersonId>
+                        <BirthDate>
+                            <Date>1981-08-02</Date>
+                        </BirthDate>
+                    </Person>
+                    <Organisation>
+                        <OrganisationId>88</OrganisationId>
+                        <Name languageId="sv">Ganddal IL</Name>
+                        <ShortName languageId="sv">Ganddal IL</ShortName>
+                        <CountryId value=""/>
+                    </Organisation>
+                    <Leg>3</Leg>
+                    <LegOrder>3</LegOrder>
+                    <BibNumber>2401</BibNumber>
+                    <StartTime>
+                        <Date>2014-06-18</Date>
+                        <Clock>19:02:56</Clock>
+                    </StartTime>
+                </TeamMemberStart>
+            </TeamStart>
+        </ClassStart>
+    </StartList>    
+    <StartList>
+        <Event eventForm="IndSingleDay">
+            <EventId>257</EventId>
+            <Name languageId="sv">Vestlands mesterskap</Name>
+            <EventClassificationId>3</EventClassificationId>
+            <EventStatusId>5</EventStatusId>
+            <StartDate>
+                <Date>2011-08-27</Date>
+                <Clock>16:00:00</Clock>
+            </StartDate>
+            <FinishDate>
+                <Date>2011-08-27</Date>
+                <Clock>16:00:00</Clock>
+            </FinishDate>
+            <Organiser>
+                <OrganisationId>109</OrganisationId>
+            </Organiser>
+            <WebURL>http://www.hilorientering.no</WebURL>
+            <Comment/>
+            <PunchingUnitType value="Emit"/>
+            <ModifyDate>
+                <Date>2011-08-26</Date>
+                <Clock>20:17:57</Clock>
+            </ModifyDate>
+            <ModifiedBy>
+                <PersonId idManager="SWE" type="nat">161</PersonId>
+            </ModifiedBy>
+        </Event>
+        <ClassStart numberOfEntries="0">
+            <EventClass allowEntryInAdvance="Y" numberOfPrizes="0" normalizedClass="Y" totalResult="Y" timePresentation="Y" actualForRanking="N" divideClassMethod="divideByClub" maxNumberInClass="0" numberOfVacancies="0" numberOfLegs="1" teamEntry="N" numberInTeam="1" sex="M" sequence="350" lowAge="15">
+                <EventClassId>3011</EventClassId>
+                <Name languageId="sv">H 21-</Name>
+                <ClassShortName>H 21-</ClassShortName>
+                <EventClassStatus value="normal"/>
+                <EventId>257</EventId>
+                <ClassTypeId>2</ClassTypeId>
+                <BaseClassId>35</BaseClassId>
+                <PunchingUnitType value="Emit"/>
+                <ModifyDate>
+                    <Date>2011-08-22</Date>
+                    <Clock>16:34:58</Clock>
+                </ModifyDate>
+                <ClassRaceInfo restartedTeamsAfter="Y" timeResolution="seconds" maxRunners="1" minRunners="1" relayLeg="1" finishChute="" bibNumberInherit="Y" bibNumberBase="" bibNumberPrefix="" numberOfPrizes="0" priceGivingDone="N" rankingRace="Y">
+                    <ClassRaceInfoId>3205</ClassRaceInfoId>
+                    <EventRaceId>257</EventRaceId>
+                    <EventClassId>3011</EventClassId>
+                    <Name/>
+                    <CourseLength>8700 m</CourseLength>
+                    <FirstStart>
+                        <Date>2011-08-27</Date>
+                        <Clock>16:00:00</Clock>
+                    </FirstStart>
+                    <StartInterval>
+                        <Time>00:00</Time>
+                    </StartInterval>
+                    <EstimatedBestTime>
+                        <Time>0:00</Time>
+                    </EstimatedBestTime>
+                    <EstimatedLastPrizeTime>
+                        <Time>0:00</Time>
+                    </EstimatedLastPrizeTime>
+                    <AllocationMethod value="sNormalDraw"/>
+                    <StartMethod lateStartLimit="0" earlyStartLimit="0" value="allocatedStart"/>
+                    <ClassRaceStatus value="notAllocated"/>
+                    <PunchingUnitType value="Emit"/>
+                    <ModifyDate>
+                        <Date>2011-08-26</Date>
+                        <Clock>20:17:55</Clock>
+                    </ModifyDate>
+                </ClassRaceInfo>
+            </EventClass>
+            <PersonStart>
+                <Person sex="M">
+                    <PersonName>
+                        <Family>Alvestad</Family>
+                        <Given sequence="1">Stig</Given>
+                    </PersonName>
+                    <PersonId idManager="SWE" type="nat">3351</PersonId>
+                    <BirthDate>
+                        <Date>1981-08-02</Date>
+                    </BirthDate>
+                </Person>
+                <Organisation>
+                    <OrganisationId>88</OrganisationId>
+                    <Name languageId="sv">Ganddal IL</Name>
+                    <ShortName languageId="sv">Ganddal IL</ShortName>
+                    <CountryId value="578"/>
+                </Organisation>
+                <Start>
+                    <BibNumber>16</BibNumber>
+                    <CCardId>129067</CCardId>
+                    <StartTime>
+                        <Date>2011-08-27</Date>
+                        <Clock>16:15:00</Clock>
+                    </StartTime>
+                    <StartId>36424</StartId>
+                    <ModifyDate>
+                        <Date>2011-08-26</Date>
+                        <Clock>20:17:56</Clock>
+                    </ModifyDate>
+                    <ModifiedBy>
+                        <PersonId idManager="SWE" type="nat">5288</PersonId>
+                    </ModifiedBy>
+                </Start>
+            </PersonStart>
+        </ClassStart>
+    </StartList>
+</StartListList>

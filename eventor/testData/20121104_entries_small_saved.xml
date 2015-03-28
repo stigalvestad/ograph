@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?><EntryList>
+    <Entry entrySystem="Eventor" nonCompetitor="N">
+        <EntryId>135517</EntryId>
+        <Competitor>
+            <Person sex="F">
+                <PersonName>
+                    <Family>Wennemo</Family>
+                    <Given sequence="1">Oda</Given>
+                </PersonName>
+                <PersonId idManager="SWE" type="nat">311</PersonId>
+                <BirthDate>
+                    <Date>1992-03-31</Date>
+                </BirthDate>
+                <Nationality>
+                    <CountryId value="578"/>
+                </Nationality>
+                <ModifyDate>
+                    <Date>2012-06-28</Date>
+                    <Clock>22:39:13</Clock>
+                </ModifyDate>
+            </Person>
+            <OrganisationId>101</OrganisationId>
+            <CCard>
+                <CCardId>181231</CCardId>
+                <PunchingUnitType value="Emit"/>
+            </CCard>
+        </Competitor>
+        <EntryClass sequence="1">
+            <EventClassId>7963</EventClassId>
+        </EntryClass>
+        <EventId>939</EventId>
+        <AllocationControl/>
+        <EntryDate>
+            <Date>2012-06-25</Date>
+            <Clock>21:31:52</Clock>
+        </EntryDate>
+        <ModifyDate>
+            <Date>2012-06-25</Date>
+            <Clock>21:31:52</Clock>
+        </ModifyDate>
+        <ModifiedBy>
+            <PersonId idManager="SWE" type="nat">311</PersonId>
+        </ModifiedBy>
+    </Entry>
+    <Entry entrySystem="Eventor" nonCompetitor="N">
+        <EntryId>135518</EntryId>
+        <Competitor>
+            <Person sex="F">
+                <PersonName>
+                    <Family>Wennemo</Family>
+                    <Given sequence="1">Oda</Given>
+                </PersonName>
+                <PersonId idManager="SWE" type="nat">311</PersonId>
+                <BirthDate>
+                    <Date>1992-03-31</Date>
+                </BirthDate>
+                <Nationality>
+                    <CountryId value="578"/>
+                </Nationality>
+                <ModifyDate>
+                    <Date>2012-06-28</Date>
+                    <Clock>22:39:13</Clock>
+                </ModifyDate>
+            </Person>
+            <OrganisationId>101</OrganisationId>
+            <CCard>
+                <CCardId>181231</CCardId>
+                <PunchingUnitType value="Emit"/>
+            </CCard>
+        </Competitor>
+        <EntryClass sequence="1">
+            <EventClassId>7969</EventClassId>
+        </EntryClass>
+        <EventId>583</EventId>
+        <AllocationControl/>
+        <EntryDate>
+            <Date>2012-06-25</Date>
+            <Clock>21:33:27</Clock>
+        </EntryDate>
+        <ModifyDate>
+            <Date>2012-06-25</Date>
+            <Clock>21:33:27</Clock>
+        </ModifyDate>
+        <ModifiedBy>
+            <PersonId idManager="SWE" type="nat">311</PersonId>
+        </ModifiedBy>
+    </Entry>
+    <Entry entrySystem="Eventor" nonCompetitor="N">
+        <EntryId>137221</EntryId>
+        <Competitor>
+            <Person sex="M">
+                <PersonName>
+                    <Family>Østerbø</Family>
+                    <Given sequence="1">Øystein Kvaal</Given>
+                </PersonName>
+                <PersonId idManager="SWE" type="nat">716</PersonId>
+                <BirthDate>
+                    <Date>1981-07-07</Date>
+                </BirthDate>
+                <Nationality>
+                    <CountryId value="578"/>
+                </Nationality>
+                <OrganisationId>379</OrganisationId>
+                <ModifyDate>
+                    <Date>2011-08-21</Date>
+                    <Clock>20:45:47</Clock>
+                </ModifyDate>
+            </Person>
+            <OrganisationId>430</OrganisationId>
+            <CCard>
+                <CCardId>152515</CCardId>
+                <PunchingUnitType value="Emit"/>
+            </CCard>
+        </Competitor>
+        <EntryClass sequence="1">
+            <EventClassId>7967</EventClassId>
+        </EntryClass>
+        <EventId>939</EventId>
+        <AllocationControl/>
+        <EntryDate>
+            <Date>2012-07-02</Date>
+            <Clock>16:07:18</Clock>
+        </EntryDate>
+        <ModifyDate>
+            <Date>2012-07-02</Date>
+            <Clock>16:07:18</Clock>
+        </ModifyDate>
+        <ModifiedBy>
+            <PersonId idManager="SWE" type="nat">716</PersonId>
+        </ModifiedBy>
+    </Entry>
+    <Entry entrySystem="Eventor" nonCompetitor="N">
+        <EntryId>137250</EntryId>
+        <Competitor>
+            <Person sex="M">
+                <PersonName>
+                    <Family>Lima</Family>
+                    <Given sequence="1">Alf Johan</Given>
+                </PersonName>
+                <PersonId idManager="SWE" type="nat">3292</PersonId>
+                <BirthDate>
+                    <Date>1986-10-14</Date>
+                </BirthDate>
+                <Nationality>
+                    <CountryId value="578"/>
+                </Nationality>
+                <ModifyDate>
+                    <Date>2011-05-22</Date>
+                    <Clock>23:32:34</Clock>
+                </ModifyDate>
+            </Person>
+            <OrganisationId>88</OrganisationId>
+            <CCard>
+                <CCardId>136568</CCardId>
+                <PunchingUnitType value="Emit"/>
+            </CCard>
+        </Competitor>
+        <EntryClass sequence="1">
+            <EventClassId>7967</EventClassId>
+        </EntryClass>
+        <EventId>939</EventId>
+        <AllocationControl/>
+        <EntryDate>
+            <Date>2012-07-02</Date>
+            <Clock>21:22:37</Clock>
+        </EntryDate>
+        <ModifyDate>
+            <Date>2012-07-02</Date>
+            <Clock>21:22:37</Clock>
+        </ModifyDate>
+        <ModifiedBy>
+            <PersonId idManager="SWE" type="nat">3292</PersonId>
+        </ModifiedBy>
+    </Entry>
+</EntryList>

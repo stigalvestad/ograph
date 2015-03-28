@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ResultListList>
+    <ResultList>
+        <Event eventForm="IndSingleDay">
+            <EventId>939</EventId>
+            <Name languageId="sv">Norgescup sprint</Name>
+            <EventClassificationId>2</EventClassificationId>
+            <EventStatusId>9</EventStatusId>
+            <StartDate>
+                <Date>2012-08-18</Date>
+                <Clock>14:00:00</Clock>
+            </StartDate>
+            <FinishDate>
+                <Date>2012-08-18</Date>
+                <Clock>16:00:00</Clock>
+            </FinishDate>
+            <WebURL>http://klubbinfo.no/steinkjerok/nm-helg-2012.html</WebURL>
+            <Comment />
+            <PunchingUnitType value="Emit" />
+            <ModifyDate>
+                <Date>2012-08-18</Date>
+                <Clock>18:36:26</Clock>
+            </ModifyDate>
+            <ModifiedBy>
+                <PersonId type="nat" idManager="SWE">1817</PersonId>
+            </ModifiedBy>
+        </Event>
+        <ClassResult>
+            <EventClass lowAge="21" sequence="520" sex="M" numberInTeam="1" teamEntry="N" numberOfLegs="1" numberOfVacancies="0" maxNumberInClass="0" divideClassMethod="divideByClub" actualForRanking="N" timePresentation="Y" totalResult="Y" normalizedClass="Y" numberOfPrizes="0" allowEntryInAdvance="Y">
+                <EventClassId>7967</EventClassId>
+                <Name languageId="sv">H 21-E</Name>
+                <ClassShortName>H 21-E</ClassShortName>
+                <EventClassStatus value="normal" />
+                <EventId>939</EventId>
+                <ClassTypeId>1</ClassTypeId>
+                <BaseClassId>52</BaseClassId>
+                <ModifyDate>
+                    <Date>2012-08-17</Date>
+                    <Clock>00:17:32</Clock>
+                </ModifyDate>
+                <ClassRaceInfo noOfEntries="40" noOfStarts="40">
+                    <EventRaceId>945</EventRaceId>
+                </ClassRaceInfo>
+            </EventClass>
+            <PersonResult>
+                <Person sex="M">
+                    <PersonName>
+                        <Family>Lundanes</Family>
+                        <Given sequence="1">Olav</Given>
+                    </PersonName>
+                    <PersonId type="nat" idManager="SWE">1043</PersonId>
+                    <BirthDate>
+                        <Date>1987-11-11</Date>
+                    </BirthDate>
+                </Person>
+                <Organisation>
+                    <OrganisationId>101</OrganisationId>
+                    <Name languageId="sv">Halden SK</Name>
+                    <ShortName languageId="sv">Halden SK</ShortName>
+                </Organisation>
+                <Result>
+                    <ResultId>158548</ResultId>
+                    <BibNumber>45</BibNumber>
+                    <CCardId>181105</CCardId>
+                    <StartTime>
+                        <Date>2012-08-18</Date>
+                        <Clock>15:44:00</Clock>
+                    </StartTime>
+                    <FinishTime>
+                        <Date>2012-08-18</Date>
+                        <Clock>15:58:25</Clock>
+                    </FinishTime>
+                    <Time>14:25</Time>
+                    <TimeDiff>0:00</TimeDiff>
+                    <ResultPosition>1</ResultPosition>
+                    <CompetitorStatus value="OK" />
+                    <ModifyDate>
+                        <Date>2012-08-18</Date>
+                        <Clock>18:36:24</Clock>
+                    </ModifyDate>
+                    <ModifiedBy>
+                        <PersonId type="nat" idManager="SWE">1043</PersonId>
+                    </ModifiedBy>
+                </Result>
+            </PersonResult>
+            <PersonResult>
+                <Person sex="M">
+                    <PersonName>
+                        <Family>Østerbø</Family>
+                        <Given sequence="1">Øystein Kvaal</Given>
+                    </PersonName>
+                    <PersonId type="nat" idManager="SWE">716</PersonId>
+                    <BirthDate>
+                        <Date>1981-07-07</Date>
+                    </BirthDate>
+                </Person>
+                <Organisation>
+                    <OrganisationId>430</OrganisationId>
+                    <Name languageId="sv">IFK Lidingö SOK</Name>
+                    <ShortName languageId="sv">IFK Lidingö SOK</ShortName>
+                </Organisation>
+                <Result>
+                    <ResultId>153877</ResultId>
+                    <BibNumber>42</BibNumber>
+                    <CCardId>152515</CCardId>
+                    <StartTime>
+                        <Date>2012-08-18</Date>
+                        <Clock>15:41:00</Clock>
+                    </StartTime>
+                    <FinishTime>
+                        <Date>2012-08-18</Date>
+                        <Clock>15:55:42</Clock>
+                    </FinishTime>
+                    <Time>14:42</Time>
+                    <TimeDiff>0:17</TimeDiff>
+                    <ResultPosition>2</ResultPosition>
+                    <CompetitorStatus value="OK" />
+                    <ModifyDate>
+                        <Date>2012-08-18</Date>
+                        <Clock>18:36:24</Clock>
+                    </ModifyDate>
+                    <ModifiedBy>
+                        <PersonId type="nat" idManager="SWE">716</PersonId>
+                    </ModifiedBy>
+                </Result>
+            </PersonResult>
+            <PersonResult>
+                <Person sex="M">
+                    <PersonName>
+                        <Family>Dæhli</Family>
+                        <Given sequence="1">Magne</Given>
+                    </PersonName>
+                    <PersonId type="nat" idManager="SWE">260</PersonId>
+                    <BirthDate>
+                        <Date>1987-04-24</Date>
+                    </BirthDate>
+                </Person>
+                <Organisation>
+                    <OrganisationId>101</OrganisationId>
+                    <Name languageId="sv">Halden SK</Name>
+                    <ShortName languageId="sv">Halden SK</ShortName>
+                </Organisation>
+                <Result>
+                    <ResultId>156483</ResultId>
+                    <BibNumber>41</BibNumber>
+                    <CCardId>157774</CCardId>
+                    <StartTime>
+                        <Date>2012-08-18</Date>
+                        <Clock>15:40:00</Clock>
+                    </StartTime>
+                    <FinishTime>
+                        <Date>2012-08-18</Date>
+                        <Clock>15:55:01</Clock>
+                    </FinishTime>
+                    <Time>15:01</Time>
+                    <TimeDiff>0:36</TimeDiff>
+                    <ResultPosition>3</ResultPosition>
+                    <CompetitorStatus value="OK" />
+                    <ModifyDate>
+                        <Date>2012-08-18</Date>
+                        <Clock>18:36:24</Clock>
+                    </ModifyDate>
+                    <ModifiedBy>
+                        <PersonId type="nat" idManager="SWE">260</PersonId>
+                    </ModifiedBy>
+                </Result>
+            </PersonResult>
+        </ClassResult>
+    </ResultList>
+    <ResultList>
+        <Event eventForm="IndSingleDay">
+            <EventId>583</EventId>
+            <Name languageId="sv">NM Ultralang</Name>
+            <EventClassificationId>1</EventClassificationId>
+            <EventStatusId>9</EventStatusId>
+            <StartDate>
+                <Date>2012-08-19</Date>
+                <Clock>00:00:00</Clock>
+            </StartDate>
+            <FinishDate>
+                <Date>2012-08-19</Date>
+                <Clock>00:00:00</Clock>
+            </FinishDate>
+            <WebURL>http://klubbinfo.no/steinkjerok/nm-helg-2012.html</WebURL>
+            <Comment />
+            <PunchingUnitType value="Emit" />
+            <ModifyDate>
+                <Date>2012-08-20</Date>
+                <Clock>20:56:20</Clock>
+            </ModifyDate>
+            <ModifiedBy>
+                <PersonId type="nat" idManager="SWE">1817</PersonId>
+            </ModifiedBy>
+        </Event>
+        <ClassResult>
+            <EventClass lowAge="21" sequence="520" sex="M" numberInTeam="1" teamEntry="N" numberOfLegs="1" numberOfVacancies="0" maxNumberInClass="0" divideClassMethod="divideByClub" actualForRanking="N" timePresentation="Y" totalResult="Y" normalizedClass="Y" numberOfPrizes="0" allowEntryInAdvance="Y">
+                <EventClassId>7973</EventClassId>
+                <Name languageId="sv">H 21-E</Name>
+                <ClassShortName>H 21-E</ClassShortName>
+                <EventClassStatus value="normal" />
+                <EventId>583</EventId>
+                <ClassTypeId>1</ClassTypeId>
+                <BaseClassId>52</BaseClassId>
+                <ModifyDate>
+                    <Date>2012-08-20</Date>
+                    <Clock>20:56:19</Clock>
+                </ModifyDate>
+                <ClassRaceInfo>
+                    <EventRaceId>583</EventRaceId>
+                </ClassRaceInfo>
+            </EventClass>
+            <PersonResult>
+                <Person sex="M">
+                    <PersonName>
+                        <Family>Lundanes</Family>
+                        <Given sequence="1">Olav</Given>
+                    </PersonName>
+                    <PersonId type="nat" idManager="SWE">1043</PersonId>
+                    <BirthDate>
+                        <Date>1987-11-11</Date>
+                    </BirthDate>
+                </Person>
+                <Organisation>
+                    <OrganisationId>101</OrganisationId>
+                    <Name languageId="sv">Halden SK</Name>
+                    <ShortName languageId="sv">Halden SK</ShortName>
+                </Organisation>
+                <Result>
+                    <ResultId>158549</ResultId>
+                    <BibNumber>57</BibNumber>
+                    <CCardId>181105</CCardId>
+                    <StartTime>
+                        <Date>2012-08-19</Date>
+                        <Clock>11:33:00</Clock>
+                    </StartTime>
+                    <FinishTime>
+                        <Date>2012-08-19</Date>
+                        <Clock>14:04:25</Clock>
+                    </FinishTime>
+                    <Time>151:25</Time>
+                    <TimeDiff>0:00</TimeDiff>
+                    <ResultPosition>1</ResultPosition>
+                    <CompetitorStatus value="OK" />
+                    <ModifyDate>
+                        <Date>2012-08-19</Date>
+                        <Clock>15:21:04</Clock>
+                    </ModifyDate>
+                    <ModifiedBy>
+                        <PersonId type="nat" idManager="SWE">1043</PersonId>
+                    </ModifiedBy>
+                </Result>
+            </PersonResult>
+            <PersonResult>
+                <Person sex="M">
+                    <PersonName>
+                        <Family>Omdal</Family>
+                        <Given sequence="1">Hans Gunnar</Given>
+                    </PersonName>
+                    <PersonId type="nat" idManager="SWE">2610</PersonId>
+                    <BirthDate>
+                        <Date>1977-09-14</Date>
+                    </BirthDate>
+                </Person>
+                <Organisation>
+                    <OrganisationId>189</OrganisationId>
+                    <Name languageId="sv">Kristiansand OK</Name>
+                    <ShortName languageId="sv">Kristiansand OK</ShortName>
+                </Organisation>
+                <Result>
+                    <ResultId>156249</ResultId>
+                    <BibNumber>60</BibNumber>
+                    <CCardId>170705</CCardId>
+                    <StartTime>
+                        <Date>2012-08-19</Date>
+                        <Clock>11:42:00</Clock>
+                    </StartTime>
+                    <FinishTime>
+                        <Date>2012-08-19</Date>
+                        <Clock>14:19:46</Clock>
+                    </FinishTime>
+                    <Time>157:46</Time>
+                    <TimeDiff>6:21</TimeDiff>
+                    <ResultPosition>2</ResultPosition>
+                    <CompetitorStatus value="OK" />
+                    <ModifyDate>
+                        <Date>2012-08-19</Date>
+                        <Clock>15:21:04</Clock>
+                    </ModifyDate>
+                    <ModifiedBy>
+                        <PersonId type="nat" idManager="SWE">2610</PersonId>
+                    </ModifiedBy>
+                </Result>
+            </PersonResult>
+            <PersonResult>
+                <Person sex="M">
+                    <PersonName>
+                        <Family>Kaas</Family>
+                        <Given sequence="1">Carl Waaler</Given>
+                    </PersonName>
+                    <PersonId type="nat" idManager="SWE">2892</PersonId>
+                    <BirthDate>
+                        <Date>1982-07-28</Date>
+                    </BirthDate>
+                </Person>
+                <Organisation>
+                    <OrganisationId>32</OrganisationId>
+                    <Name languageId="sv">Bækkelagets SK</Name>
+                    <ShortName languageId="sv">Bækkelagets SK</ShortName>
+                </Organisation>
+                <Result>
+                    <ResultId>157506</ResultId>
+                    <BibNumber>61</BibNumber>
+                    <CCardId>170550</CCardId>
+                    <StartTime>
+                        <Date>2012-08-19</Date>
+                        <Clock>11:45:00</Clock>
+                    </StartTime>
+                    <FinishTime>
+                        <Date>2012-08-19</Date>
+                        <Clock>14:23:14</Clock>
+                    </FinishTime>
+                    <Time>158:14</Time>
+                    <TimeDiff>6:49</TimeDiff>
+                    <ResultPosition>3</ResultPosition>
+                    <CompetitorStatus value="OK" />
+                    <ModifyDate>
+                        <Date>2012-08-19</Date>
+                        <Clock>15:21:04</Clock>
+                    </ModifyDate>
+                    <ModifiedBy>
+                        <PersonId type="nat" idManager="SWE">2892</PersonId>
+                    </ModifiedBy>
+                </Result>
+            </PersonResult>
+        </ClassResult>
+    </ResultList>
+    <ResultList>
+        <Event eventForm="IndSingleDay">
+            <EventId>1806</EventId>
+            <Name languageId="sv">Midtnorsk Mesterskap Langdistanse</Name>
+            <EventClassificationId>2</EventClassificationId>
+            <EventStatusId>9</EventStatusId>
+            <StartDate>
+                <Date>2012-08-25</Date>
+                <Clock>11:00:00</Clock>
+            </StartDate>
+            <FinishDate>
+                <Date>2012-08-25</Date>
+                <Clock>11:00:00</Clock>
+            </FinishDate>
+            <WebURL>http://www.moi-idrett.no/Modules/Page/viewPage.asp?modid=10255&amp;level=10255</WebURL>
+            <Comment />
+            <PunchingUnitType value="Emit" />
+            <ModifyDate>
+                <Date>2012-08-25</Date>
+                <Clock>16:35:07</Clock>
+            </ModifyDate>
+            <ModifiedBy>
+                <PersonId type="nat" idManager="SWE">1906</PersonId>
+            </ModifiedBy>
+        </Event>
+        <ClassResult>
+            <EventClass lowAge="15" sequence="350" sex="M" numberInTeam="1" teamEntry="N" numberOfLegs="1" numberOfVacancies="0" maxNumberInClass="0" divideClassMethod="divideByClub" actualForRanking="N" timePresentation="Y" totalResult="Y" normalizedClass="Y" numberOfPrizes="0" allowEntryInAdvance="Y">
+                <EventClassId>12229</EventClassId>
+                <Name languageId="sv">H 21-</Name>
+                <ClassShortName>H 21-</ClassShortName>
+                <EventClassStatus value="normal" />
+                <EventId>1806</EventId>
+                <ClassTypeId>2</ClassTypeId>
+                <BaseClassId>35</BaseClassId>
+                <ModifyDate>
+                    <Date>2012-08-25</Date>
+                    <Clock>02:34:57</Clock>
+                </ModifyDate>
+                <ClassRaceInfo noOfEntries="40" noOfStarts="40">
+                    <EventRaceId>1875</EventRaceId>
+                </ClassRaceInfo>
+            </EventClass>
+            <PersonResult>
+                <Person sex="M">
+                    <PersonName>
+                        <Family>Lundanes</Family>
+                        <Given sequence="1">Olav</Given>
+                    </PersonName>
+                    <PersonId type="nat" idManager="SWE">1043</PersonId>
+                    <BirthDate>
+                        <Date>1987-11-11</Date>
+                    </BirthDate>
+                </Person>
+                <Organisation>
+                    <OrganisationId>101</OrganisationId>
+                    <Name languageId="sv">Halden SK</Name>
+                    <ShortName languageId="sv">Halden SK</ShortName>
+                </Organisation>
+                <Result>
+                    <ResultId>158550</ResultId>
+                    <BibNumber>26</BibNumber>
+                    <CCardId>181105</CCardId>
+                    <StartTime>
+                        <Date>2012-08-25</Date>
+                        <Clock>11:50:00</Clock>
+                    </StartTime>
+                    <FinishTime>
+                        <Date>2012-08-25</Date>
+                        <Clock>13:04:25</Clock>
+                    </FinishTime>
+                    <Time>74:25</Time>
+                    <TimeDiff>0:00</TimeDiff>
+                    <ResultPosition>1</ResultPosition>
+                    <CompetitorStatus value="OK" />
+                    <ModifyDate>
+                        <Date>2012-08-25</Date>
+                        <Clock>16:34:55</Clock>
+                    </ModifyDate>
+                    <ModifiedBy>
+                        <PersonId type="nat" idManager="SWE">1043</PersonId>
+                    </ModifiedBy>
+                </Result>
+            </PersonResult>
+            <PersonResult>
+                <Person sex="M">
+                    <PersonName>
+                        <Family>Lundanes</Family>
+                        <Given sequence="1">Ivar</Given>
+                    </PersonName>
+                    <PersonId type="nat" idManager="SWE">495</PersonId>
+                    <BirthDate>
+                        <Date>1991-07-06</Date>
+                    </BirthDate>
+                </Person>
+                <Organisation>
+                    <OrganisationId>84</OrganisationId>
+                    <Name languageId="sv">Frol IL</Name>
+                    <ShortName languageId="sv">Frol IL</ShortName>
+                </Organisation>
+                <Result>
+                    <ResultId>157155</ResultId>
+                    <BibNumber>28</BibNumber>
+                    <CCardId>155055</CCardId>
+                    <StartTime>
+                        <Date>2012-08-25</Date>
+                        <Clock>11:54:00</Clock>
+                    </StartTime>
+                    <FinishTime>
+                        <Date>2012-08-25</Date>
+                        <Clock>13:18:15</Clock>
+                    </FinishTime>
+                    <Time>84:15</Time>
+                    <TimeDiff>9:50</TimeDiff>
+                    <ResultPosition>2</ResultPosition>
+                    <CompetitorStatus value="OK" />
+                    <ModifyDate>
+                        <Date>2012-08-25</Date>
+                        <Clock>16:34:55</Clock>
+                    </ModifyDate>
+                    <ModifiedBy>
+                        <PersonId type="nat" idManager="SWE">495</PersonId>
+                    </ModifiedBy>
+                </Result>
+            </PersonResult>
+            <PersonResult>
+                <Person sex="M">
+                    <PersonName>
+                        <Family>Årstad</Family>
+                        <Given sequence="1">Thomas Natvig</Given>
+                    </PersonName>
+                    <PersonId type="nat" idManager="SWE">1100</PersonId>
+                    <BirthDate>
+                        <Date>1989-11-01</Date>
+                    </BirthDate>
+                </Person>
+                <Organisation>
+                    <OrganisationId>244</OrganisationId>
+                    <Name languageId="sv">NTNUI</Name>
+                    <ShortName languageId="sv">NTNUI</ShortName>
+                </Organisation>
+                <Result>
+                    <ResultId>160235</ResultId>
+                    <BibNumber>27</BibNumber>
+                    <CCardId>151375</CCardId>
+                    <StartTime>
+                        <Date>2012-08-25</Date>
+                        <Clock>11:52:00</Clock>
+                    </StartTime>
+                    <FinishTime>
+                        <Date>2012-08-25</Date>
+                        <Clock>13:17:04</Clock>
+                    </FinishTime>
+                    <Time>85:04</Time>
+                    <TimeDiff>10:39</TimeDiff>
+                    <ResultPosition>3</ResultPosition>
+                    <CompetitorStatus value="OK" />
+                    <ModifyDate>
+                        <Date>2012-08-25</Date>
+                        <Clock>16:34:55</Clock>
+                    </ModifyDate>
+                    <ModifiedBy>
+                        <PersonId type="nat" idManager="SWE">1100</PersonId>
+                    </ModifiedBy>
+                </Result>
+            </PersonResult>
+        </ClassResult>
+    </ResultList>
+    <ResultList>
+        <Event eventForm="IndSingleDay">
+            <EventId>586</EventId>
+            <Name languageId="sv">NM-uka, langdistanse</Name>
+            <EventClassificationId>1</EventClassificationId>
+            <EventStatusId>9</EventStatusId>
+            <StartDate>
+                <Date>2012-09-13</Date>
+                <Clock>00:00:00</Clock>
+            </StartDate>
+            <FinishDate>
+                <Date>2012-09-13</Date>
+                <Clock>00:00:00</Clock>
+            </FinishDate>
+            <WebURL>http://o-nm2012.no/</WebURL>
+            <Comment />
+            <PunchingUnitType value="Emit" />
+            <ModifyDate>
+                <Date>2012-09-13</Date>
+                <Clock>17:55:34</Clock>
+            </ModifyDate>
+            <ModifiedBy>
+                <PersonId type="nat" idManager="SWE">1817</PersonId>
+            </ModifiedBy>
+        </Event>
+        <ClassResult>
+            <EventClass lowAge="15" sequence="350" sex="M" numberInTeam="1" teamEntry="N" numberOfLegs="1" numberOfVacancies="0" maxNumberInClass="0" divideClassMethod="divideByClub" actualForRanking="N" timePresentation="Y" totalResult="Y" normalizedClass="Y" numberOfPrizes="0" allowEntryInAdvance="Y">
+                <EventClassId>6275</EventClassId>
+                <Name languageId="sv">H21</Name>
+                <ClassShortName>H21</ClassShortName>
+                <EventClassStatus value="normal" />
+                <EventId>586</EventId>
+                <ClassTypeId>1</ClassTypeId>
+                <BaseClassId>35</BaseClassId>
+                <ModifyDate>
+                    <Date>2012-09-12</Date>
+                    <Clock>20:55:32</Clock>
+                </ModifyDate>
+                <ClassRaceInfo noOfEntries="65" noOfStarts="65">
+                    <EventRaceId>586</EventRaceId>
+                </ClassRaceInfo>
+            </EventClass>
+            <PersonResult>
+                <Person sex="M">
+                    <PersonName>
+                        <Family>Kaas</Family>
+                        <Given sequence="1">Carl Waaler</Given>
+                    </PersonName>
+                    <PersonId type="nat" idManager="SWE">2892</PersonId>
+                    <BirthDate>
+                        <Date>1982-07-28</Date>
+                    </BirthDate>
+                </Person>
+                <Organisation>
+                    <OrganisationId>32</OrganisationId>
+                    <Name languageId="sv">Bækkelagets SK</Name>
+                    <ShortName languageId="sv">Bækkelagets SK</ShortName>
+                </Organisation>
+                <Result>
+                    <ResultId>158815</ResultId>
+                    <BibNumber>72</BibNumber>
+                    <CCardId>170550</CCardId>
+                    <StartTime>
+                        <Date>2012-09-13</Date>
+                        <Clock>13:12:00</Clock>
+                    </StartTime>
+                    <FinishTime>
+                        <Date>2012-09-13</Date>
+                        <Clock>14:47:57</Clock>
+                    </FinishTime>
+                    <Time>95:57</Time>
+                    <TimeDiff>0:00</TimeDiff>
+                    <ResultPosition>1</ResultPosition>
+                    <CompetitorStatus value="OK" />
+                    <ModifyDate>
+                        <Date>2012-09-13</Date>
+                        <Clock>17:55:32</Clock>
+                    </ModifyDate>
+                    <ModifiedBy>
+                        <PersonId type="nat" idManager="SWE">2892</PersonId>
+                    </ModifiedBy>
+                </Result>
+            </PersonResult>
+            <PersonResult>
+                <Person sex="M">
+                    <PersonName>
+                        <Family>Omdal</Family>
+                        <Given sequence="1">Hans Gunnar</Given>
+                    </PersonName>
+                    <PersonId type="nat" idManager="SWE">2610</PersonId>
+                    <BirthDate>
+                        <Date>1977-09-14</Date>
+                    </BirthDate>
+                </Person>
+                <Organisation>
+                    <OrganisationId>189</OrganisationId>
+                    <Name languageId="sv">Kristiansand OK</Name>
+                    <ShortName languageId="sv">Kristiansand OK</ShortName>
+                </Organisation>
+                <Result>
+                    <ResultId>159791</ResultId>
+                    <BibNumber>79</BibNumber>
+                    <CCardId>170705</CCardId>
+                    <StartTime>
+                        <Date>2012-09-13</Date>
+                        <Clock>13:26:00</Clock>
+                    </StartTime>
+                    <FinishTime>
+                        <Date>2012-09-13</Date>
+                        <Clock>15:02:29</Clock>
+                    </FinishTime>
+                    <Time>96:29</Time>
+                    <TimeDiff>0:32</TimeDiff>
+                    <ResultPosition>2</ResultPosition>
+                    <CompetitorStatus value="OK" />
+                    <ModifyDate>
+                        <Date>2012-09-13</Date>
+                        <Clock>17:55:32</Clock>
+                    </ModifyDate>
+                    <ModifiedBy>
+                        <PersonId type="nat" idManager="SWE">2610</PersonId>
+                    </ModifiedBy>
+                </Result>
+            </PersonResult>
+            <PersonResult>
+                <Person sex="M">
+                    <PersonName>
+                        <Family>Weltzien</Family>
+                        <Given sequence="1">Audun</Given>
+                    </PersonName>
+                    <PersonId type="nat" idManager="SWE">1831</PersonId>
+                    <BirthDate>
+                        <Date>1983-09-03</Date>
+                    </BirthDate>
+                </Person>
+                <Organisation>
+                    <OrganisationId>163</OrganisationId>
+                    <Name languageId="sv">IL Tyrving</Name>
+                    <ShortName languageId="sv">IL Tyrving</ShortName>
+                </Organisation>
+                <Result>
+                    <ResultId>184339</ResultId>
+                    <BibNumber>76</BibNumber>
+                    <CCardId>181255</CCardId>
+                    <StartTime>
+                        <Date>2012-09-13</Date>
+                        <Clock>13:20:00</Clock>
+                    </StartTime>
+                    <FinishTime>
+                        <Date>2012-09-13</Date>
+                        <Clock>14:57:05</Clock>
+                    </FinishTime>
+                    <Time>97:05</Time>
+                    <TimeDiff>1:08</TimeDiff>
+                    <ResultPosition>3</ResultPosition>
+                    <CompetitorStatus value="OK" />
+                    <ModifyDate>
+                        <Date>2012-09-13</Date>
+                        <Clock>17:55:32</Clock>
+                    </ModifyDate>
+                    <ModifiedBy>
+                        <PersonId type="nat" idManager="SWE">1831</PersonId>
+                    </ModifiedBy>
+                </Result>
+            </PersonResult>
+            <PersonResult>
+                <Person sex="M">
+                    <PersonName>
+                        <Family>Lundanes</Family>
+                        <Given sequence="1">Olav</Given>
+                    </PersonName>
+                    <PersonId type="nat" idManager="SWE">1043</PersonId>
+                    <BirthDate>
+                        <Date>1987-11-11</Date>
+                    </BirthDate>
+                </Person>
+                <Organisation>
+                    <OrganisationId>101</OrganisationId>
+                    <Name languageId="sv">Halden SK</Name>
+                    <ShortName languageId="sv">Halden SK</ShortName>
+                </Organisation>
+                <Result>
+                    <ResultId>158551</ResultId>
+                    <BibNumber>75</BibNumber>
+                    <CCardId>181105</CCardId>
+                    <StartTime>
+                        <Date>2012-09-13</Date>
+                        <Clock>13:18:00</Clock>
+                    </StartTime>
+                    <FinishTime />
+                    <CompetitorStatus value="Cancelled" />
+                    <ModifyDate>
+                        <Date>2012-09-13</Date>
+                        <Clock>15:57:13</Clock>
+                    </ModifyDate>
+                    <ModifiedBy>
+                        <PersonId type="nat" idManager="SWE">1043</PersonId>
+                    </ModifiedBy>
+                </Result>
+            </PersonResult>
+        </ClassResult>
+    </ResultList>
+</ResultListList>
