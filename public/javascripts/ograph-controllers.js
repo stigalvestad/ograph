@@ -4,7 +4,7 @@ var ographControllers = angular.module('ographControllers',
 ographControllers.controller('OgraphCtrl', [ '$scope', 'Runner', 'Race', 'UtilMethods', '_', 'numeral',
 		function($scope, Runner, Race, UtilMethods, _, numeral) {
 
-            var POLL_INTERVAL = 500;
+            var POLL_INTERVAL = 1000;
 	
 			/**
 			 * Progress
@@ -359,7 +359,6 @@ ographControllers.controller('OgraphCtrl', [ '$scope', 'Runner', 'Race', 'UtilMe
 					}
 				};
 
-                debugger;
 				$scope.graphDataWithConfig = {
 					series: graphData, 
 					config: graphConfig

@@ -18,7 +18,6 @@ class FetcherCoordinatorActor(eventorFetcher: EventorFetcher, logDAO: LogDAO, pa
     case EventorIsUnavailable =>
       stopMyselfEventorUnavailable
     case GetStatus =>
-      log.info(s"GetStatus msg arrived")
       sender ! CurrentStatus(fetchersStatus.values.toList)
     case FetchThese(eventorItems) =>
       myParent = Option(sender())
