@@ -18,8 +18,7 @@ trait ParticipationService {
 @Singleton
 class ParticipationServiceImpl extends ParticipationService {
 
-  private final val _2011_1_1 = new DateTime(2014, 1, 1, 0, 0, 0, 0)
-//  private final val _2011_1_1 = new DateTime(2011, 1, 1, 0, 0, 0, 0)
+  private final val _2011_1_1 = new DateTime(2011, 1, 1, 0, 0, 0, 0)
 
   def findRaces(participation: List[Participation]): List[Race] = {
     participation.map(p => p.races).flatMap(l => l).distinct    

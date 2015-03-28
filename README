@@ -38,8 +38,10 @@ choose addon for mongodb
 set property value for eventor
 
     heroku config:set EVENTOR_API_KEY="the_api_key"
+    heroku config:set APPLICATION_SECRET="the_api_key"
 
 check that config values look ok
 
     heroku config
 
+apply db
