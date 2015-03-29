@@ -47,3 +47,11 @@ check that config values look ok
 apply db-scripts by connecting to mongo instance. password can be found in config var for mongo (see previous step)
 
     mongo ds039880.mongolab.com:39880/heroku_app35321103 -u <dbuser> -p <dbpassword>
+
+view real-time log
+
+    heroku logs --tail
+
+view last 200 lines:
+
+    heroku logs -n 200
