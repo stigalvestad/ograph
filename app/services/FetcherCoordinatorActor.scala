@@ -21,7 +21,7 @@ class FetcherCoordinatorActor(eventorFetcher: EventorFetcher, logDAO: LogDAO, pa
       sender ! CurrentStatus(fetchersStatus.values.toList)
     case FetchThese(eventorItems) =>
       myParent = Option(sender())
-      log.warning(s"Asked to coordinate fetching these: ${eventorItems.map(_.id + ",")}")
+      log.warning(s"Asked to coordinate fetching these ${eventorItems.size} items: ${eventorItems.map(_.id + ",")}")
       eventorItems.map(eventorItem => {
         val fetcher = context.actorOf(FetcherRaceResultActor.props(eventorItem,
           eventorFetcher, logDAO, parserService, resultDAO, runnerDAO, resultEnhancer), s"fetcher_rr_${eventorItem.id}")

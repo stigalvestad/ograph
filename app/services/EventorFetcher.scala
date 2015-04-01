@@ -22,7 +22,7 @@ class EventorFetcherSimple extends EventorFetcher {
   private final val logger: Logger = LoggerFactory.getLogger(classOf[EventorFetcherSimple])
 
   def getResource(url: String): Future[WSResponse] = {
-    logger.info(s"GET $url with timeout=$EVENTOR_TIMEOUT_SEC sec")
+    logger.warn(s"GET $url with timeout=$EVENTOR_TIMEOUT_SEC sec")
     WS.url(url).withHeaders("ApiKey" -> EVENTOR_API_KEY).withRequestTimeout(EVENTOR_TIMEOUT_SEC * 1000).get()
   }
   

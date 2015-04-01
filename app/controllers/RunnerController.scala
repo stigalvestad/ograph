@@ -1,8 +1,6 @@
 package controllers
 
 import java.net.ConnectException
-import java.util.UUID
-
 import javax.inject.{Inject, Singleton}
 
 import akka.actor.ActorRef
@@ -12,14 +10,13 @@ import dao.{LogDAO, ParticipationDAO, RaceResultDAO, RunnerDAO}
 import models.Models.logFormat
 import org.joda.time.DateTime
 import org.slf4j.{Logger, LoggerFactory}
+import play.api.Play.current
 import play.api._
 import play.api.libs.concurrent.Akka
-import play.api.Play.current
 import play.api.libs.json.Json
 import play.api.mvc._
 import services.FetcherCoordinatorActor._
-import services.OgraphConstants.EVENTOR_BASE_URL
-import services.OgraphConstants.COORDINATOR_TIMEOUT_SEC
+import services.OgraphConstants.{COORDINATOR_TIMEOUT_SEC, EVENTOR_BASE_URL}
 import services._
 
 import scala.concurrent.duration._
@@ -33,8 +30,6 @@ class RunnerController @Inject() (eventorFetcher: EventorFetcher, logDAO: LogDAO
 
   private final val logger: Logger = LoggerFactory.getLogger(classOf[RunnerController])
   private final val RUNNER = "Runner"
-  private val timeout_coordinator = Timeout(COORDINATOR_TIMEOUT_SEC seconds)
-
   implicit val context = scala.concurrent.ExecutionContext.Implicits.global
 
 
@@ -43,14 +38,14 @@ class RunnerController @Inject() (eventorFetcher: EventorFetcher, logDAO: LogDAO
     val toFetch = raceEventorIds.split("-").map{raceEvId =>
       EventorItem(createRaceResultUrl(raceEvId), raceEvId)}.distinct.toList
 
-    (createCoordinatorActor(jobId) ? FetchThese(toFetch))(timeout_coordinator)
+    (createCoordinatorActor(jobId) ? FetchThese(toFetch))(Timeout((COORDINATOR_TIMEOUT_SEC * toFetch.size) seconds))
       .mapTo[CurrentStatus].map(onSuccess) recover(onFailure)
   }
 
   def getJobStatus(jobId: String) = Action.async {
     val jobCoordinator = Akka.system.actorSelection(s"/user/cord_$jobId")
 
-    (jobCoordinator ? GetStatus)(timeout_coordinator)
+    (jobCoordinator ? GetStatus)(Timeout(COORDINATOR_TIMEOUT_SEC seconds))
       .mapTo[CurrentStatus].map(onSuccess) recover(onFailure)
   }
 
