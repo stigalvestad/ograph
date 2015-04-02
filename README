@@ -35,6 +35,10 @@ choose addon for mongodb
 
     heroku addons:add mongolab:sandbox
 
+and addon for papertrail logging
+
+    heroku addons:add papertrail
+
 set property value for eventor
 
     heroku config:set EVENTOR_API_KEY="the_api_key"
@@ -55,3 +59,4 @@ view real-time log
 view last 200 lines:
 
     heroku logs -n 200
+

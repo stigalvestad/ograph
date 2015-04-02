@@ -92,41 +92,8 @@ ographDirectives.directive('resultsGraph', function() {
                             startOnTick: false
 				        },
 				        tooltip: newDataWithConfig.config.tooltip,
-                        //plotOptions: {
-                        //    spline: {
-                        //        marker: {
-                        //            radius: 4,
-                        //            lineColor: '#666666',
-                        //            lineWidth: 1
-                        //        }
-                        //    }
-                        //    //series: {
-                        //    //    cursor: 'pointer',
-                        //    //    point: {
-                        //    //        events: {
-                        //    //            click: function (e) {
-                        //    //                console.log('clicked event x=' + this.x + ' y=' + this.y);
-                        //    //                //hs.htmlExpand(null, {
-                        //    //                //    pageOrigin: {
-                        //    //                //        x: e.pageX || e.clientX,
-                        //    //                //        y: e.pageY || e.clientY
-                        //    //                //    },
-                        //    //                //    headingText: this.series.name,
-                        //    //                //    maincontentText: Highcharts.dateFormat('%A, %b %e, %Y', this.x) + ':<br/> ' +
-                        //    //                //    this.y + ' visits',
-                        //    //                //    width: 200
-                        //    //                //});
-                        //    //            }
-                        //    //        }
-                        //    //    },
-                        //    //    marker: {
-                        //    //        lineWidth: 1
-                        //    //    }
-                        //    //}
-                        //},
 				        series: newDataWithConfig.series
 				    };
-                debugger;
 				graphSeed.highcharts(hcConfigAndData);
 			}
 		}, true);
