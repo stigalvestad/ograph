@@ -23,6 +23,13 @@ object Models {
   
   case class Participation(runnerEventorId: String, from: DateTime, to: DateTime, races: List[Race])
 
+  /**
+   * TODO It is possible to get more useful info about a race
+   * Ask for https://eventor.orientering.no/api/event/{raceEventorId}
+   * Then I can get:
+   *  -     <EventRace raceDistance="Sprint Middle Long UltraLong" raceLightCondition="Day Night DayAndNight">
+   *  -     <EventCenterPosition y="58.67229" x="5.65137"/>
+   */
   case class Race(eventorId: String, name: String, raceDate: DateTime, classificationId: Int, statusId: Int, url: Option[String])
 
   case class RaceClass(eventorId: String, race: Race, name: String, nofStarts: Option[Int], distance: Option[Double])

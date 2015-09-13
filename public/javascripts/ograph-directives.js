@@ -14,10 +14,11 @@ ographDirectives.directive('runnerSearch', [ 'Runner', function(Runner) {
 
 		scope.findRunner = function() {
 			scope.pleaseWait = true;
-			scope.hasSearched = true;
+            scope.hasSearched = false;
 			runners = Runner.all({
 				searchTerm : scope.searchExpression
 			}, function() {
+                scope.hasSearched = true;
 				scope.runnerSearchResults = runners;
 			});
 		}
